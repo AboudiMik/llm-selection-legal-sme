@@ -1,0 +1,1 @@
+{"spans": ["In case the Contract cannot be performed due to any reason other than the architect herein, the client agrees the fees paid will not be refunded. In case the Contract cannot be performed due to the architect herein, the architect shall refund the fees paid in full without taking any interest to the client."]}

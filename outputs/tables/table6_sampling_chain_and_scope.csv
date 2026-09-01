@@ -1,0 +1,5 @@
+Step,Contracts,Reason for the reduction
+"CUAD v1, full corpus",510,"— (starting point: the recognised expert-annotated benchmark for legal contract review, CC BY 4.0)"
+Available as plain text,200,The public repository ships plain text for 200 contracts only; the remaining 310 exist as PDF. Extracting text from PDFs would introduce an OCR error source into the ground truth itself.
+Joins cleanly to the annotation file,194,"Six filenames fail the join on punctuation differences. Hand-editing filenames to force a match would be an undocumented manipulation of the ground-truth link, and 194 already far exceeded the target."
+Sampled for this study,40,"Top of the pre-registered 30–50 range; balances statistical power against the API budget and the eight-day empirical window. Stratified by word count into three strata (13 short / 13 medium / 14 long), random_state = 42."

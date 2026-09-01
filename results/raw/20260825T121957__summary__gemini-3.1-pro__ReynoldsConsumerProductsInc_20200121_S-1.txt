@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Reynolds Group Holdings Inc. (Provider/Recipient)",
+    "Reynolds Consumer Products Inc. (Provider/Recipient)"
+  ],
+  "purpose": "To facilitate the separation of Reynolds Consumer Products Inc. from Reynolds Group Holdings Inc. following an initial public offering by establishing the terms under which each party will provide transitional services to the other.",
+  "key_obligations": [
+    "RGHI must provide Transition Services and IT Migration Services to RCP as detailed in Exhibit A.",
+    "RCP must provide Reverse Transition Services to RGHI as detailed in Exhibit B.",
+    "The Provider must perform services at a quality substantially similar to the 12-month period prior to the agreement and in accordance with applicable laws.",
+    "The Recipient must pay the specified fees, out-of-pocket expenses, and applicable taxes for the services received.",
+    "Both parties must protect Confidential Information, comply with security regulations, and cooperate to obtain necessary third-party consents.",
+    "RCP must use commercially reasonable efforts to replace, cash collateralize, or backstop all RGHI Letters of Credit and Guarantees."
+  ],
+  "term": "Commences on the agreement date and terminates when the term for all individual services has expired (individual service terms range from 12 to 24 months as specified in the Exhibits).",
+  "risks": [
+    "Liability Cap: A party's liability is limited to the fees paid for the specific service that resulted in the loss.",
+    "Damage Waivers: Neither party is liable for indirect, special, punitive, or consequential damages, or lost profits/revenues.",
+    "Warranty Disclaimer: Services are provided 'AS IS' with all implied warranties disclaimed.",
+    "Exclusive Remedy: Indemnification is the sole monetary remedy for breach, and repeat performance or fee refund is the sole remedy for breach of the Service Standard (except for willful misconduct).",
+    "Termination for Convenience: The receiving party may generally terminate individual services for convenience upon 30 days' notice, triggering an obligation to pay unamortized costs.",
+    "IP Restrictions: No IP ownership is transferred; RCP must cease using 'Reynolds' corporate names and trademarks by the third anniversary of the Commencement Date unless separately licensed."
+  ]
+}

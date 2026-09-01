@@ -1,0 +1,12 @@
+[deepseek-v4-pro] 240 calls to do (0 already done). Estimated cost: $2.07
+  [deepseek-v4-pro] 24/240 done
+  [deepseek-v4-pro] 48/240 done
+  [deepseek-v4-pro] 72/240 done
+  [deepseek-v4-pro] 96/240 done
+  [deepseek-v4-pro] 120/240 done
+  [deepseek-v4-pro] 144/240 done
+  [deepseek-v4-pro] 168/240 done
+  [deepseek-v4-pro] 192/240 done
+  [deepseek-v4-pro] 216/240 done
+  [deepseek-v4-pro] 240/240 done
+[deepseek-v4-pro] COMPLETE: 240/240 calls ok, parse ok 240, cost $2.07

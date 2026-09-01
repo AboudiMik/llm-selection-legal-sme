@@ -1,0 +1,16 @@
+task,model,D1_completeness,D2_trustworthiness,D3_cost,D4_speed,D5_operational_reliability
+extraction,claude-sonnet-5,0.786,0.6665,0.2617,4.41,1.0
+qa,claude-sonnet-5,0.775,0.632,0.1248,2.3,1.0
+summarisation,claude-sonnet-5,0.646,0.9875,0.0559,15.86,1.0
+extraction,deepseek-v4-pro,0.679,0.8,0.0517,1.83,1.0
+qa,deepseek-v4-pro,0.8167,0.786,0.0253,1.31,1.0
+summarisation,deepseek-v4-pro,0.486,0.9875,0.0096,5.74,1.0
+extraction,gemini-3.1-pro,0.711,0.7325,0.162,10.27,0.9917
+qa,gemini-3.1-pro,0.825,0.727,0.0778,6.11,1.0
+summarisation,gemini-3.1-pro,0.436,0.9938,0.0314,19.78,1.0
+extraction,gpt-5.6-terra,0.727,0.568,0.1677,5.55,0.9917
+qa,gpt-5.6-terra,0.7917,0.688,0.0766,4.67,1.0
+summarisation,gpt-5.6-terra,0.649,1.0,0.0375,13.73,0.975
+extraction,llama-3.3-70b,0.674,0.455,0.0809,2.73,0.9292
+qa,llama-3.3-70b,0.8083,0.675,0.04,1.58,1.0
+summarisation,llama-3.3-70b,0.229,0.95,0.0137,10.43,1.0

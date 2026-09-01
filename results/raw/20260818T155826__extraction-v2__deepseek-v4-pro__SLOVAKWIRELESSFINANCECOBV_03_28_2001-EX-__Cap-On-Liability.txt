@@ -1,0 +1,1 @@
+{"spans": ["Sicap Ltd's liability for indirect loss, including consequential loss, loss of profit, lost savings and loss caused by interruption of operations is excluded.", "No right to damages shall ever arise unless EuroTel reports the loss to Sicap Ltd in writing as soon as possible after it has arisen."]}

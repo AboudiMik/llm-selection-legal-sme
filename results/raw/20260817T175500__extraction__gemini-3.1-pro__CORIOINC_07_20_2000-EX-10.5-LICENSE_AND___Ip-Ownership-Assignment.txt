@@ -1,0 +1,3 @@
+{
+  "spans": [
+    "13.5    Ownership. Subject to Commerce One's pre-existing ownership of any\n         materials or technology provided to Corio, the results of all such\n         development efforts set forth in this Section 13, including all\n         intellectual property rights in any software interface coding or\n         programs

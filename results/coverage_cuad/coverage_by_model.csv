@@ -1,0 +1,6 @@
+model,checks,coverage_all,checks_high_conf,coverage_high_conf
+gpt-5.6-terra,313,0.649,234,0.667
+claude-sonnet-5,319,0.646,238,0.689
+deepseek-v4-pro,319,0.486,238,0.525
+gemini-3.1-pro,319,0.436,238,0.479
+llama-3.3-70b,319,0.229,238,0.286

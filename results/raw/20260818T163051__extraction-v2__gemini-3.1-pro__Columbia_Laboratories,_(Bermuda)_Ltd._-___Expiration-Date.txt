@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "\"12.1 Term. Unless terminated earlier pursuant to Section 12.2 below, the initial term of this Agreement shall expire on 31 December 2024 (the \"Initial Term\") unless the Parties mutually agree in writing any extension to the Initial Term. Upon termination of this Agreement, Fleet agrees to perform its obligations under this Agreement until the earlier of [***].\""
+  ]
+}

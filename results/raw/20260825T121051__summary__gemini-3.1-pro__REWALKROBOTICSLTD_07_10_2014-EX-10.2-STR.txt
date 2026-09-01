@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Yaskawa Electric Corporation (YEC) (collaborator, investor, and exclusive distributor)",
+    "Argo Medical Technologies Ltd. (ARGO) (collaborator and product developer)"
+  ],
+  "purpose": "To establish a strategic alliance for the evaluation, development, marketing, and commercialization of healthcare robotics products, including the exclusive distribution of ARGO's products by YEC and the improvement of ARGO's products using YEC's expertise.",
+  "key_obligations": [
+    "Both parties: Enter into a separate Share Purchase Agreement (SPA), Distribution Agreement (DA), and a new Confidentiality and Non-Disclosure Agreement (New NDA).",
+    "Both parties: Form a Joint Steering Committee meeting at least four times per year to review progress, set targets, and discuss improvements and future R&D.",
+    "Both parties: Refrain from soliciting or hiring the other party's personnel during the collaboration and for 12 months following its expiration or termination.",
+    "ARGO: Appoint YEC as the exclusive distributor of its products in the specified territory, pursuant to the DA.",
+    "YEC: Purchase Series D-1 Convertible Preferred Shares of ARGO, pursuant to the SPA.",
+    "YEC: Market and distribute ARGO's products in a professional manner, pursuant to the DA."
+  ],
+  "term": "Initial term of 10 years from September 24, 2013. Renewable by written agreement at least 30 days before expiration. After the 7th anniversary, either party may terminate upon 60 days' prior written notice.",
+  "risks": [
+    "Unilateral termination right: Either party may terminate the agreement without cause upon 60 days' notice anytime after the 7th anniversary.",
+    "Exclusivity: ARGO is bound to appoint YEC as its exclusive distributor in the specified territory under the concurrent Distribution Agreement.",
+    "IP Warranty Disclaimer: All intellectual property is provided 'as is' without any express or implied warranties, including merchantability, fitness for a particular purpose, and non-infringement.",
+    "Non-solicitation restriction: Both parties are restricted from hiring the other's personnel for 12 months post-termination, enforceable by specific performance and injunctive relief without the requirement to post a bond.",
+    "Fee shifting: The defaulting or losing party in any litigation must reimburse the prevailing party for all costs and expenses, including attorney's fees."
+  ]
+}

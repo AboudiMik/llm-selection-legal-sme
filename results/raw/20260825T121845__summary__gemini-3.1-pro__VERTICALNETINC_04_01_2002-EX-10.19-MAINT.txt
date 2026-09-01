@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "VerticalNet, Inc. (VNI) and VerticalNet Enterprises LLC (VNE) (collectively 'Vert') (service providers)",
+    "Converge, Inc. (Converge) (customer)"
+  ],
+  "purpose": "This agreement establishes the terms under which Vert will provide maintenance, support, and professional services to Converge for proprietary software products previously licensed to Converge.",
+  "key_obligations": [
+    "VNE must provide maintenance and support services, including delivering maintenance updates and responding to problem reports and support requests.",
+    "VNE must provide professional services, such as training and developing requested enhancements, subject to a defined quarterly allocation of hours.",
+    "Converge must provide Level 1 help-desk support to its users and perform initial problem isolation before escalating issues to VNE.",
+    "Converge must pay an Initial Term Minimum Fee of $4,500,000 in 18 equal monthly installments of $250,000, plus reimburse reasonable expenses and pay for out-of-scope services.",
+    "Converge must provide VNE with remote access to its servers to allow VNE to perform the support services."
+  ],
+  "term": "Initial term from October 1, 2001 to March 31, 2003; renewable only upon mutual written agreement for up to three additional one-year terms.",
+  "risks": [
+    "Liability cap: A party's maximum liability is limited to the amounts paid by Converge for the specific enhancement, or for support services, the amounts paid during the three months immediately preceding the claim.",
+    "Damage exclusions: Both parties disclaim liability for special, incidental, exemplary, or consequential damages, including lost profits, and Vert disclaims liability for data loss or usage interruption.",
+    "IP Ownership: Vert retains sole ownership of all Converge-Requested Enhancements, and Converge grants Vert a broad, perpetual, worldwide license to use Converge-Independent Materials.",
+    "Non-solicitation: Mutual restriction on soliciting the other party's employees or independent contractors during the term and for one year thereafter.",
+    "Tax gross-up: Converge must gross up payments to VNE if Converge reorganizes as a foreign entity and payments become subject to withholding taxes.",
+    "Automatic termination: The agreement automatically terminates if the underlying Subscription License Agreement is terminated."
+  ]
+}

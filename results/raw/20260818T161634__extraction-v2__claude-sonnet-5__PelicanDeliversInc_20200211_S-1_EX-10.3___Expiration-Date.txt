@@ -1,0 +1,1 @@
+{"spans": ["Unless otherwise provided herein, this Agreement will commence on the Effective Date and continue through the completion or termination of Developer's services and work product as mutually agreed upon between the Parties (the Project)."]}

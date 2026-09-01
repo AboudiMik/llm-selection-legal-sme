@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Freeze Tag Inc. (Company/Sponsor)",
+    "American Diabetes Association, Inc. (Association/Sponsored Organization)"
+  ],
+  "purpose": "This agreement establishes a corporate sponsorship where Freeze Tag Inc. supports the American Diabetes Association's mission, specifically as a National Sponsor of Get Fit Don't Sit Day, in exchange for promotional recognition and limited use of the Association's marks.",
+  "key_obligations": [
+    "Company must pay a total cash rights fee of $150,000 to the Association in scheduled installments.",
+    "Company must develop a customized ZeeTour app to run a voluntary pin pad/POS donation campaign for Association events.",
+    "Company must maintain Commercial General Liability Insurance of at least $2,000,000 per occurrence and aggregate, naming the Association as an additional insured.",
+    "Company must submit all materials featuring Association Marks to the Association for prior written approval.",
+    "Association must acknowledge Company as a national sponsor across various media channels, including its website, press releases, e-newsletters, and social media.",
+    "Association must grant Company a non-exclusive, limited, revocable license to use its marks solely to identify Company as a supporter."
+  ],
+  "term": "Commences on March 15, 2018, and expires on March 14, 2020, unless terminated earlier.",
+  "risks": [
+    "Either party may terminate the agreement on 10 business days' notice if it determines in its sole discretion that continuation will damage its reputation or goodwill.",
+    "Either party may terminate the agreement if the other party is subject to a change of control (except for an initial public offering).",
+    "Failure by the Company to obtain advance approval for materials featuring Association Marks may be considered a breach resulting in immediate cancellation.",
+    "Both parties are subject to mutual indemnification obligations for claims arising from their respective negligent acts or omissions.",
+    "The Association retains sole discretion to approve or disapprove the use of its marks and may withhold consent for third-party usage for any reason."
+  ]
+}

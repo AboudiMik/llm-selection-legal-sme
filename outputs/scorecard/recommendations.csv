@@ -1,0 +1,4 @@
+,extraction,qa,summarisation
+cost-constrained,deepseek,deepseek,deepseek
+confidentiality-constrained,deepseek,deepseek,deepseek
+quality-critical,deepseek,deepseek,gpt

@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Corio Inc. (licensee and hosting provider)",
+    "Commerce One, Inc. (licensor and software owner)"
+  ],
+  "purpose": "This agreement grants Corio a license to host, use, and sublicense Commerce One's proprietary software and MarketSite.net Service to its customers, and establishes terms for joint marketing, support, and revenue sharing.",
+  "key_obligations": [
+    "Commerce One must grant Corio licenses to host, use, demonstrate, and distribute the software.",
+    "Commerce One must deliver the software, provide installation and implementation support, and supply ongoing maintenance and training.",
+    "Commerce One must deposit the software source code into an escrow account.",
+    "Corio must pay license, maintenance, support, and revenue-sharing fees to Commerce One.",
+    "Corio must secure binding end-user license agreements from its customers before granting them access to the software.",
+    "Corio must provide routine technical support to its customers and maintain accurate financial records subject to audit by Commerce One."
+  ],
+  "term": "Initial term of five (5) years, automatically renewing for successive one (1) year periods unless either party provides written notice of termination at least 30 days prior to the expiration of the current term.",
+  "risks": [
+    "Liability cap: Each party's liability is limited to the amounts paid by Corio for the relevant transaction in the 12 months preceding the claim (excluding IP indemnification).",
+    "Exclusion of damages: Neither party is liable for lost profits, substitute goods, or indirect, special, or consequential damages.",
+    "IP Indemnity: Commerce One must indemnify Corio against third-party intellectual property infringement claims.",
+    "Termination rights: Either party may terminate for an uncured material breach (after a 30-day cure period) or immediately upon the other party's insolvency.",
+    "Audit penalty: Corio must reimburse Commerce One for audit costs if an inspection reveals an underpayment of more than 5%.",
+    "IP Ownership: Corio owns interface developments it creates solely, but if Commerce One provides ongoing support for them, Commerce One retains ownership."
+  ]
+}

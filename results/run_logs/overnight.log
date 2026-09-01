@@ -1,0 +1,192 @@
+[2026-08-18T22:24:32Z] overnight script started
+[2026-08-18T22:24:32Z] window open — starting
+gemini extraction: dropping 17 error rows, 223 kept
+[gemini-3.1-pro] 17 calls to do (223 already done). Estimated cost: $6.05
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__GRANTIERRAENERGYINC_05_07_2012-EX-10.6-T__Ip-Ownership-Assignment: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__GRANTIERRAENERGYINC_05_07_2012-EX-10.6-T__Non-Compete: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Governing-Law: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Expiration-Date: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Termination-For-Convenience: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Cap-On-Liability: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Ip-Ownership-Assignment: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-__Non-Compete: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Governing-Law: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Expiration-Date: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Termination-For-Convenience: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Cap-On-Liability: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Ip-Ownership-Assignment: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+  [gemini-3.1-pro] CALL ERROR on extraction-v2__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K__Non-Compete: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/g
+[gemini-3.1-pro] COMPLETE: 226/240 calls ok, parse ok 226, cost $4.80
+[gemini-3.1-pro] QA: 120 calls to do (0 done). Estimated: $3.14
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] 24/120
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] 48/120
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] 72/120
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] 96/120
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] CALL ERROR: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check you
+  [gemini-3.1-pro] 120/120
+[gemini-3.1-pro] QA COMPLETE: 0/120 ok, cost $0.00
+          model  yn_balanced_acc  yn_pos_precision  yn_pos_recall  yn_raw_acc  ft_auto_correct  ft_wrong  ft_pending_judge  ft_accuracy
+claude-sonnet-5            0.744             0.632          0.774       0.738               34         5                 1        0.872
+deepseek-v4-pro            0.794             0.786          0.710       0.812               33         5                 2        0.868
+ gemini-3.1-pro              NaN               NaN            NaN         NaN                0         0                 0          NaN
+  gpt-5.6-terra            0.753             0.688          0.710       0.762               34         4                 2        0.895
+  llama-3.3-70b            0.803             0.675          0.871       0.787               33         3                 4        0.917
+
+9 items queued for judge -> /Users/boudz/Documents/Msc/Dissertation/results/judge_queue.csv
+5 adjudications to run (4 already done)
+Traceback (most recent call last):
+  File "/Users/boudz/Documents/Msc/Dissertation/src/run_judge.py", line 125, in <module>
+    main()
+  File "/Users/boudz/Documents/Msc/Dissertation/src/run_judge.py", line 83, in main
+    out = call_model(
+  File "/Users/boudz/Documents/Msc/Dissertation/src/llm_client.py", line 150, in call_model
+    tin, tout = usage.prompt_tokens, usage.completion_tokens
+AttributeError: 'NoneType' object has no attribute 'prompt_tokens'
+          model  yn_balanced_acc  yn_pos_precision  yn_pos_recall  yn_raw_acc  ft_auto_correct  ft_wrong  ft_pending_judge  ft_accuracy
+claude-sonnet-5            0.744             0.632          0.774       0.738               34         6                 0        0.850
+deepseek-v4-pro            0.794             0.786          0.710       0.812               33         7                 0        0.825
+ gemini-3.1-pro              NaN               NaN            NaN         NaN                0         0                 0          NaN
+  gpt-5.6-terra            0.753             0.688          0.710       0.762               34         6                 0        0.850
+  llama-3.3-70b            0.803             0.675          0.871       0.787               33         3                 4        0.917
+
+4 items queued for judge -> /Users/boudz/Documents/Msc/Dissertation/results/judge_queue.csv
+Scores at tau=0.25 (prompt condition: v2):
+          model  span_precision  span_recall  span_f1  span_tp  span_pred  span_gold  yn_balanced_acc  yn_pos_precision  yn_pos_recall  yn_raw_acc
+claude-sonnet-5           0.551        0.786    0.648      147        267        187            0.857             0.675          0.964       0.825
+deepseek-v4-pro           0.734        0.679    0.706      127        173        187            0.896             0.768          0.946       0.881
+ gemini-3.1-pro           0.654        0.636    0.645      119        182        187            0.806             0.692          0.804       0.806
+  gpt-5.6-terra           0.489        0.727    0.585      136        278        187            0.777             0.571          0.929       0.731
+  llama-3.3-70b           0.381        0.674    0.486      126        331        187            0.714             0.495          0.946       0.644
+
+saved /Users/boudz/Documents/Msc/Dissertation/results/full_scores_v2.csv
+
+Per-stratum span scores:
+                     P                    R                   F1              
+stratum           long medium  short   long medium  short   long medium  short
+model                                                                         
+claude-sonnet-5  0.559  0.463  0.750  0.792  0.721  0.900  0.655  0.564  0.818
+deepseek-v4-pro  0.750  0.679  0.786  0.719  0.590  0.733  0.734  0.632  0.759
+gemini-3.1-pro   0.667  0.614  0.710  0.562  0.705  0.733  0.610  0.656  0.721
+gpt-5.6-terra    0.496  0.431  0.605  0.688  0.721  0.867  0.576  0.540  0.712
+llama-3.3-70b    0.474  0.306  0.333  0.667  0.623  0.800  0.554  0.411  0.471
+[2026-08-18T22:30:19Z] overnight script finished
+[2026-08-18T22:31:37Z] overnight script started

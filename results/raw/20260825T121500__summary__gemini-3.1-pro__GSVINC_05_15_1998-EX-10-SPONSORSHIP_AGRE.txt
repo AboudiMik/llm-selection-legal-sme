@@ -1,0 +1,21 @@
+{
+  "parties": [
+    "Excite, Inc. (Excite)",
+    "CyberShop (Client)"
+  ],
+  "purpose": "This agreement establishes a sponsorship arrangement where Excite promotes CyberShop's online department store across the Excite Network in exchange for fixed fees and a variable revenue share.",
+  "key_obligations": [
+    "Excite must display Client's promotional links and banner advertisements across various Excite and WebCrawler channels.",
+    "Excite must deliver specified numbers of impressions and clickthroughs and provide monthly performance reports.",
+    "Client must pay fixed monthly sponsorship and advertising fees, plus a variable revenue share based on sales generated from the Excite links.",
+    "Client must share collected User Data with Excite monthly and maintain accurate records for revenue share calculations."
+  ],
+  "term": "Begins on the Launch Date and continues until Excite delivers a specified number of impressions and clickthroughs, with a minimum duration of two years, subject to early termination rights.",
+  "risks": [
+    "Client has a unilateral right to terminate if Excite fails to deliver the targeted number of clickthroughs within 16 months of the Launch Date.",
+    "Both parties provide mutual indemnities for breaches, with Client specifically indemnifying Excite for IP infringement by its banners and content on the Client Site.",
+    "Liability for both parties is capped at the total amounts paid by Client to Excite, and neither party is liable for special, incidental, or consequential damages.",
+    "Client is prohibited from using jointly-owned User Data to solicit Excite users during the term and for 12 months after termination.",
+    "Both parties are subject to financial and performance audit rights, which could result in paying the costs of the audit if discrepancies exceed 5%."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Harpoon Therapeutics, Inc. (licensor/developer)",
+    "AbbVie Biotechnology Ltd (licensee/optionee)"
+  ],
+  "purpose": "This agreement establishes a framework for Harpoon to conduct initial development of specific therapeutic compounds and grants AbbVie an exclusive option to acquire a worldwide license to further develop and commercialize the resulting products.",
+  "key_obligations": [
+    "Harpoon must perform initial development activities according to the agreed Initial Development Plan and provide AbbVie with comprehensive development reports.",
+    "Harpoon must grant AbbVie an exclusive, worldwide license to exploit the licensed products upon AbbVie's exercise of the license option.",
+    "AbbVie must pay a $30 million upfront fee, along with subsequent milestone payments and royalties on net sales if it exercises the license option.",
+    "AbbVie must use commercially reasonable efforts to develop and commercialize the licensed products in major markets after exercising its option."
+  ],
+  "term": "Commences on November 20, 2019, and continues until the expiration of the last Royalty Term for the last Licensed Product, or expires earlier if AbbVie fails to exercise its license option within the specified period.",
+  "risks": [
+    "AbbVie holds a unilateral right to terminate the agreement in its entirety or on a country-by-country basis for any reason with 90 days' written notice.",
+    "Harpoon is subject to strict exclusivity and non-compete covenants preventing it from developing or commercializing competing products worldwide.",
+    "If Harpoon undergoes a change of control involving a competitor, AbbVie may disband the Joint Governance Committee and terminate certain confidentiality and information-sharing obligations.",
+    "Both parties exclude liability for indirect, special, punitive, or consequential damages, except in cases of fraud, gross negligence, or breaches of confidentiality and exclusivity.",
+    "The contract contains mutual indemnification obligations for third-party claims arising from negligence, willful misconduct, or material breaches.",
+    "Upon termination under certain conditions, intellectual property rights revert to Harpoon, and AbbVie may be required to grant Harpoon a royalty-bearing license to AbbVie's reversion IP."
+  ]
+}

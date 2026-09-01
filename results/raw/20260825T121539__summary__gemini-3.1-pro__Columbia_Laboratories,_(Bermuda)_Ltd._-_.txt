@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Columbia Laboratories, (Bermuda) Ltd. (Purchaser)",
+    "Fleet Laboratories Limited (Manufacturer/Supplier)"
+  ],
+  "purpose": "To amend an existing Manufacturing and Supply Agreement, updating provisions regarding regulatory compliance, raw materials, equipment ownership and maintenance, pricing, indemnities, and termination rights.",
+  "key_obligations": [
+    "Fleet must manufacture and supply Products according to Columbia's production schedules and comply with regulatory standards including ANVISA, cGMP, and GDP.",
+    "Fleet must maintain, safely operate, and keep free of liens the manufacturing equipment owned by Columbia.",
+    "Columbia must provide rolling production schedules, including binding purchase orders and non-binding forecasts.",
+    "Columbia must pay the agreed purchase price for the Products and reimburse Fleet for reasonable maintenance costs of Columbia's equipment.",
+    "Both parties must maintain comprehensive general liability and product liability insurance."
+  ],
+  "term": "Expires on 31 December 2024, unless terminated earlier or mutually extended in writing.",
+  "risks": [
+    "Columbia holds unilateral termination rights if Fleet loses regulatory authorizations, undergoes a change of control, fails to supply at a competitive price, or if the Ares Agreement is terminated.",
+    "Fleet indemnifies Columbia for breaches, failure to meet specifications or delivery times, manufacturing IP infringement, and personal injury or property damage resulting from Fleet's manufacturing failures.",
+    "Columbia indemnifies Fleet for post-delivery product handling, product liability and wrongful death claims, breaches, and IP infringement.",
+    "Columbia retains title to specific equipment and raw materials; Fleet must repair or replace Columbia's equipment at its own cost if damaged due to Fleet's negligence or willful misconduct.",
+    "Immediate termination without liability is permitted for a material breach of the anti-bribery and anti-corruption provisions."
+  ]
+}

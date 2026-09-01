@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "14.3    Choice of Law; Arbitration; Venue. This Agreement shall be governed by         the laws of the State of California, USA, excluding conflict of laws         provisions and excluding the 1980 United Nations Convention on Contracts         for the International Sale of Goods. Any disputes arising out of this         Agreement shall be resolved by binding arbitration in accordance with         the then-current commercial arbitration rules of the American         Arbitration Association (\"RULES\"). The arbitration shall be conducted by         one (1) arbitrator appointed in accordance with the Rules in San         Francisco County, California. A judgment upon the award may be entered         in any court having jurisdiction of the parties, including without         limitation the courts in San Francisco, California. The non-prevailing         party in the arbitration shall pay all fees and charges of the American         Arbitration Association; each party, however, shall be responsible for         the payment of all fees and expenses connected with the presentation of         its respective case."
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "Contractor agrees that the Manufacturing Outsourcing Services will be performed in a dedicated space in Contractor's facility in which no production of competing products will be conducted."
+  ]
+}

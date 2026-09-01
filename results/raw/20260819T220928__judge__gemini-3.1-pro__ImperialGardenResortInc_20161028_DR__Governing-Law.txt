@@ -1,0 +1,1 @@
+{"verdict": "correct", "reasoning": "R.O.C. stands for the Republic of China, which is the official

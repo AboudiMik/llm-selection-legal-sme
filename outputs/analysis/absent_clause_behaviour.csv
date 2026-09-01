@@ -1,0 +1,6 @@
+model,absent_items,correctly_silent,silence_rate,spans_invented_on_absent,present_items,found_something,invented_per_absent_item
+claude-sonnet-5,119,93,0.782,57,121,0.967,0.48
+deepseek-v4-pro,119,103,0.866,26,121,0.967,0.22
+gemini-3.1-pro,119,96,0.807,39,121,0.934,0.33
+gpt-5.6-terra,119,77,0.647,90,121,0.967,0.76
+llama-3.3-70b,119,63,0.529,143,121,0.909,1.2

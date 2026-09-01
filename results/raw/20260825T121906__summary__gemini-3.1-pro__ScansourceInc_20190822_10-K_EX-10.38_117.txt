@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "ScanSource, Inc. (Distributor)",
+    "Cisco Systems, Inc. (Cisco)"
+  ],
+  "purpose": "This agreement appoints ScanSource, Inc. as a nonexclusive value-added distributor of Cisco hardware, software, and services to authorized resellers within the United States.",
+  "key_obligations": [
+    "Distributor must use best efforts to distribute products solely to authorized Resellers within the designated Territory.",
+    "Distributor must provide warranty services and technical support to its Resellers.",
+    "Distributor must maintain accurate records, submit required reports, and allow Cisco to audit its records.",
+    "Cisco must supply accepted orders for products and services and provide partner-level technical support to the Distributor.",
+    "Cisco must provide price protection credits to the Distributor for products in inventory or in-transit if Cisco announces a general price decrease."
+  ],
+  "term": "Two (2) years from the Effective Date, with Cisco having the right to extend the term for up to one (1) additional year via written notice.",
+  "risks": [
+    "Either party may terminate the agreement for convenience without cause upon written notice.",
+    "Cisco may terminate the agreement immediately for Distributor's breach of proprietary rights, trademarks, confidentiality, or export restrictions.",
+    "Liability for both parties is capped at the greater of a specified amount or the amounts paid under the agreement during a specified preceding period, excluding Distributor's breach of IP/software licenses.",
+    "Both parties waive consequential, special, and indirect damages, except for Distributor's breach of IP/software licenses.",
+    "Distributor must indemnify Cisco for unauthorized warranty commitments, misrepresentations, and violations of applicable laws.",
+    "Cisco indemnifies Distributor against third-party intellectual property infringement claims, subject to certain conditions and exceptions."
+  ]
+}

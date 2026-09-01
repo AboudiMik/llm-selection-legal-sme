@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "Except as agreed by the Parties in writing or as otherwise stated in the Exhibits, Company may terminate for convenience any Transition Service, and RGHI may terminate for convenience any Reverse Transition Service, upon 30 days' prior written notice of such termination; provided, (a) that, with respect to the Services described in Section G1 of Exhibit A, unless otherwise indicated therein, those Services may not be terminated independently except in accordance with an agreed Migration Plan and, (b) any unamortized costs associated with Provider's purchase of any license or other costs incurred specifically for the purpose of providing the Services hereunder will be passed through to the Terminating Party."
+  ]
+}

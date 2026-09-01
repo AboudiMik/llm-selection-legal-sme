@@ -1,0 +1,6 @@
+Model,Extraction: F1,"Extraction: cost, US$/contract","Extraction: median latency, s",Q&A: accuracy,"Q&A: cost, US$/contract","Q&A: median latency, s",Summarisation: coverage,"Summarisation: cost, US$/contract","Summarisation: median latency, s"
+Claude Sonnet 5,0.648,0.262,3.41,0.775,0.125,2.22,0.646,0.056,15.92
+DeepSeek V4-Pro,0.706,0.052,1.66,0.817,0.025,1.25,0.486,0.01,5.8
+Gemini 3.1 Pro,0.684,0.162,8.25,0.825,0.078,5.6,0.436,0.031,19.87
+GPT-5.6 Terra,0.585,0.168,3.09,0.792,0.077,1.94,0.649,0.038,13.93
+Llama 3.3 70B,0.486,0.081,2.15,0.808,0.04,0.96,0.229,0.014,10.09

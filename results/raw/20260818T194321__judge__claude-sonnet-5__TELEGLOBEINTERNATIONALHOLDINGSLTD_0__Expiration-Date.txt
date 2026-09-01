@@ -1,0 +1,1 @@
+{"verdict": "incorrect", "reasoning": "The model's answer provides a completely different date (09/30/2026) than the gold reference answer (4/18/25)."}

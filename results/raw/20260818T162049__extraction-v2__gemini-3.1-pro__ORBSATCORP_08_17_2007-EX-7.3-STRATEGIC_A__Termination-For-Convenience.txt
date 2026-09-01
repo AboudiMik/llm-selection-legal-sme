@@ -1,0 +1,6 @@
+{
+  "spans": [
+    "Either party may terminate this Agreement at any time with 30 days written notice.",
+    "Either party may terminate this agreement at any time with 30 days written notice."
+  ]
+}

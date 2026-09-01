@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Marv Enterprises, LLC (patent owner/licensor)",
+    "Premier Biomedical, Inc. (assignor/joint venture partner)",
+    "Technology Health, Inc. (licensee/joint venture partner)"
+  ],
+  "purpose": "To establish a joint venture for developing and commercializing a COVID-19 treatment and to grant Technology Health, Inc. an exclusive license to specific patents owned by Marv Enterprises, LLC.",
+  "key_obligations": [
+    "Technology Health, Inc. (THI) must pay Marv a $20,000 license fee and $80,000 to cover Premier's previously unpaid invoices.",
+    "THI must pay Marv a 5% royalty on the fair market value of licensed products and services, and submit quarterly sales reports.",
+    "THI must pay an additional 5% royalty to designated Premier shareholders until a total of $40,000,000 is paid.",
+    "THI must reimburse Marv for all intellectual property prosecution costs and legal expenses associated with the agreement.",
+    "THI must fund the joint venture by paying $750,000 for antibody development, $1,150,000 for laser technology development, and $500,000 for UK-based R&D.",
+    "Premier and THI must jointly cooperate to develop COVID-19 licensed products.",
+    "All parties must maintain the confidentiality of proprietary and business information."
+  ],
+  "term": "not specified",
+  "risks": [
+    "If THI fails to make required license or joint venture payments by the specified deadlines, the exclusive license automatically reverts to Premier.",
+    "If THI fails to prepay or denies payment for specific intellectual property costs, the rights to those specific patents or applications revert to Marv.",
+    "Overdue royalty payments are subject to a late fee of 3% over the prime rate.",
+    "The agreement prohibits the cancellation or alteration of 150,000,000 stock warrants previously granted to Mitchell S. Felder without his specific request.",
+    "The agreement is a nonexclusive engagement, allowing parties to provide services or products to competing companies."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "FEDERATED INVESTMENT MANAGEMENT COMPANY (Adviser)",
+    "FEDERATED ADVISORY SERVICES COMPANY (FASC)"
+  ],
+  "purpose": "The agreement establishes the terms under which FASC will provide performance attribution, administration, and risk management services to support the Adviser's role as an investment advisor to various accounts.",
+  "key_obligations": [
+    "FASC must provide the services outlined in Exhibit A, including performance attribution and administration/risk management.",
+    "FASC must create, maintain, and provide access to all necessary books and records in compliance with applicable laws, including the Investment Company Act of 1940.",
+    "Adviser must pay FASC a monthly Services Fee calculated based on the cost of services, assets under management, and an applicable margin as detailed in Exhibit B.",
+    "Adviser must indemnify FASC against liabilities and expenses incurred while performing the services, provided FASC acted within the agreed standard of care."
+  ],
+  "term": "Begins January 1, 2004, and continues until terminated by mutual agreement or by either party on at least 60 days' written notice. For registered investment companies receiving investment advisory services, the term continues year-to-year subject to annual Board approval and automatically terminates upon assignment or termination of the underlying Advisory Agreement.",
+  "risks": [
+    "FASC's liability is limited; it is not responsible for errors of judgment or mistakes of law, except for willful malfeasance, bad faith, gross negligence, or reckless disregard.",
+    "Adviser provides a broad indemnity to FASC for actions taken or omitted in performing the services.",
+    "Recourse is limited solely to the assets of the contracting parties; no claims can be made against shareholders, trustees, officers, employees, or agents.",
+    "Unilateral termination right for either party upon 60 days' written notice."
+  ]
+}

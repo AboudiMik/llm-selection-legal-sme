@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Johnson Matthey Catalog Company, Inc., d/b/a ALFA AESAR (Distributor)",
+    "Nanophase Technologies Corporation (Manufacturer/Supplier)"
+  ],
+  "purpose": "This agreement appoints ALFA AESAR as the exclusive worldwide distributor of NTC's nanomaterial products in research quantities for research purposes.",
+  "key_obligations": [
+    "NTC must supply the products to ALFA AESAR at agreed prices, provide training and marketing support, and pay commissions on referral sales for commercial quantities or custom services.",
+    "ALFA AESAR must use reasonable efforts to market and sell the products, purchase its requirements exclusively from NTC, maintain sufficient stock, and refer commercial quantity inquiries to NTC."
+  ],
+  "term": "Initial term of 5 years, automatically renewing for successive 2-year terms unless either party provides 6 months' written notice of non-renewal.",
+  "risks": [
+    "ALFA AESAR is bound by an exclusivity and non-compete clause, requiring it to purchase exclusively from NTC and prohibiting it from dealing in products with the same specifications.",
+    "Either party may terminate the agreement for any reason by providing 6 months' prior written notice.",
+    "NTC may increase product prices annually with 90 days' notice.",
+    "The contract contains mutual indemnities, but Schedule B heavily limits NTC's liability, disclaims implied warranties, excludes consequential damages, and caps NTC's liability at the purchase price.",
+    "Schedule B requires ALFA AESAR to broadly indemnify NTC for claims relating to the order or business relationship, except those resulting solely from NTC's negligence."
+  ]
+}

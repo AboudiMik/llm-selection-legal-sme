@@ -1,0 +1,26 @@
+{
+  "parties": [
+    "Dova Pharmaceuticals, Inc. (Product Owner/Sponsor)",
+    "Valeant Pharmaceuticals North America LLC (Co-Promoter)"
+  ],
+  "purpose": "This agreement establishes a co-promotion arrangement where Valeant is granted co-exclusive rights to detail and promote Dova's pharmaceutical product (DOPTELET) to specific medical specialists in the United States, in exchange for promotion fees based on net sales.",
+  "key_obligations": [
+    "Valeant must detail and promote the Product in the specified specialty and territory, maintaining a minimum of 100 sales representatives.",
+    "Valeant must structure its sales representatives' incentive compensation so that at least 50% is derived from achieving Product sales targets.",
+    "Valeant must keep accurate records of its detailing activities and provide quarterly detail, compensation, and compliance reports to Dova.",
+    "Dova must manufacture, supply, distribute, and book all sales of the Product.",
+    "Dova must pay Valeant quarterly promotion fees based on a percentage of Net Sales, plus a one-time milestone payment upon reaching a specific sales threshold.",
+    "Dova is responsible for all regulatory matters, pharmacovigilance, safety reporting, and the creation of approved promotional materials.",
+    "Both parties must participate in a Joint Steering Committee and comply with all applicable healthcare and promotional laws."
+  ],
+  "term": "Four (4) years from the Effective Date (September 26, 2018), unless terminated earlier.",
+  "risks": [
+    "Non-competition: Both parties are restricted from promoting competing products in the Territory during the term (and potentially during a tail period for Valeant).",
+    "Non-solicitation: Both parties are prohibited from soliciting each other's personnel involved in the agreement.",
+    "Termination rights: Includes unilateral termination for convenience (with notice), for material breach, bankruptcy, product withdrawal, or if Valeant fails to meet minimum sales force size or detail requirements.",
+    "Intellectual Property: Dova retains all ownership of Product IP, materials, and trademarks; Valeant must assign any Product-related inventions to Dova.",
+    "Indemnities: Mutual indemnification for breaches, negligence, and legal violations; Dova specifically indemnifies for IP infringement and product liability.",
+    "Limitation of Liability: Both parties disclaim consequential, incidental, punitive, and special damages, except for indemnification claims and confidentiality breaches.",
+    "Fee adjustments: Valeant's promotion fee percentages can be reduced if it fails to meet the minimum required details or sales force size."
+  ]
+}

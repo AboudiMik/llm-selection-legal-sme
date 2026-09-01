@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Eton Pharmaceuticals, Inc. (Licensee/Marketer)",
+    "Aucta Pharmaceuticals, Inc. (Licensor/Developer)"
+  ],
+  "purpose": "An exclusive license and product development agreement under which Aucta grants ETON the exclusive rights to market, distribute, and sell specific pharmaceutical products in the United States, while Aucta retains responsibility for product development and regulatory approval.",
+  "key_obligations": [
+    "Aucta must fund and execute all development, manufacturing, and regulatory activities required for FDA approval of the products.",
+    "Aucta must maintain the approved Dossiers and manage patent prosecution and maintenance.",
+    "ETON must use commercially reasonable efforts to market, distribute, and sell the products in the Territory.",
+    "ETON must pay Aucta up to $5 million in licensing fees, up to $18 million in commercial milestones, and royalties based on Net Sales.",
+    "ETON must enter into a commercial supply agreement with a contract manufacturing organization, and Aucta must enter into one with an API supplier."
+  ],
+  "term": "Effective upon ETON executing a commercial supply agreement and FDA acceptance of the Dossier (by September 2, 2019), continuing indefinitely until terminated by either party under the conditions specified in Section 11.",
+  "risks": [
+    "Non-compete restriction: Aucta is prohibited from developing or selling more than two products containing Lamotrigine during the Term and for two years thereafter.",
+    "Unilateral termination right: ETON may terminate the agreement at its sole discretion if FDA approval is not obtained by December 31, 2020, or at any time post-approval with 180 days' written notice.",
+    "Indemnities: Both parties provide mutual indemnification for third-party claims arising from their respective operational responsibilities, material breaches, or negligence/willful misconduct.",
+    "Limitation of liability: The contract excludes liability for indirect, special, incidental, consequential, or exemplary damages for both parties.",
+    "Litigation risk sharing: While Aucta bears costs for general IP litigation, ANDA litigation costs and control are shared equally between both parties."
+  ]
+}

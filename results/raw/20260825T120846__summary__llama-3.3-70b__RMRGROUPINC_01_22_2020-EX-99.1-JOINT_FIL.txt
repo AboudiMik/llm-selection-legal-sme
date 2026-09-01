@@ -1,0 +1,1 @@
+{"parties": ["ABP TRUST (filer)", "Adam D. Portnoy (filer)"], "purpose": "The agreement is for the joint filing of a Schedule 13G/A with respect to shares of Class A Common Stock of The RMR Group Inc.", "key_obligations": ["ABP TRUST and Adam D. Portnoy: to file the Schedule 13G/A and any amendments on behalf of each other"], "term": "not specified", "risks": []}

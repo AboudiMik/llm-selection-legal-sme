@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "Freeze Tag, Inc. (Company)",
+    "American Diabetes Association, Inc. (Association)"
+  ],
+  "purpose": "The agreement establishes a national sponsorship of the American Diabetes Association's Get Fit Don't Sit Day, with Freeze Tag providing financial support and promotional activities to advance the Association's mission.",
+  "key_obligations": [
+    "Company: Pay the Association a total sponsorship fee of $150,000 according to the schedule: $50,000 by Dec 31, 2018; $75,000 by Dec 31, 2019; $25,000 by Mar 30, 2020.",
+    "Company: Use the Association Marks only as authorized, in compliance with the license terms, and submit all uses for prior written approval.",
+    "Company: Obtain and maintain Commercial General Liability Insurance with specified limits, naming the Association as an additional insured.",
+    "Company: Provide quarterly samples of any items or materials bearing the Association Marks.",
+    "Company: Not knowingly take actions that would jeopardize the Association's tax-exempt status.",
+    "Association: Identify and acknowledge Company as a supporter in specified channels (e.g., website, press releases, e-newsletters, social media) as detailed in Attachment A.",
+    "Association: Grant Company a non-exclusive, limited, revocable license to use the Association Marks for the purpose of identifying Company as a supporter.",
+    "Both Parties: Maintain confidentiality of the agreement and any non-public business information.",
+    "Both Parties: Indemnify the other party for claims arising from their own negligent acts or omissions.",
+    "Both Parties: Notify each other of any infringement of marks and provide reasonable assistance in protecting them."
+  ],
+  "term": "Commences March 15, 2018 and expires March 14, 2020, unless terminated earlier under Section 13 (termination provisions). No renewal terms specified.",
+  "risks": [
+    "Termination for convenience: Either party may terminate with 10 business days' written notice if it determines in its sole discretion that continuation will damage its reputation or goodwill.",
+    "Unilateral termination for material breach: The non-breaching party may terminate if the breach is not remedied within 10 business days after written notice.",
+    "No liability cap: The indemnification clause does not include a cap on liability, and each party indemnifies the other for its own negligence.",
+    "IP ownership: The Association retains sole ownership of its marks, and Company cannot challenge that ownership. Company's use is limited and revocable.",
+    "No exclusivity: The Association may license similar marks to other companies during the term.",
+    "Approval rights: The Association has sole discretion to approve all uses of its marks, and failure to obtain prior approval may be considered a breach and cause for immediate cancellation.",
+    "Confidentiality obligations: The agreement's confidentiality clause extends beyond the term and covers all non-public business information of Company.",
+    "Governing law and venue: The agreement is governed by Virginia law with venue in Alexandria/Arlington, Virginia, which may be inconvenient for Company."
+  ]
+}

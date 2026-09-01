@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Nice Systems Ltd. (NICE)",
+    "Flextronics Israel Ltd. (CONTRACTOR)"
+  ],
+  "purpose": "This agreement establishes a turnkey manufacturing outsourcing arrangement where the Contractor will purchase components, assemble, test, and deliver NICE's digital recording products.",
+  "key_obligations": [
+    "Contractor must perform manufacturing outsourcing services, including purchasing components, assembling, testing, and delivering products to NICE's freight forwarder.",
+    "Contractor must maintain specific quality, safety, and security standards and provide a 13-month warranty for the products.",
+    "NICE must provide rolling forecasts and issue binding purchase orders for the products.",
+    "NICE must pay for the products, purchase certain excess or obsolete inventory (Permitted Components) from the Contractor, and supply necessary non-generic equipment and software."
+  ],
+  "term": "Initial term of three (3) years commencing on January 21, 2002, automatically renewing for an indefinite period unless terminated.",
+  "risks": [
+    "NICE has a unilateral right to terminate for convenience at any time with 45 days' notice, whereas Contractor can only terminate for convenience during the Extended Term with 6 months' notice.",
+    "Contractor is subject to liquidated damages of up to 5% of the product price for delivery delays.",
+    "Mutual liability cap of $5,000,000 for indirect, special, incidental, or consequential damages, excluding IP indemnification obligations.",
+    "Contractor must indemnify NICE for IP infringement claims arising from the supplied components or manufacturing processes, while NICE indemnifies Contractor for claims arising from NICE's design or software.",
+    "NICE retains all rights to its IP and receives a perpetual, non-exclusive license to use Contractor's manufacturing methods.",
+    "The agreement is non-exclusive; NICE may perform the services itself or engage third parties."
+  ]
+}

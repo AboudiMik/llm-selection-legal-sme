@@ -1,0 +1,1201 @@
+model,contract,category,stratum,words,tp,n_pred,n_gold,parse_ok,strict_json_ok,gold_yes,pred_yes,yn_correct
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Governing Law,short,109,0,0,0,True,True,,,
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Expiration Date,short,109,0,0,0,True,True,,,
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Termination For Convenience,short,109,0,0,0,True,True,False,False,True
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Cap On Liability,short,109,0,0,0,True,True,False,False,True
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Ip Ownership Assignment,short,109,0,0,0,True,True,False,False,True
+claude-sonnet-5,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Non-Compete,short,109,0,0,0,True,True,False,False,True
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Governing Law,short,302,0,0,0,True,True,,,
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,short,302,1,1,1,True,True,,,
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Termination For Convenience,short,302,0,0,0,True,True,False,False,True
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Cap On Liability,short,302,0,0,0,True,True,False,False,True
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Ip Ownership Assignment,short,302,0,0,0,True,True,False,False,True
+claude-sonnet-5,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Non-Compete,short,302,0,0,0,True,True,False,False,True
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Governing Law,short,529,0,0,0,True,True,,,
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Expiration Date,short,529,0,0,0,True,True,,,
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Termination For Convenience,short,529,0,0,0,True,True,False,False,True
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Cap On Liability,short,529,0,0,0,True,True,False,False,True
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Ip Ownership Assignment,short,529,0,0,0,True,True,False,False,True
+claude-sonnet-5,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Non-Compete,short,529,0,0,0,True,True,False,False,True
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Governing Law,short,756,0,0,0,True,True,,,
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Expiration Date,short,756,0,0,1,True,True,,,
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,short,756,1,1,1,True,True,True,True,True
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Cap On Liability,short,756,0,0,0,True,True,False,False,True
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Ip Ownership Assignment,short,756,0,0,0,True,True,False,False,True
+claude-sonnet-5,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Non-Compete,short,756,0,0,0,True,True,False,False,True
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Governing Law,short,903,1,1,1,True,True,,,
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Expiration Date,short,903,0,0,0,True,True,,,
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,short,903,1,1,1,True,True,True,True,True
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Cap On Liability,short,903,0,0,0,True,True,False,False,True
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Ip Ownership Assignment,short,903,0,0,0,True,True,False,False,True
+claude-sonnet-5,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Non-Compete,short,903,0,0,0,True,True,False,False,True
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Governing Law,short,1762,1,1,1,True,True,,,
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Expiration Date,short,1762,1,1,2,True,True,,,
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Termination For Convenience,short,1762,0,2,0,True,True,False,True,False
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,short,1762,1,2,1,True,True,True,True,True
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Ip Ownership Assignment,short,1762,0,0,0,True,True,False,False,True
+claude-sonnet-5,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Non-Compete,short,1762,0,0,0,True,True,False,False,True
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Governing Law,short,1849,1,1,1,True,True,,,
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Expiration Date,short,1849,0,0,0,True,True,,,
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Termination For Convenience,short,1849,0,0,0,True,True,False,False,True
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Cap On Liability,short,1849,0,1,0,True,True,False,True,False
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Ip Ownership Assignment,short,1849,0,0,0,True,True,False,False,True
+claude-sonnet-5,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Non-Compete,short,1849,0,0,0,True,True,False,False,True
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2320,1,1,1,True,True,,,
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2320,1,1,1,True,True,,,
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2320,1,1,2,True,True,True,True,True
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2320,0,0,0,True,True,False,False,True
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2320,0,0,0,True,True,False,False,True
+claude-sonnet-5,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2320,0,0,0,True,True,False,False,True
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Governing Law,short,2438,1,1,1,True,True,,,
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,short,2438,1,1,1,True,True,,,
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,short,2438,1,2,1,True,True,True,True,True
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,short,2438,1,1,1,True,True,True,True,True
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,short,2438,2,2,2,True,True,True,True,True
+claude-sonnet-5,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Compete,short,2438,0,0,0,True,True,False,False,True
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Governing Law,short,2765,1,1,1,True,True,,,
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Expiration Date,short,2765,0,0,0,True,True,,,
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Termination For Convenience,short,2765,0,0,0,True,True,False,False,True
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Cap On Liability,short,2765,0,0,0,True,True,False,False,True
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Ip Ownership Assignment,short,2765,0,0,0,True,True,False,False,True
+claude-sonnet-5,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Non-Compete,short,2765,0,0,0,True,True,False,False,True
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Governing Law,short,2848,1,1,1,True,True,,,
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,short,2848,1,1,1,True,True,,,
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Termination For Convenience,short,2848,0,0,0,True,True,False,False,True
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Cap On Liability,short,2848,0,1,0,True,True,False,True,False
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Ip Ownership Assignment,short,2848,0,0,0,True,True,False,False,True
+claude-sonnet-5,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Non-Compete,short,2848,0,0,0,True,True,False,False,True
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Governing Law,short,2851,0,0,0,True,True,,,
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,short,2851,1,1,1,True,True,,,
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Termination For Convenience,short,2851,0,0,0,True,True,False,False,True
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Cap On Liability,short,2851,0,0,0,True,True,False,False,True
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Ip Ownership Assignment,short,2851,0,2,0,True,True,False,True,False
+claude-sonnet-5,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Compete,short,2851,0,0,0,True,True,False,False,True
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2909,0,0,0,True,True,,,
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2909,2,2,2,True,True,,,
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2909,2,2,2,True,True,True,True,True
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2909,0,0,0,True,True,False,False,True
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2909,0,0,0,True,True,False,False,True
+claude-sonnet-5,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2909,2,3,2,True,True,True,True,True
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Governing Law,medium,2955,1,1,1,True,True,,,
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Expiration Date,medium,2955,1,1,1,True,True,,,
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Termination For Convenience,medium,2955,0,0,0,True,True,False,False,True
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,medium,2955,1,2,5,True,True,True,True,True
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Ip Ownership Assignment,medium,2955,0,1,0,True,True,False,True,False
+claude-sonnet-5,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Compete,medium,2955,0,0,0,True,True,False,False,True
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Governing Law,medium,3435,0,0,0,True,True,,,
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,3435,1,1,1,True,True,,,
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Termination For Convenience,medium,3435,0,0,0,True,True,False,False,True
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,medium,3435,1,2,1,True,True,True,True,True
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Ip Ownership Assignment,medium,3435,0,0,0,True,True,False,False,True
+claude-sonnet-5,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Non-Compete,medium,3435,0,0,0,True,True,False,False,True
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Governing Law,medium,3596,1,1,1,True,True,,,
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Expiration Date,medium,3596,0,0,0,True,True,,,
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Termination For Convenience,medium,3596,0,0,0,True,True,False,False,True
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Cap On Liability,medium,3596,0,0,0,True,True,False,False,True
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Ip Ownership Assignment,medium,3596,0,6,0,True,True,False,True,False
+claude-sonnet-5,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Non-Compete,medium,3596,0,1,0,True,True,False,True,False
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,3770,1,1,1,True,True,,,
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,3770,1,1,1,True,True,,,
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,3770,0,0,0,True,True,False,False,True
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,3770,0,1,0,True,True,False,True,False
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,3770,0,0,0,True,True,False,False,True
+claude-sonnet-5,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,3770,1,7,1,True,True,True,True,True
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Governing Law,medium,4102,1,1,1,True,True,,,
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,4102,1,1,1,True,True,,,
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Termination For Convenience,medium,4102,0,1,0,True,True,False,True,False
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Cap On Liability,medium,4102,0,0,0,True,True,False,False,True
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Ip Ownership Assignment,medium,4102,0,0,0,True,True,False,False,True
+claude-sonnet-5,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Compete,medium,4102,0,0,0,True,True,False,False,True
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Governing Law,medium,4870,1,1,1,True,True,,,
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,4870,1,1,1,True,True,,,
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,medium,4870,1,1,1,True,True,True,True,True
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Cap On Liability,medium,4870,0,0,0,True,True,False,False,True
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,medium,4870,1,1,3,True,True,True,True,True
+claude-sonnet-5,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Non-Compete,medium,4870,0,1,0,True,True,False,True,False
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,5780,1,1,1,True,True,,,
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,5780,1,1,1,True,True,,,
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,5780,0,0,0,True,True,False,False,True
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,5780,0,3,0,True,True,False,True,False
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,5780,0,4,0,True,True,False,True,False
+claude-sonnet-5,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,5780,0,2,0,True,True,False,True,False
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Governing Law,medium,5880,1,1,1,True,True,,,
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,5880,1,1,3,True,True,,,
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Termination For Convenience,medium,5880,0,0,0,True,True,False,False,True
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,medium,5880,1,1,1,True,True,True,True,True
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Ip Ownership Assignment,medium,5880,0,0,0,True,True,False,False,True
+claude-sonnet-5,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,medium,5880,1,1,1,True,True,True,True,True
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Governing Law,medium,6029,1,1,1,True,True,,,
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,6029,1,3,1,True,True,,,
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,medium,6029,2,2,2,True,True,True,True,True
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,medium,6029,1,1,9,True,True,True,True,True
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Ip Ownership Assignment,medium,6029,0,0,0,True,True,False,False,True
+claude-sonnet-5,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Non-Compete,medium,6029,0,6,0,True,True,False,True,False
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Governing Law,medium,7145,1,1,1,True,True,,,
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,7145,1,1,1,True,True,,,
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Termination For Convenience,medium,7145,0,0,0,True,True,False,False,True
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Cap On Liability,medium,7145,0,1,0,True,True,False,True,False
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Ip Ownership Assignment,medium,7145,0,0,0,True,True,False,False,True
+claude-sonnet-5,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Non-Compete,medium,7145,0,0,0,True,True,False,False,True
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Governing Law,medium,7337,1,1,1,True,True,,,
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,7337,2,2,2,True,True,,,
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Termination For Convenience,medium,7337,0,0,0,True,True,False,False,True
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,medium,7337,1,1,1,True,True,True,True,True
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,medium,7337,1,3,1,True,True,True,True,True
+claude-sonnet-5,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,medium,7337,1,3,1,True,True,True,True,True
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Governing Law,medium,7663,2,2,2,True,True,,,
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,7663,1,1,1,True,True,,,
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,medium,7663,1,1,1,True,True,True,True,True
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,medium,7663,3,7,4,True,True,True,True,True
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Ip Ownership Assignment,medium,7663,0,0,0,True,True,False,False,True
+claude-sonnet-5,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Non-Compete,medium,7663,0,3,0,True,True,False,True,False
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Governing Law,medium,7965,1,1,1,True,True,,,
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,7965,1,1,1,True,True,,,
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Termination For Convenience,medium,7965,0,1,0,True,True,False,True,False
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,medium,7965,1,2,1,True,True,True,True,True
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Ip Ownership Assignment,medium,7965,0,0,0,True,True,False,False,True
+claude-sonnet-5,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Non-Compete,medium,7965,0,1,0,True,True,False,True,False
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Governing Law,long,8396,1,1,1,True,True,,,
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,long,8396,1,1,1,True,True,,,
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Termination For Convenience,long,8396,0,0,0,True,True,False,False,True
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,long,8396,2,3,3,True,True,True,True,True
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,long,8396,1,1,2,True,True,True,True,True
+claude-sonnet-5,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Compete,long,8396,0,1,0,True,True,False,True,False
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Governing Law,long,9243,1,1,1,True,True,,,
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,long,9243,1,1,1,True,True,,,
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,long,9243,1,1,1,True,True,True,True,True
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,long,9243,1,2,1,True,True,True,True,True
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Ip Ownership Assignment,long,9243,0,0,0,True,True,False,False,True
+claude-sonnet-5,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Non-Compete,long,9243,0,0,0,True,True,False,False,True
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Governing Law,long,9608,1,1,1,True,True,,,
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Expiration Date,long,9608,0,0,0,True,True,,,
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,long,9608,1,1,1,True,True,True,True,True
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,long,9608,1,1,1,True,True,True,True,True
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,long,9608,0,0,1,True,True,True,False,False
+claude-sonnet-5,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Compete,long,9608,0,0,0,True,True,False,False,True
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Governing Law,long,10213,1,1,1,True,True,,,
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Expiration Date,long,10213,1,1,1,True,True,,,
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,long,10213,0,0,1,True,True,True,False,False
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,long,10213,3,7,3,True,True,True,True,True
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Ip Ownership Assignment,long,10213,0,0,0,True,True,False,False,True
+claude-sonnet-5,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Non-Compete,long,10213,0,9,0,True,True,False,True,False
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Governing Law,long,10256,1,1,1,True,True,,,
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,long,10256,0,0,1,True,True,,,
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,long,10256,1,2,1,True,True,True,True,True
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,long,10256,1,2,1,True,True,True,True,True
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Ip Ownership Assignment,long,10256,0,0,0,True,True,False,False,True
+claude-sonnet-5,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,long,10256,1,1,1,True,True,True,True,True
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Governing Law,long,10705,1,1,1,True,True,,,
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,long,10705,1,1,1,True,True,,,
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Termination For Convenience,long,10705,0,0,0,True,True,False,False,True
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,long,10705,4,6,6,True,True,True,True,True
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Ip Ownership Assignment,long,10705,0,2,0,True,True,False,True,False
+claude-sonnet-5,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Non-Compete,long,10705,0,0,0,True,True,False,False,True
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Governing Law,long,12904,1,1,1,True,True,,,
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,long,12904,1,1,1,True,True,,,
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,long,12904,1,1,1,True,True,True,True,True
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,long,12904,2,5,6,True,True,True,True,True
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Ip Ownership Assignment,long,12904,0,0,0,True,True,False,False,True
+claude-sonnet-5,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Compete,long,12904,0,3,0,True,True,False,True,False
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Governing Law,long,15095,0,0,0,True,True,,,
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,long,15095,1,1,1,True,True,,,
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,long,15095,1,1,1,True,True,True,True,True
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,long,15095,1,2,1,True,True,True,True,True
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Ip Ownership Assignment,long,15095,0,0,0,True,True,False,False,True
+claude-sonnet-5,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Non-Compete,long,15095,0,0,0,True,True,False,False,True
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Governing Law,long,17207,1,1,1,True,True,,,
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,long,17207,1,1,1,True,True,,,
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,long,17207,1,1,1,True,True,True,True,True
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,long,17207,3,4,3,True,True,True,True,True
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Ip Ownership Assignment,long,17207,0,0,0,True,True,False,False,True
+claude-sonnet-5,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Non-Compete,long,17207,0,0,0,True,True,False,False,True
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Governing Law,long,18608,1,1,1,True,True,,,
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,long,18608,1,2,1,True,True,,,
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,long,18608,2,2,2,True,True,True,True,True
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,long,18608,2,2,3,True,True,True,True,True
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Ip Ownership Assignment,long,18608,0,1,0,True,True,False,True,False
+claude-sonnet-5,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Non-Compete,long,18608,0,1,0,True,True,False,True,False
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Governing Law,long,26789,1,1,1,True,True,,,
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,long,26789,1,1,1,True,True,,,
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,long,26789,1,2,1,True,True,True,True,True
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,long,26789,1,1,2,True,True,True,True,True
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,long,26789,3,4,3,True,True,True,True,True
+claude-sonnet-5,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,long,26789,1,3,1,True,True,True,True,True
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Governing Law,long,35339,1,2,1,True,True,,,
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,long,35339,1,1,1,True,True,,,
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Termination For Convenience,long,35339,0,0,0,True,True,False,False,True
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,long,35339,2,8,2,True,True,True,True,True
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Ip Ownership Assignment,long,35339,0,0,0,True,True,False,False,True
+claude-sonnet-5,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Non-Compete,long,35339,0,0,0,True,True,False,False,True
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Governing Law,long,38518,1,1,1,True,True,,,
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Expiration Date,long,38518,1,1,1,True,True,,,
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,long,38518,1,1,1,True,True,True,True,True
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,long,38518,1,1,1,True,True,True,True,True
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,long,38518,0,1,0,True,True,False,True,False
+claude-sonnet-5,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,long,38518,1,2,1,True,True,True,True,True
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Governing Law,long,45650,1,1,1,True,True,,,
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Expiration Date,long,45650,1,1,1,True,True,,,
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Termination For Convenience,long,45650,0,1,0,True,True,False,True,False
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,long,45650,1,4,3,True,True,True,True,True
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,long,45650,8,9,13,True,True,True,True,True
+claude-sonnet-5,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,long,45650,1,10,1,True,True,True,True,True
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Governing Law,short,109,0,0,0,True,True,,,
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Expiration Date,short,109,0,0,0,True,True,,,
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Termination For Convenience,short,109,0,0,0,True,True,False,False,True
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Cap On Liability,short,109,0,0,0,True,True,False,False,True
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Ip Ownership Assignment,short,109,0,0,0,True,True,False,False,True
+deepseek-v4-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Non-Compete,short,109,0,0,0,True,True,False,False,True
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Governing Law,short,302,0,0,0,True,True,,,
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,short,302,1,1,1,True,True,,,
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Termination For Convenience,short,302,0,0,0,True,True,False,False,True
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Cap On Liability,short,302,0,0,0,True,True,False,False,True
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Ip Ownership Assignment,short,302,0,0,0,True,True,False,False,True
+deepseek-v4-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Non-Compete,short,302,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Governing Law,short,529,0,0,0,True,True,,,
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Expiration Date,short,529,0,0,0,True,True,,,
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Termination For Convenience,short,529,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Cap On Liability,short,529,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Ip Ownership Assignment,short,529,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Non-Compete,short,529,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Governing Law,short,756,0,0,0,True,True,,,
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Expiration Date,short,756,0,0,1,True,True,,,
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,short,756,0,0,1,True,True,True,False,False
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Cap On Liability,short,756,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Ip Ownership Assignment,short,756,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Non-Compete,short,756,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Governing Law,short,903,1,1,1,True,True,,,
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Expiration Date,short,903,0,0,0,True,True,,,
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,short,903,1,1,1,True,True,True,True,True
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Cap On Liability,short,903,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Ip Ownership Assignment,short,903,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Non-Compete,short,903,0,0,0,True,True,False,False,True
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Governing Law,short,1762,1,1,1,True,True,,,
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Expiration Date,short,1762,1,1,2,True,True,,,
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Termination For Convenience,short,1762,0,1,0,True,True,False,True,False
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,short,1762,1,3,1,True,True,True,True,True
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Ip Ownership Assignment,short,1762,0,0,0,True,True,False,False,True
+deepseek-v4-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Non-Compete,short,1762,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Governing Law,short,1849,1,1,1,True,True,,,
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Expiration Date,short,1849,0,0,0,True,True,,,
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Termination For Convenience,short,1849,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Cap On Liability,short,1849,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Ip Ownership Assignment,short,1849,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Non-Compete,short,1849,0,0,0,True,True,False,False,True
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2320,1,1,1,True,True,,,
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2320,1,1,1,True,True,,,
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2320,1,1,2,True,True,True,True,True
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2320,0,0,0,True,True,False,False,True
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2320,0,0,0,True,True,False,False,True
+deepseek-v4-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2320,0,0,0,True,True,False,False,True
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Governing Law,short,2438,1,1,1,True,True,,,
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,short,2438,1,1,1,True,True,,,
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,short,2438,1,1,1,True,True,True,True,True
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,short,2438,1,1,1,True,True,True,True,True
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,short,2438,1,1,2,True,True,True,True,True
+deepseek-v4-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Compete,short,2438,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Governing Law,short,2765,1,1,1,True,True,,,
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Expiration Date,short,2765,0,0,0,True,True,,,
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Termination For Convenience,short,2765,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Cap On Liability,short,2765,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Ip Ownership Assignment,short,2765,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Non-Compete,short,2765,0,0,0,True,True,False,False,True
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Governing Law,short,2848,1,1,1,True,True,,,
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,short,2848,0,1,1,True,True,,,
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Termination For Convenience,short,2848,0,0,0,True,True,False,False,True
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Cap On Liability,short,2848,0,1,0,True,True,False,True,False
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Ip Ownership Assignment,short,2848,0,0,0,True,True,False,False,True
+deepseek-v4-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Non-Compete,short,2848,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Governing Law,short,2851,0,0,0,True,True,,,
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,short,2851,1,1,1,True,True,,,
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Termination For Convenience,short,2851,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Cap On Liability,short,2851,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Ip Ownership Assignment,short,2851,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Compete,short,2851,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2909,0,0,0,True,True,,,
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2909,1,1,2,True,True,,,
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2909,1,1,2,True,True,True,True,True
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2909,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2909,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2909,2,3,2,True,True,True,True,True
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Governing Law,medium,2955,1,1,1,True,True,,,
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Expiration Date,medium,2955,1,1,1,True,True,,,
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Termination For Convenience,medium,2955,0,0,0,True,True,False,False,True
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,medium,2955,1,1,5,True,True,True,True,True
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Ip Ownership Assignment,medium,2955,0,0,0,True,True,False,False,True
+deepseek-v4-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Compete,medium,2955,0,0,0,True,True,False,False,True
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Governing Law,medium,3435,0,0,0,True,True,,,
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,3435,1,1,1,True,True,,,
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Termination For Convenience,medium,3435,0,0,0,True,True,False,False,True
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,medium,3435,1,2,1,True,True,True,True,True
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Ip Ownership Assignment,medium,3435,0,0,0,True,True,False,False,True
+deepseek-v4-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Non-Compete,medium,3435,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Governing Law,medium,3596,1,1,1,True,True,,,
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Expiration Date,medium,3596,0,0,0,True,True,,,
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Termination For Convenience,medium,3596,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Cap On Liability,medium,3596,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Ip Ownership Assignment,medium,3596,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Non-Compete,medium,3596,0,1,0,True,True,False,True,False
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,3770,1,1,1,True,True,,,
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,3770,1,1,1,True,True,,,
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,3770,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,3770,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,3770,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,3770,0,2,1,True,True,True,True,True
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Governing Law,medium,4102,1,1,1,True,True,,,
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,4102,1,1,1,True,True,,,
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Termination For Convenience,medium,4102,0,1,0,True,True,False,True,False
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Cap On Liability,medium,4102,0,0,0,True,True,False,False,True
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Ip Ownership Assignment,medium,4102,0,0,0,True,True,False,False,True
+deepseek-v4-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Compete,medium,4102,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Governing Law,medium,4870,0,1,1,True,True,,,
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,4870,1,1,1,True,True,,,
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,medium,4870,1,1,1,True,True,True,True,True
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Cap On Liability,medium,4870,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,medium,4870,1,1,3,True,True,True,True,True
+deepseek-v4-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Non-Compete,medium,4870,0,0,0,True,True,False,False,True
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,5780,1,1,1,True,True,,,
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,5780,1,1,1,True,True,,,
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,5780,0,0,0,True,True,False,False,True
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,5780,0,0,0,True,True,False,False,True
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,5780,0,2,0,True,True,False,True,False
+deepseek-v4-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,5780,0,1,0,True,True,False,True,False
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Governing Law,medium,5880,1,1,1,True,True,,,
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,5880,1,1,3,True,True,,,
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Termination For Convenience,medium,5880,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,medium,5880,1,1,1,True,True,True,True,True
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Ip Ownership Assignment,medium,5880,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,medium,5880,0,0,1,True,True,True,False,False
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Governing Law,medium,6029,1,1,1,True,True,,,
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,6029,1,2,1,True,True,,,
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,medium,6029,1,1,2,True,True,True,True,True
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,medium,6029,1,1,9,True,True,True,True,True
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Ip Ownership Assignment,medium,6029,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Non-Compete,medium,6029,0,2,0,True,True,False,True,False
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Governing Law,medium,7145,1,1,1,True,True,,,
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,7145,1,1,1,True,True,,,
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Termination For Convenience,medium,7145,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Cap On Liability,medium,7145,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Ip Ownership Assignment,medium,7145,0,0,0,True,True,False,False,True
+deepseek-v4-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Non-Compete,medium,7145,0,0,0,True,True,False,False,True
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Governing Law,medium,7337,1,1,1,True,True,,,
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,7337,1,1,2,True,True,,,
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Termination For Convenience,medium,7337,0,0,0,True,True,False,False,True
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,medium,7337,1,1,1,True,True,True,True,True
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,medium,7337,1,1,1,True,True,True,True,True
+deepseek-v4-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,medium,7337,1,2,1,True,True,True,True,True
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Governing Law,medium,7663,1,1,2,True,True,,,
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,7663,1,1,1,True,True,,,
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,medium,7663,1,1,1,True,True,True,True,True
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,medium,7663,1,1,4,True,True,True,True,True
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Ip Ownership Assignment,medium,7663,0,0,0,True,True,False,False,True
+deepseek-v4-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Non-Compete,medium,7663,0,2,0,True,True,False,True,False
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Governing Law,medium,7965,1,1,1,True,True,,,
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,7965,1,1,1,True,True,,,
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Termination For Convenience,medium,7965,0,1,0,True,True,False,True,False
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,medium,7965,1,2,1,True,True,True,True,True
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Ip Ownership Assignment,medium,7965,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Non-Compete,medium,7965,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Governing Law,long,8396,1,1,1,True,True,,,
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,long,8396,1,1,1,True,True,,,
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Termination For Convenience,long,8396,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,long,8396,1,1,3,True,True,True,True,True
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,long,8396,1,1,2,True,True,True,True,True
+deepseek-v4-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Compete,long,8396,0,3,0,True,True,False,True,False
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Governing Law,long,9243,1,1,1,True,True,,,
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,long,9243,1,1,1,True,True,,,
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,long,9243,1,1,1,True,True,True,True,True
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,long,9243,1,2,1,True,True,True,True,True
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Ip Ownership Assignment,long,9243,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Non-Compete,long,9243,0,0,0,True,True,False,False,True
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Governing Law,long,9608,1,1,1,True,True,,,
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Expiration Date,long,9608,0,0,0,True,True,,,
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,long,9608,1,1,1,True,True,True,True,True
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,long,9608,1,1,1,True,True,True,True,True
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,long,9608,0,0,1,True,True,True,False,False
+deepseek-v4-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Compete,long,9608,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Governing Law,long,10213,1,1,1,True,True,,,
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Expiration Date,long,10213,1,1,1,True,True,,,
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,long,10213,1,1,1,True,True,True,True,True
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,long,10213,3,4,3,True,True,True,True,True
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Ip Ownership Assignment,long,10213,0,0,0,True,True,False,False,True
+deepseek-v4-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Non-Compete,long,10213,0,5,0,True,True,False,True,False
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Governing Law,long,10256,1,1,1,True,True,,,
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,long,10256,1,1,1,True,True,,,
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,long,10256,1,1,1,True,True,True,True,True
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,long,10256,1,1,1,True,True,True,True,True
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Ip Ownership Assignment,long,10256,0,0,0,True,True,False,False,True
+deepseek-v4-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,long,10256,1,1,1,True,True,True,True,True
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Governing Law,long,10705,1,1,1,True,True,,,
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,long,10705,1,1,1,True,True,,,
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Termination For Convenience,long,10705,0,0,0,True,True,False,False,True
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,long,10705,2,2,6,True,True,True,True,True
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Ip Ownership Assignment,long,10705,0,1,0,True,True,False,True,False
+deepseek-v4-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Non-Compete,long,10705,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Governing Law,long,12904,1,1,1,True,True,,,
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,long,12904,1,1,1,True,True,,,
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,long,12904,1,1,1,True,True,True,True,True
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,long,12904,2,2,6,True,True,True,True,True
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Ip Ownership Assignment,long,12904,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Compete,long,12904,0,2,0,True,True,False,True,False
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Governing Law,long,15095,0,0,0,True,True,,,
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,long,15095,1,1,1,True,True,,,
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,long,15095,1,1,1,True,True,True,True,True
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,long,15095,1,1,1,True,True,True,True,True
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Ip Ownership Assignment,long,15095,0,0,0,True,True,False,False,True
+deepseek-v4-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Non-Compete,long,15095,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Governing Law,long,17207,1,1,1,True,True,,,
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,long,17207,1,1,1,True,True,,,
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,long,17207,1,1,1,True,True,True,True,True
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,long,17207,3,3,3,True,True,True,True,True
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Ip Ownership Assignment,long,17207,0,0,0,True,True,False,False,True
+deepseek-v4-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Non-Compete,long,17207,0,0,0,True,True,False,False,True
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Governing Law,long,18608,1,1,1,True,True,,,
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,long,18608,1,1,1,True,True,,,
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,long,18608,2,2,2,True,True,True,True,True
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,long,18608,2,2,3,True,True,True,True,True
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Ip Ownership Assignment,long,18608,0,1,0,True,True,False,True,False
+deepseek-v4-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Non-Compete,long,18608,0,0,0,True,True,False,False,True
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Governing Law,long,26789,1,1,1,True,True,,,
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,long,26789,1,1,1,True,True,,,
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,long,26789,1,1,1,True,True,True,True,True
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,long,26789,1,1,2,True,True,True,True,True
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,long,26789,1,1,3,True,True,True,True,True
+deepseek-v4-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,long,26789,1,1,1,True,True,True,True,True
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Governing Law,long,35339,1,1,1,True,True,,,
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,long,35339,1,1,1,True,True,,,
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Termination For Convenience,long,35339,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,long,35339,2,2,2,True,True,True,True,True
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Ip Ownership Assignment,long,35339,0,0,0,True,True,False,False,True
+deepseek-v4-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Non-Compete,long,35339,0,0,0,True,True,False,False,True
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Governing Law,long,38518,1,1,1,True,True,,,
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Expiration Date,long,38518,1,1,1,True,True,,,
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,long,38518,1,1,1,True,True,True,True,True
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,long,38518,1,1,1,True,True,True,True,True
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,long,38518,0,1,0,True,True,False,True,False
+deepseek-v4-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,long,38518,1,3,1,True,True,True,True,True
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Governing Law,long,45650,1,1,1,True,True,,,
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Expiration Date,long,45650,1,1,1,True,True,,,
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Termination For Convenience,long,45650,0,1,0,True,True,False,True,False
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,long,45650,1,1,3,True,True,True,True,True
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,long,45650,4,4,13,True,True,True,True,True
+deepseek-v4-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,long,45650,1,6,1,True,True,True,True,True
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Governing Law,short,109,0,0,0,True,True,,,
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Expiration Date,short,109,0,0,0,True,True,,,
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Termination For Convenience,short,109,0,0,0,True,True,False,False,True
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Cap On Liability,short,109,0,0,0,True,True,False,False,True
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Ip Ownership Assignment,short,109,0,0,0,True,True,False,False,True
+gemini-3.1-pro,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Non-Compete,short,109,0,0,0,True,True,False,False,True
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Governing Law,short,302,0,0,0,True,True,,,
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,short,302,1,1,1,True,True,,,
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Termination For Convenience,short,302,0,0,0,True,True,False,False,True
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Cap On Liability,short,302,0,0,0,True,True,False,False,True
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Ip Ownership Assignment,short,302,0,0,0,True,True,False,False,True
+gemini-3.1-pro,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Non-Compete,short,302,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Governing Law,short,529,0,0,0,True,True,,,
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Expiration Date,short,529,0,0,0,True,True,,,
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Termination For Convenience,short,529,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Cap On Liability,short,529,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Ip Ownership Assignment,short,529,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Non-Compete,short,529,0,0,0,True,True,False,False,True
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Governing Law,short,756,0,0,0,True,True,,,
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Expiration Date,short,756,0,0,1,True,True,,,
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,short,756,1,1,1,True,True,True,True,True
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Cap On Liability,short,756,0,0,0,True,True,False,False,True
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Ip Ownership Assignment,short,756,0,0,0,True,True,False,False,True
+gemini-3.1-pro,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Non-Compete,short,756,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Governing Law,short,903,1,1,1,True,True,,,
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Expiration Date,short,903,0,0,0,True,True,,,
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,short,903,1,1,1,True,True,True,True,True
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Cap On Liability,short,903,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Ip Ownership Assignment,short,903,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Non-Compete,short,903,0,0,0,True,True,False,False,True
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Governing Law,short,1762,1,1,1,True,True,,,
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Expiration Date,short,1762,0,0,2,True,True,,,
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Termination For Convenience,short,1762,0,2,0,True,True,False,True,False
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,short,1762,0,0,1,True,True,True,False,False
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Ip Ownership Assignment,short,1762,0,0,0,True,True,False,False,True
+gemini-3.1-pro,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Non-Compete,short,1762,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Governing Law,short,1849,1,1,1,True,True,,,
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Expiration Date,short,1849,0,0,0,True,True,,,
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Termination For Convenience,short,1849,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Cap On Liability,short,1849,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Ip Ownership Assignment,short,1849,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Non-Compete,short,1849,0,0,0,True,True,False,False,True
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2320,1,1,1,True,True,,,
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2320,1,1,1,True,True,,,
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2320,1,1,2,True,True,True,True,True
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2320,0,0,0,True,True,False,False,True
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2320,0,0,0,True,True,False,False,True
+gemini-3.1-pro,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2320,0,1,0,True,True,False,True,False
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Governing Law,short,2438,1,1,1,True,True,,,
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,short,2438,1,1,1,True,True,,,
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,short,2438,1,1,1,True,True,True,True,True
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,short,2438,0,0,1,True,True,True,False,False
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,short,2438,1,1,2,True,True,True,True,True
+gemini-3.1-pro,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Compete,short,2438,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Governing Law,short,2765,1,1,1,True,True,,,
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Expiration Date,short,2765,0,0,0,True,True,,,
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Termination For Convenience,short,2765,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Cap On Liability,short,2765,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Ip Ownership Assignment,short,2765,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Non-Compete,short,2765,0,0,0,True,True,False,False,True
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Governing Law,short,2848,1,1,1,True,True,,,
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,short,2848,0,1,1,True,True,,,
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Termination For Convenience,short,2848,0,0,0,True,True,False,False,True
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Cap On Liability,short,2848,0,1,0,True,True,False,True,False
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Ip Ownership Assignment,short,2848,0,0,0,True,True,False,False,True
+gemini-3.1-pro,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Non-Compete,short,2848,0,1,0,True,True,False,True,False
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Governing Law,short,2851,0,0,0,True,True,,,
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,short,2851,1,1,1,True,True,,,
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Termination For Convenience,short,2851,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Cap On Liability,short,2851,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Ip Ownership Assignment,short,2851,0,2,0,True,True,False,True,False
+gemini-3.1-pro,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Compete,short,2851,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2909,0,0,0,True,True,,,
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2909,2,2,2,True,True,,,
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2909,2,2,2,True,True,True,True,True
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2909,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2909,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2909,2,3,2,True,True,True,True,True
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Governing Law,medium,2955,1,1,1,True,True,,,
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Expiration Date,medium,2955,1,1,1,True,True,,,
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Termination For Convenience,medium,2955,0,0,0,True,True,False,False,True
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,medium,2955,1,1,5,True,True,True,True,True
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Ip Ownership Assignment,medium,2955,0,0,0,True,True,False,False,True
+gemini-3.1-pro,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Compete,medium,2955,0,0,0,True,True,False,False,True
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Governing Law,medium,3435,0,0,0,True,True,,,
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,3435,1,2,1,True,True,,,
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Termination For Convenience,medium,3435,0,0,0,True,True,False,False,True
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,medium,3435,1,2,1,True,True,True,True,True
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Ip Ownership Assignment,medium,3435,0,0,0,True,True,False,False,True
+gemini-3.1-pro,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Non-Compete,medium,3435,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Governing Law,medium,3596,1,1,1,True,True,,,
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Expiration Date,medium,3596,0,0,0,True,True,,,
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Termination For Convenience,medium,3596,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Cap On Liability,medium,3596,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Ip Ownership Assignment,medium,3596,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Non-Compete,medium,3596,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,3770,1,1,1,True,True,,,
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,3770,1,2,1,True,True,,,
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,3770,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,3770,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,3770,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,3770,1,3,1,True,True,True,True,True
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Governing Law,medium,4102,1,1,1,True,True,,,
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,4102,1,1,1,True,True,,,
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Termination For Convenience,medium,4102,0,0,0,True,True,False,False,True
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Cap On Liability,medium,4102,0,0,0,True,True,False,False,True
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Ip Ownership Assignment,medium,4102,0,0,0,True,True,False,False,True
+gemini-3.1-pro,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Compete,medium,4102,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Governing Law,medium,4870,1,1,1,True,True,,,
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,4870,1,1,1,True,True,,,
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,medium,4870,1,1,1,True,True,True,True,True
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Cap On Liability,medium,4870,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,medium,4870,1,2,3,True,True,True,True,True
+gemini-3.1-pro,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Non-Compete,medium,4870,0,1,0,True,True,False,True,False
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,5780,1,1,1,True,True,,,
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,5780,1,1,1,True,True,,,
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,5780,0,0,0,True,True,False,False,True
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,5780,0,1,0,True,True,False,True,False
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,5780,0,2,0,True,True,False,True,False
+gemini-3.1-pro,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,5780,0,1,0,True,True,False,True,False
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Governing Law,medium,5880,1,1,1,True,True,,,
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,5880,1,1,3,True,True,,,
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Termination For Convenience,medium,5880,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,medium,5880,1,1,1,True,True,True,True,True
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Ip Ownership Assignment,medium,5880,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,medium,5880,0,0,1,True,True,True,False,False
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Governing Law,medium,6029,1,1,1,True,True,,,
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,6029,1,2,1,True,True,,,
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,medium,6029,2,2,2,True,True,True,True,True
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,medium,6029,1,1,9,True,True,True,True,True
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Ip Ownership Assignment,medium,6029,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Non-Compete,medium,6029,0,4,0,True,True,False,True,False
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Governing Law,medium,7145,1,1,1,True,True,,,
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,7145,1,1,1,True,True,,,
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Termination For Convenience,medium,7145,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Cap On Liability,medium,7145,0,1,0,True,True,False,True,False
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Ip Ownership Assignment,medium,7145,0,0,0,True,True,False,False,True
+gemini-3.1-pro,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Non-Compete,medium,7145,0,0,0,True,True,False,False,True
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Governing Law,medium,7337,1,1,1,True,True,,,
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,7337,2,2,2,True,True,,,
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Termination For Convenience,medium,7337,0,0,0,True,True,False,False,True
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,medium,7337,1,1,1,True,True,True,True,True
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,medium,7337,1,2,1,True,True,True,True,True
+gemini-3.1-pro,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,medium,7337,1,2,1,True,True,True,True,True
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Governing Law,medium,7663,2,2,2,True,True,,,
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,7663,1,1,1,True,True,,,
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,medium,7663,1,1,1,True,True,True,True,True
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,medium,7663,3,5,4,True,True,True,True,True
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Ip Ownership Assignment,medium,7663,0,0,0,True,True,False,False,True
+gemini-3.1-pro,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Non-Compete,medium,7663,0,3,0,True,True,False,True,False
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Governing Law,medium,7965,1,1,1,True,True,,,
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,7965,1,1,1,True,True,,,
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Termination For Convenience,medium,7965,0,1,0,True,True,False,True,False
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,medium,7965,1,2,1,True,True,True,True,True
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Ip Ownership Assignment,medium,7965,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Non-Compete,medium,7965,0,1,0,True,True,False,True,False
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Governing Law,long,8396,1,1,1,True,True,,,
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,long,8396,1,2,1,True,True,,,
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Termination For Convenience,long,8396,0,0,0,True,True,False,False,True
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,long,8396,1,1,3,True,True,True,True,True
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,long,8396,1,1,2,True,True,True,True,True
+gemini-3.1-pro,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Compete,long,8396,0,3,0,True,True,False,True,False
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Governing Law,long,9243,1,1,1,True,True,,,
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,long,9243,1,1,1,True,True,,,
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,long,9243,1,1,1,True,True,True,True,True
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,long,9243,1,2,1,True,True,True,True,True
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Ip Ownership Assignment,long,9243,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Non-Compete,long,9243,0,0,0,True,True,False,False,True
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Governing Law,long,9608,1,1,1,True,True,,,
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Expiration Date,long,9608,0,0,0,True,True,,,
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,long,9608,1,1,1,True,True,True,True,True
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,long,9608,1,1,1,True,True,True,True,True
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,long,9608,0,0,1,True,True,True,False,False
+gemini-3.1-pro,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Compete,long,9608,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Governing Law,long,10213,1,1,1,True,True,,,
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Expiration Date,long,10213,1,1,1,True,True,,,
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,long,10213,0,0,1,True,True,True,False,False
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,long,10213,3,5,3,True,True,True,True,True
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Ip Ownership Assignment,long,10213,0,0,0,True,True,False,False,True
+gemini-3.1-pro,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Non-Compete,long,10213,0,4,0,True,True,False,True,False
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Governing Law,long,10256,1,1,1,True,True,,,
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,long,10256,0,0,1,True,True,,,
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,long,10256,1,1,1,True,True,True,True,True
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,long,10256,1,1,1,True,True,True,True,True
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Ip Ownership Assignment,long,10256,0,0,0,True,True,False,False,True
+gemini-3.1-pro,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,long,10256,1,1,1,True,True,True,True,True
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Governing Law,long,10705,1,1,1,True,True,,,
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,long,10705,1,1,1,True,True,,,
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Termination For Convenience,long,10705,0,0,0,True,True,False,False,True
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,long,10705,2,2,6,True,True,True,True,True
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Ip Ownership Assignment,long,10705,0,0,0,True,True,False,False,True
+gemini-3.1-pro,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Non-Compete,long,10705,0,1,0,True,True,False,True,False
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Governing Law,long,12904,1,1,1,True,True,,,
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,long,12904,1,1,1,True,True,,,
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,long,12904,1,1,1,True,True,True,True,True
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,long,12904,1,2,6,True,True,True,True,True
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Ip Ownership Assignment,long,12904,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Compete,long,12904,0,4,0,True,True,False,True,False
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Governing Law,long,15095,0,1,0,True,True,,,
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,long,15095,1,1,1,True,True,,,
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,long,15095,1,1,1,True,True,True,True,True
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,long,15095,1,2,1,True,True,True,True,True
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Ip Ownership Assignment,long,15095,0,0,0,True,True,False,False,True
+gemini-3.1-pro,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Non-Compete,long,15095,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Governing Law,long,17207,1,1,1,True,True,,,
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,long,17207,1,2,1,True,True,,,
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,long,17207,1,1,1,True,True,True,True,True
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,long,17207,2,2,3,True,True,True,True,True
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Ip Ownership Assignment,long,17207,0,0,0,True,True,False,False,True
+gemini-3.1-pro,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Non-Compete,long,17207,0,0,0,True,True,False,False,True
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Governing Law,long,18608,1,1,1,True,True,,,
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,long,18608,1,1,1,True,True,,,
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,long,18608,2,2,2,True,True,True,True,True
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,long,18608,2,2,3,True,True,True,True,True
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Ip Ownership Assignment,long,18608,0,1,0,True,True,False,True,False
+gemini-3.1-pro,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Non-Compete,long,18608,0,1,0,True,True,False,True,False
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Governing Law,long,26789,1,1,1,True,True,,,
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,long,26789,1,1,1,True,True,,,
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,long,26789,1,1,1,True,True,True,True,True
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,long,26789,1,1,2,True,True,True,True,True
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,long,26789,3,3,3,True,True,True,True,True
+gemini-3.1-pro,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,long,26789,1,1,1,True,True,True,True,True
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Governing Law,long,35339,1,2,1,True,True,,,
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,long,35339,1,1,1,True,True,,,
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Termination For Convenience,long,35339,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,long,35339,2,6,2,True,True,True,True,True
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Ip Ownership Assignment,long,35339,0,0,0,True,True,False,False,True
+gemini-3.1-pro,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Non-Compete,long,35339,0,0,0,True,True,False,False,True
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Governing Law,long,38518,1,1,1,True,True,,,
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Expiration Date,long,38518,1,1,1,True,True,,,
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,long,38518,1,1,1,True,True,True,True,True
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,long,38518,1,1,1,True,True,True,True,True
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,long,38518,0,1,0,True,False,False,True,False
+gemini-3.1-pro,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,long,38518,1,2,1,True,True,True,True,True
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Governing Law,long,45650,1,1,1,True,True,,,
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Expiration Date,long,45650,1,1,1,True,True,,,
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Termination For Convenience,long,45650,0,1,0,True,True,False,True,False
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,long,45650,1,3,3,True,True,True,True,True
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,long,45650,5,6,13,True,False,True,True,True
+gemini-3.1-pro,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,long,45650,1,1,1,True,True,True,True,True
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Governing Law,short,109,0,0,0,True,True,,,
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Expiration Date,short,109,0,0,0,True,True,,,
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Termination For Convenience,short,109,0,0,0,True,True,False,False,True
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Cap On Liability,short,109,0,0,0,True,True,False,False,True
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Ip Ownership Assignment,short,109,0,0,0,True,True,False,False,True
+gpt-5.6-terra,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Non-Compete,short,109,0,0,0,True,True,False,False,True
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Governing Law,short,302,0,0,0,True,True,,,
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,short,302,1,1,1,True,True,,,
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Termination For Convenience,short,302,0,0,0,True,True,False,False,True
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Cap On Liability,short,302,0,0,0,True,True,False,False,True
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Ip Ownership Assignment,short,302,0,0,0,True,True,False,False,True
+gpt-5.6-terra,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Non-Compete,short,302,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Governing Law,short,529,0,0,0,True,True,,,
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Expiration Date,short,529,0,0,0,True,True,,,
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Termination For Convenience,short,529,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Cap On Liability,short,529,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Ip Ownership Assignment,short,529,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Non-Compete,short,529,0,0,0,True,True,False,False,True
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Governing Law,short,756,0,0,0,True,True,,,
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Expiration Date,short,756,1,1,1,True,True,,,
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,short,756,1,1,1,True,True,True,True,True
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Cap On Liability,short,756,0,0,0,True,True,False,False,True
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Ip Ownership Assignment,short,756,0,0,0,True,True,False,False,True
+gpt-5.6-terra,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Non-Compete,short,756,0,0,0,True,True,False,False,True
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Governing Law,short,903,1,1,1,True,True,,,
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Expiration Date,short,903,0,1,0,True,True,,,
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,short,903,1,1,1,True,True,True,True,True
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Cap On Liability,short,903,0,1,0,True,True,False,True,False
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Ip Ownership Assignment,short,903,0,0,0,True,True,False,False,True
+gpt-5.6-terra,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Non-Compete,short,903,0,0,0,True,True,False,False,True
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Governing Law,short,1762,1,1,1,True,True,,,
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Expiration Date,short,1762,1,1,2,True,True,,,
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Termination For Convenience,short,1762,0,2,0,True,True,False,True,False
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,short,1762,1,2,1,True,True,True,True,True
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Ip Ownership Assignment,short,1762,0,0,0,True,True,False,False,True
+gpt-5.6-terra,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Non-Compete,short,1762,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Governing Law,short,1849,1,1,1,True,True,,,
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Expiration Date,short,1849,0,1,0,True,True,,,
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Termination For Convenience,short,1849,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Cap On Liability,short,1849,0,1,0,True,True,False,True,False
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Ip Ownership Assignment,short,1849,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Non-Compete,short,1849,0,0,0,True,True,False,False,True
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2320,1,1,1,True,True,,,
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2320,1,1,1,True,True,,,
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2320,1,1,2,True,True,True,True,True
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2320,0,0,0,True,True,False,False,True
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2320,0,0,0,True,True,False,False,True
+gpt-5.6-terra,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2320,0,1,0,True,True,False,True,False
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Governing Law,short,2438,1,1,1,True,True,,,
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,short,2438,1,1,1,True,True,,,
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,short,2438,1,1,1,True,True,True,True,True
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,short,2438,1,1,1,True,True,True,True,True
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,short,2438,1,1,2,True,True,True,True,True
+gpt-5.6-terra,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Compete,short,2438,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Governing Law,short,2765,1,1,1,True,True,,,
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Expiration Date,short,2765,0,0,0,True,True,,,
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Termination For Convenience,short,2765,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Cap On Liability,short,2765,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Ip Ownership Assignment,short,2765,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Non-Compete,short,2765,0,0,0,True,True,False,False,True
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Governing Law,short,2848,1,1,1,True,True,,,
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,short,2848,0,1,1,True,True,,,
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Termination For Convenience,short,2848,0,0,0,True,True,False,False,True
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Cap On Liability,short,2848,0,1,0,True,True,False,True,False
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Ip Ownership Assignment,short,2848,0,0,0,True,True,False,False,True
+gpt-5.6-terra,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Non-Compete,short,2848,0,2,0,True,True,False,True,False
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Governing Law,short,2851,0,0,0,True,True,,,
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,short,2851,1,1,1,True,True,,,
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Termination For Convenience,short,2851,0,0,0,True,True,False,False,True
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Cap On Liability,short,2851,0,2,0,True,True,False,True,False
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Ip Ownership Assignment,short,2851,0,2,0,True,True,False,True,False
+gpt-5.6-terra,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Compete,short,2851,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2909,0,0,0,True,True,,,
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2909,2,2,2,True,True,,,
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2909,2,2,2,True,True,True,True,True
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2909,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2909,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2909,2,3,2,True,True,True,True,True
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Governing Law,medium,2955,1,1,1,True,True,,,
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Expiration Date,medium,2955,1,1,1,True,True,,,
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Termination For Convenience,medium,2955,0,0,0,True,True,False,False,True
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,medium,2955,1,1,5,True,True,True,True,True
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Ip Ownership Assignment,medium,2955,0,1,0,True,True,False,True,False
+gpt-5.6-terra,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Compete,medium,2955,0,1,0,True,True,False,True,False
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Governing Law,medium,3435,0,0,0,True,True,,,
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,3435,1,2,1,True,True,,,
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Termination For Convenience,medium,3435,0,1,0,True,True,False,True,False
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,medium,3435,1,2,1,True,True,True,True,True
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Ip Ownership Assignment,medium,3435,0,0,0,True,True,False,False,True
+gpt-5.6-terra,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Non-Compete,medium,3435,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Governing Law,medium,3596,1,1,1,True,True,,,
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Expiration Date,medium,3596,0,0,0,True,True,,,
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Termination For Convenience,medium,3596,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Cap On Liability,medium,3596,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Ip Ownership Assignment,medium,3596,0,1,0,True,True,False,True,False
+gpt-5.6-terra,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Non-Compete,medium,3596,0,2,0,True,True,False,True,False
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,3770,1,1,1,True,True,,,
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,3770,1,1,1,True,True,,,
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,3770,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,3770,0,3,0,True,True,False,True,False
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,3770,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,3770,1,4,1,True,True,True,True,True
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Governing Law,medium,4102,1,1,1,True,True,,,
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,4102,1,1,1,True,True,,,
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Termination For Convenience,medium,4102,0,1,0,True,True,False,True,False
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Cap On Liability,medium,4102,0,0,0,True,True,False,False,True
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Ip Ownership Assignment,medium,4102,0,1,0,True,True,False,True,False
+gpt-5.6-terra,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Compete,medium,4102,0,2,0,True,True,False,True,False
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Governing Law,medium,4870,1,1,1,True,True,,,
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,4870,1,1,1,True,True,,,
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,medium,4870,1,1,1,True,True,True,True,True
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Cap On Liability,medium,4870,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,medium,4870,1,2,3,True,True,True,True,True
+gpt-5.6-terra,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Non-Compete,medium,4870,0,1,0,True,True,False,True,False
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,5780,1,1,1,True,True,,,
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,5780,1,1,1,True,True,,,
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,5780,0,0,0,True,True,False,False,True
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,5780,0,1,0,True,True,False,True,False
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,5780,0,4,0,True,True,False,True,False
+gpt-5.6-terra,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,5780,0,4,0,True,True,False,True,False
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Governing Law,medium,5880,1,1,1,True,True,,,
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,5880,2,3,3,True,True,,,
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Termination For Convenience,medium,5880,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,medium,5880,1,1,1,True,True,True,True,True
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Ip Ownership Assignment,medium,5880,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,medium,5880,1,2,1,True,True,True,True,True
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Governing Law,medium,6029,1,1,1,True,True,,,
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,6029,1,2,1,True,True,,,
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,medium,6029,2,2,2,True,True,True,True,True
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,medium,6029,2,3,9,True,True,True,True,True
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Ip Ownership Assignment,medium,6029,0,0,0,True,True,False,False,True
+gpt-5.6-terra,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Non-Compete,medium,6029,0,6,0,True,True,False,True,False
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Governing Law,medium,7145,1,1,1,True,True,,,
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,7145,1,1,1,True,True,,,
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Termination For Convenience,medium,7145,0,0,0,True,True,False,False,True
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Cap On Liability,medium,7145,0,1,0,True,True,False,True,False
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Ip Ownership Assignment,medium,7145,0,1,0,True,True,False,True,False
+gpt-5.6-terra,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Non-Compete,medium,7145,0,0,0,True,True,False,False,True
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Governing Law,medium,7337,1,1,1,True,True,,,
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,7337,1,2,2,True,True,,,
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Termination For Convenience,medium,7337,0,0,0,True,True,False,False,True
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,medium,7337,1,1,1,True,True,True,True,True
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,medium,7337,0,1,1,True,True,True,True,True
+gpt-5.6-terra,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,medium,7337,1,6,1,True,True,True,True,True
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Governing Law,medium,7663,2,2,2,True,True,,,
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,7663,1,1,1,True,True,,,
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,medium,7663,1,1,1,True,True,True,True,True
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,medium,7663,3,4,4,True,True,True,True,True
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Ip Ownership Assignment,medium,7663,0,0,0,True,True,False,False,True
+gpt-5.6-terra,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Non-Compete,medium,7663,0,4,0,True,True,False,True,False
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Governing Law,medium,7965,1,1,1,True,True,,,
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,7965,1,3,1,True,True,,,
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Termination For Convenience,medium,7965,0,1,0,True,True,False,True,False
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,medium,7965,1,2,1,True,True,True,True,True
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Ip Ownership Assignment,medium,7965,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Non-Compete,medium,7965,0,1,0,True,True,False,True,False
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Governing Law,long,8396,1,1,1,True,True,,,
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,long,8396,1,2,1,True,True,,,
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Termination For Convenience,long,8396,0,0,0,True,True,False,False,True
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,long,8396,1,1,3,True,True,True,True,True
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,long,8396,0,0,2,False,False,True,False,False
+gpt-5.6-terra,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Compete,long,8396,0,6,0,True,True,False,True,False
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Governing Law,long,9243,1,1,1,True,True,,,
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,long,9243,1,1,1,True,True,,,
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,long,9243,1,1,1,True,True,True,True,True
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,long,9243,1,2,1,True,True,True,True,True
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Ip Ownership Assignment,long,9243,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Non-Compete,long,9243,0,0,0,True,True,False,False,True
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Governing Law,long,9608,1,1,1,True,True,,,
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Expiration Date,long,9608,0,0,0,True,True,,,
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,long,9608,0,0,1,True,True,True,False,False
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,long,9608,1,1,1,True,True,True,True,True
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,long,9608,0,0,1,True,True,True,False,False
+gpt-5.6-terra,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Compete,long,9608,0,0,0,False,False,False,False,True
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Governing Law,long,10213,1,1,1,True,True,,,
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Expiration Date,long,10213,1,2,1,True,True,,,
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,long,10213,0,0,1,True,True,True,False,False
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,long,10213,3,4,3,True,True,True,True,True
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Ip Ownership Assignment,long,10213,0,0,0,True,True,False,False,True
+gpt-5.6-terra,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Non-Compete,long,10213,0,6,0,True,True,False,True,False
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Governing Law,long,10256,1,1,1,True,True,,,
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,long,10256,1,1,1,True,True,,,
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,long,10256,1,1,1,True,True,True,True,True
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,long,10256,1,1,1,True,True,True,True,True
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Ip Ownership Assignment,long,10256,0,1,0,True,True,False,True,False
+gpt-5.6-terra,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,long,10256,1,2,1,True,True,True,True,True
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Governing Law,long,10705,1,1,1,True,True,,,
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,long,10705,1,1,1,True,True,,,
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Termination For Convenience,long,10705,0,0,0,True,True,False,False,True
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Ip Ownership Assignment,long,10705,0,1,0,True,True,False,True,False
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Non-Compete,long,10705,0,1,0,True,True,False,True,False
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Governing Law,long,12904,1,1,1,True,True,,,
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,long,12904,1,1,1,True,True,True,True,True
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,long,12904,2,2,6,True,True,True,True,True
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Ip Ownership Assignment,long,12904,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Compete,long,12904,0,4,0,True,True,False,True,False
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Governing Law,long,15095,0,1,0,True,True,,,
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,long,15095,1,2,1,True,True,,,
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,long,15095,1,1,1,True,True,True,True,True
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Ip Ownership Assignment,long,15095,0,0,0,True,True,False,False,True
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Non-Compete,long,15095,0,10,0,True,True,False,True,False
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Governing Law,long,17207,1,1,1,True,True,,,
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,long,17207,1,2,1,True,True,,,
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,long,17207,1,1,1,True,True,True,True,True
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,long,17207,1,2,3,True,True,True,True,True
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Ip Ownership Assignment,long,17207,0,0,0,True,True,False,False,True
+gpt-5.6-terra,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Non-Compete,long,17207,0,0,0,True,True,False,False,True
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Governing Law,long,18608,1,1,1,True,True,,,
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,long,18608,1,2,1,True,True,,,
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,long,18608,2,2,2,True,True,True,True,True
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,long,18608,3,3,3,True,True,True,True,True
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Ip Ownership Assignment,long,18608,0,1,0,True,True,False,True,False
+gpt-5.6-terra,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Non-Compete,long,18608,0,3,0,True,True,False,True,False
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Governing Law,long,26789,1,1,1,True,True,,,
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,long,26789,1,1,1,True,True,,,
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,long,26789,1,1,2,True,True,True,True,True
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,long,26789,2,2,3,True,True,True,True,True
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,long,26789,1,4,1,True,True,True,True,True
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,long,35339,1,2,1,True,True,,,
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Termination For Convenience,long,35339,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,long,35339,2,6,2,True,True,True,True,True
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Ip Ownership Assignment,long,35339,0,0,0,True,True,False,False,True
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Non-Compete,long,35339,0,2,0,True,True,False,True,False
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Governing Law,long,38518,1,1,1,True,True,,,
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Expiration Date,long,38518,1,1,1,True,True,,,
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,long,38518,1,1,1,True,True,True,True,True
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,long,38518,1,2,1,True,True,True,True,True
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,long,38518,0,2,0,True,True,False,True,False
+gpt-5.6-terra,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,long,38518,1,2,1,True,True,True,True,True
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Governing Law,long,45650,1,1,1,True,True,,,
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Expiration Date,long,45650,1,1,1,True,True,,,
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Termination For Convenience,long,45650,0,1,0,True,True,False,True,False
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,long,45650,1,3,3,True,True,True,True,True
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,long,45650,2,3,13,True,True,True,True,True
+gpt-5.6-terra,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,long,45650,1,3,1,True,True,True,True,True
+gpt-5.6-terra,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,long,10705,5,7,6,True,True,True,True,True
+gpt-5.6-terra,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,long,12904,1,1,1,True,True,,,
+gpt-5.6-terra,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,long,15095,1,2,1,True,True,True,True,True
+gpt-5.6-terra,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,long,26789,1,1,1,True,True,True,True,True
+gpt-5.6-terra,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Governing Law,long,35339,0,1,1,True,True,,,
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Governing Law,short,109,0,0,0,True,True,,,
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Expiration Date,short,109,0,0,0,True,True,,,
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Termination For Convenience,short,109,0,0,0,True,True,False,False,True
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Cap On Liability,short,109,0,0,0,True,True,False,False,True
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Ip Ownership Assignment,short,109,0,0,0,True,True,False,False,True
+llama-3.3-70b,RMRGROUPINC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt,Non-Compete,short,109,0,0,0,True,True,False,False,True
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Governing Law,short,302,0,0,0,True,True,,,
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,short,302,1,1,1,True,True,,,
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Termination For Convenience,short,302,0,0,0,True,True,False,False,True
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Cap On Liability,short,302,0,0,0,True,True,False,False,True
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Ip Ownership Assignment,short,302,0,0,0,True,True,False,False,True
+llama-3.3-70b,BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Non-Compete,short,302,0,0,0,True,True,False,False,True
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Governing Law,short,529,0,4,0,True,True,,,
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Expiration Date,short,529,0,0,0,True,True,,,
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Termination For Convenience,short,529,0,0,0,True,True,False,False,True
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Cap On Liability,short,529,0,0,0,True,True,False,False,True
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Ip Ownership Assignment,short,529,0,0,0,True,True,False,False,True
+llama-3.3-70b,GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Non-Compete,short,529,0,0,0,True,True,False,False,True
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Governing Law,short,756,0,0,0,True,True,,,
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Expiration Date,short,756,0,0,1,True,True,,,
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,short,756,1,1,1,True,True,True,True,True
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Cap On Liability,short,756,0,0,0,True,True,False,False,True
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Ip Ownership Assignment,short,756,0,0,0,True,True,False,False,True
+llama-3.3-70b,CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Non-Compete,short,756,0,0,0,True,True,False,False,True
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Governing Law,short,903,1,1,1,True,True,,,
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Expiration Date,short,903,0,0,0,True,True,,,
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,short,903,1,1,1,True,True,True,True,True
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Cap On Liability,short,903,0,1,0,True,True,False,True,False
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Ip Ownership Assignment,short,903,0,0,0,True,True,False,False,True
+llama-3.3-70b,"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Non-Compete,short,903,0,0,0,True,True,False,False,True
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Governing Law,short,1762,1,1,1,True,True,,,
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Expiration Date,short,1762,1,2,2,True,True,,,
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Termination For Convenience,short,1762,0,2,0,True,True,False,True,False
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,short,1762,1,6,1,True,True,True,True,True
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Ip Ownership Assignment,short,1762,0,1,0,True,True,False,True,False
+llama-3.3-70b,FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Non-Compete,short,1762,0,0,0,True,True,False,False,True
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Governing Law,short,1849,1,1,1,True,True,,,
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Expiration Date,short,1849,0,0,0,True,True,,,
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Termination For Convenience,short,1849,0,0,0,True,True,False,False,True
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Cap On Liability,short,1849,0,0,0,True,True,False,False,True
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Ip Ownership Assignment,short,1849,0,0,0,True,True,False,False,True
+llama-3.3-70b,ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt,Non-Compete,short,1849,0,0,0,True,True,False,False,True
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2320,1,1,1,True,False,,,
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2320,1,3,1,True,True,,,
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2320,1,3,2,True,True,True,True,True
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2320,0,0,0,True,True,False,False,True
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2320,0,2,0,True,True,False,True,False
+llama-3.3-70b,REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2320,0,4,0,True,True,False,True,False
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Governing Law,short,2438,1,1,1,True,True,,,
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,short,2438,1,1,1,True,True,,,
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,short,2438,1,1,1,True,True,True,True,True
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,short,2438,1,1,1,True,True,True,True,True
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,short,2438,1,1,2,True,True,True,True,True
+llama-3.3-70b,MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Compete,short,2438,0,2,0,True,True,False,True,False
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Governing Law,short,2765,1,1,1,True,True,,,
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Expiration Date,short,2765,0,0,0,True,True,,,
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Termination For Convenience,short,2765,0,0,0,True,True,False,False,True
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Cap On Liability,short,2765,0,0,0,True,True,False,False,True
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Ip Ownership Assignment,short,2765,0,0,0,True,True,False,False,True
+llama-3.3-70b,GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt,Non-Compete,short,2765,0,0,0,True,True,False,False,True
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Governing Law,short,2848,1,1,1,True,True,,,
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,short,2848,1,1,1,True,True,,,
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Termination For Convenience,short,2848,0,1,0,True,True,False,True,False
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Cap On Liability,short,2848,0,0,0,False,False,False,False,True
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Ip Ownership Assignment,short,2848,0,0,0,True,True,False,False,True
+llama-3.3-70b,NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Non-Compete,short,2848,0,2,0,True,True,False,True,False
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Governing Law,short,2851,0,0,0,True,True,,,
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,short,2851,1,1,1,True,True,,,
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Termination For Convenience,short,2851,0,1,0,True,True,False,True,False
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Cap On Liability,short,2851,0,5,0,True,True,False,True,False
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Ip Ownership Assignment,short,2851,0,2,0,True,True,False,True,False
+llama-3.3-70b,"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Compete,short,2851,0,0,0,True,True,False,False,True
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Governing Law,short,2909,0,0,0,True,True,,,
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,short,2909,1,1,2,True,True,,,
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,short,2909,1,1,2,True,True,True,True,True
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Cap On Liability,short,2909,0,5,0,True,True,False,True,False
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Ip Ownership Assignment,short,2909,0,3,0,True,True,False,True,False
+llama-3.3-70b,ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,short,2909,2,5,2,True,True,True,True,True
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Governing Law,medium,2955,1,1,1,True,True,,,
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Expiration Date,medium,2955,1,1,1,True,True,,,
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Termination For Convenience,medium,2955,0,1,0,True,True,False,True,False
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,medium,2955,1,2,5,True,True,True,True,True
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Ip Ownership Assignment,medium,2955,0,0,0,True,True,False,False,True
+llama-3.3-70b,WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Compete,medium,2955,0,3,0,True,True,False,True,False
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Governing Law,medium,3435,0,0,0,True,True,,,
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,3435,1,1,1,True,True,,,
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Termination For Convenience,medium,3435,0,2,0,True,True,False,True,False
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,medium,3435,1,4,1,True,True,True,True,True
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Ip Ownership Assignment,medium,3435,0,0,0,True,True,False,False,True
+llama-3.3-70b,SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Non-Compete,medium,3435,0,0,0,True,True,False,False,True
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Governing Law,medium,3596,1,1,1,True,True,,,
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Expiration Date,medium,3596,0,0,0,True,True,,,
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Termination For Convenience,medium,3596,0,0,0,True,True,False,False,True
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Cap On Liability,medium,3596,0,0,0,True,True,False,False,True
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Ip Ownership Assignment,medium,3596,0,4,0,True,True,False,True,False
+llama-3.3-70b,PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Non-Compete,medium,3596,0,1,0,True,True,False,True,False
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,3770,1,1,1,True,True,,,
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,3770,1,1,1,True,True,,,
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,3770,0,2,0,True,True,False,True,False
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,3770,0,5,0,True,True,False,True,False
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,3770,0,0,0,True,True,False,False,True
+llama-3.3-70b,ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,3770,1,4,1,True,True,True,True,True
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Governing Law,medium,4102,1,1,1,True,True,,,
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,4102,1,1,1,True,True,,,
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Termination For Convenience,medium,4102,0,1,0,True,True,False,True,False
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Cap On Liability,medium,4102,0,2,0,True,True,False,True,False
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Ip Ownership Assignment,medium,4102,0,0,0,True,True,False,False,True
+llama-3.3-70b,FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Compete,medium,4102,0,0,0,True,True,False,False,True
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Governing Law,medium,4870,1,1,1,True,True,,,
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,4870,1,2,1,True,True,,,
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,medium,4870,1,1,1,True,True,True,True,True
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Cap On Liability,medium,4870,0,5,0,True,True,False,True,False
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,medium,4870,0,0,3,False,False,True,False,False
+llama-3.3-70b,PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Non-Compete,medium,4870,0,1,0,True,True,False,True,False
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Governing Law,medium,5780,1,1,1,True,True,,,
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,5780,1,1,1,True,True,,,
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Termination For Convenience,medium,5780,0,4,0,True,True,False,True,False
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Cap On Liability,medium,5780,0,3,0,True,True,False,True,False
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Ip Ownership Assignment,medium,5780,0,4,0,True,True,False,True,False
+llama-3.3-70b,AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Non-Compete,medium,5780,0,4,0,True,True,False,True,False
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Governing Law,medium,5880,1,1,1,True,True,,,
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,5880,1,2,3,True,True,,,
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Termination For Convenience,medium,5880,0,2,0,True,True,False,True,False
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,medium,5880,1,3,1,True,True,True,True,True
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Ip Ownership Assignment,medium,5880,0,0,0,True,True,False,False,True
+llama-3.3-70b,GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,medium,5880,0,4,1,True,True,True,True,True
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Governing Law,medium,6029,1,1,1,True,True,,,
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,6029,1,3,1,True,True,,,
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,medium,6029,2,2,2,True,True,True,True,True
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,medium,6029,1,3,9,True,True,True,True,True
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Ip Ownership Assignment,medium,6029,0,1,0,True,True,False,True,False
+llama-3.3-70b,"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Non-Compete,medium,6029,0,3,0,True,True,False,True,False
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Governing Law,medium,7145,1,1,1,True,True,,,
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,7145,1,1,1,True,True,,,
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Termination For Convenience,medium,7145,0,1,0,True,True,False,True,False
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Cap On Liability,medium,7145,0,3,0,True,True,False,True,False
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Ip Ownership Assignment,medium,7145,0,0,0,True,True,False,False,True
+llama-3.3-70b,"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Non-Compete,medium,7145,0,0,0,True,True,False,False,True
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Governing Law,medium,7337,1,1,1,True,True,,,
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,7337,0,0,2,False,False,,,
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Termination For Convenience,medium,7337,0,6,0,True,True,False,True,False
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,medium,7337,1,3,1,True,True,True,True,True
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,medium,7337,0,0,1,False,False,True,False,False
+llama-3.3-70b,LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,medium,7337,1,2,1,True,True,True,True,True
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Governing Law,medium,7663,2,2,2,True,False,,,
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,7663,1,1,1,True,True,,,
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,medium,7663,1,1,1,True,True,True,True,True
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,medium,7663,3,4,4,True,True,True,True,True
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Ip Ownership Assignment,medium,7663,0,0,0,True,True,False,False,True
+llama-3.3-70b,NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Non-Compete,medium,7663,0,3,0,True,True,False,True,False
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Governing Law,medium,7965,1,1,1,True,True,,,
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,7965,0,0,1,False,False,,,
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Termination For Convenience,medium,7965,0,1,0,True,True,False,True,False
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,medium,7965,1,2,1,True,True,True,True,True
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Ip Ownership Assignment,medium,7965,0,0,0,True,True,False,False,True
+llama-3.3-70b,PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Non-Compete,medium,7965,0,0,0,True,True,False,False,True
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Governing Law,long,8396,1,1,1,True,True,,,
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,long,8396,1,1,1,True,True,,,
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Termination For Convenience,long,8396,0,2,0,True,True,False,True,False
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,long,8396,2,2,3,True,True,True,True,True
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,long,8396,1,1,2,True,True,True,True,True
+llama-3.3-70b,CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Compete,long,8396,0,4,0,True,True,False,True,False
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Governing Law,long,9243,1,1,1,True,True,,,
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,long,9243,1,1,1,True,True,,,
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,long,9243,1,1,1,True,True,True,True,True
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,long,9243,1,2,1,True,True,True,True,True
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Ip Ownership Assignment,long,9243,0,0,0,True,True,False,False,True
+llama-3.3-70b,ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Non-Compete,long,9243,0,0,0,True,True,False,False,True
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Governing Law,long,9608,1,1,1,True,True,,,
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Expiration Date,long,9608,0,0,0,True,True,,,
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,long,9608,1,2,1,True,True,True,True,True
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,long,9608,1,1,1,True,True,True,True,True
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,long,9608,0,0,1,False,False,True,False,False
+llama-3.3-70b,CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Compete,long,9608,0,4,0,True,True,False,True,False
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Governing Law,long,10213,1,1,1,True,True,,,
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Expiration Date,long,10213,1,1,1,True,True,,,
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,long,10213,0,1,1,True,True,True,True,True
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,long,10213,2,2,3,True,True,True,True,True
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Ip Ownership Assignment,long,10213,0,2,0,True,True,False,True,False
+llama-3.3-70b,PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Non-Compete,long,10213,0,4,0,True,True,False,True,False
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Governing Law,long,10256,1,1,1,True,True,,,
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,long,10256,0,0,1,False,False,,,
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,long,10256,1,1,1,True,True,True,True,True
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,long,10256,1,3,1,True,True,True,True,True
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Ip Ownership Assignment,long,10256,0,2,0,True,True,False,True,False
+llama-3.3-70b,EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,long,10256,1,1,1,True,True,True,True,True
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Governing Law,long,10705,1,1,1,True,True,,,
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,long,10705,0,0,1,False,False,,,
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Termination For Convenience,long,10705,0,1,0,True,False,False,True,False
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,long,10705,2,4,6,True,True,True,True,True
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Ip Ownership Assignment,long,10705,0,3,0,True,True,False,True,False
+llama-3.3-70b,VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Non-Compete,long,10705,0,1,0,True,True,False,True,False
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Governing Law,long,12904,1,1,1,True,True,,,
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,long,12904,1,1,1,True,True,,,
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,long,12904,1,1,1,True,True,True,True,True
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,long,12904,3,3,6,True,True,True,True,True
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Ip Ownership Assignment,long,12904,0,2,0,True,True,False,True,False
+llama-3.3-70b,ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Compete,long,12904,0,3,0,True,True,False,True,False
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Governing Law,long,15095,0,1,0,True,True,,,
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,long,15095,0,0,1,False,False,,,
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,long,15095,1,1,1,True,False,True,True,True
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,long,15095,1,2,1,True,True,True,True,True
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Ip Ownership Assignment,long,15095,0,0,0,True,True,False,False,True
+llama-3.3-70b,TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Non-Compete,long,15095,0,3,0,True,True,False,True,False
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Governing Law,long,17207,1,1,1,True,True,,,
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,long,17207,0,0,1,False,False,,,
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,long,17207,1,1,1,True,True,True,True,True
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,long,17207,3,4,3,True,True,True,True,True
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Ip Ownership Assignment,long,17207,0,0,0,True,True,False,False,True
+llama-3.3-70b,ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Non-Compete,long,17207,0,0,0,True,True,False,False,True
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Governing Law,long,18608,1,1,1,True,True,,,
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,long,18608,1,2,1,True,True,,,
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,long,18608,2,2,2,True,True,True,True,True
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,long,18608,2,2,3,True,True,True,True,True
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Ip Ownership Assignment,long,18608,0,2,0,True,True,False,True,False
+llama-3.3-70b,NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Non-Compete,long,18608,0,2,0,True,True,False,True,False
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Governing Law,long,26789,1,1,1,True,False,,,
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,long,26789,0,0,1,False,False,,,
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,long,26789,1,1,1,True,True,True,True,True
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,long,26789,1,1,2,True,True,True,True,True
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,long,26789,2,2,3,True,True,True,True,True
+llama-3.3-70b,DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,long,26789,1,3,1,True,True,True,True,True
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Governing Law,long,35339,1,1,1,True,True,,,
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,long,35339,1,3,1,True,True,,,
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Termination For Convenience,long,35339,0,2,0,True,True,False,True,False
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,long,35339,2,5,2,True,True,True,True,True
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Ip Ownership Assignment,long,35339,0,0,0,True,True,False,False,True
+llama-3.3-70b,GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Non-Compete,long,35339,0,4,0,True,True,False,True,False
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Governing Law,long,38518,1,1,1,True,True,,,
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Expiration Date,long,38518,1,1,1,True,True,,,
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,long,38518,1,1,1,True,True,True,True,True
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,long,38518,1,3,1,True,True,True,True,True
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,long,38518,0,3,0,True,True,False,True,False
+llama-3.3-70b,HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,long,38518,1,2,1,True,True,True,True,True
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Governing Law,long,45650,1,1,1,True,False,,,
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Expiration Date,long,45650,1,1,1,True,True,,,
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Termination For Convenience,long,45650,0,1,0,True,True,False,True,False
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,long,45650,1,2,3,True,True,True,True,True
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,long,45650,3,3,13,True,True,True,True,True
+llama-3.3-70b,PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,long,45650,1,5,1,True,True,True,True,True

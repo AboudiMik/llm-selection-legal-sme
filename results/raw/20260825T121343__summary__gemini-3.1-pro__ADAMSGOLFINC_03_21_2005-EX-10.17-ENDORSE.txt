@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Tom Watson (CONSULTANT)",
+    "ADAMS GOLF, LTD. (ADAMS GOLF)"
+  ],
+  "purpose": "This agreement grants Adams Golf the exclusive right to use Tom Watson's name, likeness, and endorsement to advertise and promote its golf products.",
+  "key_obligations": [
+    "Consultant must grant exclusive endorsement rights to Adams Golf and exclusively play/use mandatory Adams Golf products in professional events.",
+    "Consultant must participate in a minimum number of professional golf events per year or repay a portion of his compensation.",
+    "Consultant must make promotional appearances, wear Adams Golf branded apparel, and assist with product design.",
+    "Adams Golf must supply the Consultant with sufficient quantities of mandatory products.",
+    "Adams Golf must pay the Consultant a base compensation and performance-based bonuses."
+  ],
+  "term": "Commences on September 1, 2004, for a redacted number of years and months, terminating on a redacted date.",
+  "risks": [
+    "Exclusivity: Consultant is strictly prohibited from endorsing or advising competing golf product manufacturers, subject to limited redacted exceptions.",
+    "Repayment Risk: Consultant must repay portions of base compensation if he fails to play the minimum number of tournaments, dies, becomes unable to play, or is terminated for cause.",
+    "Unilateral Termination: Adams Golf may terminate immediately for Consultant's moral turpitude, illegal acts, or disparaging statements.",
+    "Indemnities: Mutual indemnities exist; Consultant indemnifies for breach of contract, while Adams Golf indemnifies for product liability and advertising claims.",
+    "Confidentiality: Strict confidentiality requirements apply to the agreement's terms and Adams Golf's proprietary information."
+  ]
+}

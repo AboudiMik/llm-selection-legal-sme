@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "This Agreement shall commence on the Effective Date and continue thereafter for a period of two (2) years, unless extended by written agreement of both parties or sooner terminated as set forth below."
+  ]
+}

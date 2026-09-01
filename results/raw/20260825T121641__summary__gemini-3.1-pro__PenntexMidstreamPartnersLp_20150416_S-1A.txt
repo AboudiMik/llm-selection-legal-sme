@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "PennTex North Louisiana Operating, LLC (Transporter)",
+    "MRD Operating LLC (Customer)"
+  ],
+  "purpose": "This agreement establishes the terms and conditions under which the Transporter will receive, transport, and deliver the Customer's natural gas on its transportation system.",
+  "key_obligations": [
+    "Customer: Dedicate and commit all owned or controlled residue gas from specified plants to the Transporter's system.",
+    "Transporter: Construct and equip the initial transportation facilities (Commencement Date Facilities).",
+    "Transporter: Provide Firm Service up to the Customer's Firm Service Gas limit and Interruptible Service for excess quantities, delivering equivalent quantities of gas to delivery points.",
+    "Customer: Submit monthly nominations specifying the average daily quantity of gas to be transported.",
+    "Customer: Pay a transportation fee of $0.04 per MMBtu and any applicable taxes on the gas."
+  ],
+  "term": "Commences on the Effective Date and continues until the end of the 15th Contract Year, continuing thereafter until terminated by either party with 30 days' prior written notice.",
+  "risks": [
+    "Liability Exclusion: Neither party is liable for consequential, incidental, punitive, exemplary, indirect damages, or lost profits.",
+    "Indemnities: Mutual indemnification for breaches of the agreement, excluding gross negligence or willful misconduct. Customer also indemnifies Transporter against title claims and taxes related to the gas.",
+    "Suspension Rights: Either party may demand Performance Assurance (e.g., letter of credit) for unpaid undisputed amounts and suspend performance if not provided within 10 business days.",
+    "Curtailment: Transporter has the right to interrupt or curtail gas receipts if system capacity is exceeded, prioritizing the curtailment of Interruptible Service Gas before Firm Service Gas.",
+    "Imbalance Penalties: Monthly gas imbalances are cashed out based on an index price, which can be adjusted by up to 10% if the volume variance exceeds 5%."
+  ]
+}

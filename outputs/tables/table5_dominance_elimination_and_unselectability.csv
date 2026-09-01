@@ -1,0 +1,4 @@
+Task,Eliminated by dominance,Dominated by,Surviving shortlist,Share of weight simplex won,Cannot win under any weighting
+Clause extraction,Llama,DeepSeek,"DeepSeek, Claude, Gemini, GPT","DeepSeek 73.3%, Claude 26.7%, Gemini 0.0%, GPT 0.0%","Gemini, GPT"
+Long-document Q&A,"Claude, GPT, Llama","DeepSeek, Llama","DeepSeek, Gemini","DeepSeek 98.9%, Gemini 1.1%",—
+Summarisation,Llama,DeepSeek,"DeepSeek, GPT, Claude, Gemini","DeepSeek 86.0%, GPT 7.3%, Claude 6.2%, Gemini 0.5%",—

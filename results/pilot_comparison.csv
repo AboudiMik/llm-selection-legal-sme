@@ -1,0 +1,5 @@
+model,robust_parse,strict_json,spans_found,mean_latency_s,p95_latency_s,total_cost_usd,mean_out_tokens
+llama-3.3-70b,29/30,29/30*,22,1.52,2.78,0.143,69
+gpt-5.6-terra,30/30,30/30,24,2.79,5.11,0.32,142
+claude-sonnet-5,30/30,30/30,21,3.04,6.6,0.476,110
+gemini-3.1-pro,30/30,30/30,14,8.58,19.89,0.305,70

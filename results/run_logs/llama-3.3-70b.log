@@ -1,0 +1,12 @@
+[llama-3.3-70b] 240 calls to do (0 already done). Estimated cost: $3.23
+  [llama-3.3-70b] 24/240 done
+  [llama-3.3-70b] 48/240 done
+  [llama-3.3-70b] 72/240 done
+  [llama-3.3-70b] 96/240 done
+  [llama-3.3-70b] 120/240 done
+  [llama-3.3-70b] 144/240 done
+  [llama-3.3-70b] 168/240 done
+  [llama-3.3-70b] 192/240 done
+  [llama-3.3-70b] 216/240 done
+  [llama-3.3-70b] 240/240 done
+[llama-3.3-70b] COMPLETE: 240/240 calls ok, parse ok 229, cost $3.23

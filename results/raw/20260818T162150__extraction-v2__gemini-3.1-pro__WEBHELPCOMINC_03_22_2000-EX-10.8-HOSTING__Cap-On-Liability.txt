@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "7. Limitation of liability. EXCLUDING LIABILITY FOR INFRINGEMENT CLAIMS AS DISCUSSED IN SECTION 9 OF THIS AGREEMENT, IN NO EVENT SHALL eGAIN BE LIABLE TO CUSTOMER FOR CONSEQUENTIAL, EXEMPLARY, INDIRECT, SPECIAL OR INCIDENTAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS), OR BE LIABLE TO ANY THIRD PARTY FOR ANY DAMAGES WHATSOEVER, EVEN IF eGAIN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. eGain's entire liability under this Agreement for any damages from any cause whatsoever, regardless of form or action, whether in contract, negligence or otherwise, shall in no event exceed an amount equal to the price paid for the Services out of which the claim arose."
+  ]
+}

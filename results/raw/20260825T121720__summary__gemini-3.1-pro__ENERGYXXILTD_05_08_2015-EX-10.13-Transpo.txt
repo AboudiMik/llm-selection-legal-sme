@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "ENERGY XXI GULF COAST, INC. (Shipper)",
+    "ENERGY XXI USA, INC. (Transporter)"
+  ],
+  "purpose": "This agreement establishes the terms and conditions under which the Transporter will gather and transport the Shipper's Crude Petroleum through its Grand Isle Gathering System in exchange for specified rates and charges.",
+  "key_obligations": [
+    "Shipper must nominate crude petroleum volumes in advance, provide necessary line fill and tank bottom inventory, and pay all applicable transportation and handling charges.",
+    "Shipper must ensure delivered crude meets quality and pressure specifications, and provide necessary pumping and injection equipment.",
+    "Transporter must accept, transport, and redeliver the Shipper's accepted Crude Petroleum to the Delivery Point, subject to capacity apportionment and system integrity.",
+    "Transporter must administer a Gravity Bank to adjust for differences in crude quality and perform measurement and testing of receipts and deliveries."
+  ],
+  "term": "Commences on March 11, 2015, and continues until terminated by either party upon 30 days' prior written notice.",
+  "risks": [
+    "Transporter has absolute discretion to shut down operations without liability to Shipper for safety, maintenance, or operational integrity reasons.",
+    "Transporter may reject non-conforming or contaminated crude, with Shipper bearing all liability and disposal costs for contaminated crude.",
+    "Transporter holds a lien on Shipper's crude petroleum and may sell it at a private sale to satisfy unpaid invoices.",
+    "Both parties waive rights to consequential, incidental, indirect, special, punitive, exemplary, or treble damages.",
+    "Shipper warrants title to the crude and is responsible for any losses resulting from title disputes or encumbrances.",
+    "Mutual indemnification for respective operations and breaches, with Shipper additionally indemnifying Transporter for upstream and downstream activities.",
+    "Both parties irrevocably waive their right to a jury trial."
+  ]
+}

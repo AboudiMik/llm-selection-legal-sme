@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Ingram Micro (Distributor)",
+    "NETGEAR, Inc. (NETGEAR)"
+  ],
+  "purpose": "This agreement establishes the terms for Ingram Micro to purchase, sell, and license NETGEAR hardware and software products for resale within the United States.",
+  "key_obligations": [
+    "Distributor must purchase products, pay invoices within specified timeframes, and sell only to resale customers rather than directly to end-users.",
+    "Distributor must provide first-level support to its customers, maintain trained staff, and submit monthly point-of-sale and inventory reports.",
+    "NETGEAR must supply the ordered products, provide second and third-level technical support, and honor hardware and software warranties.",
+    "NETGEAR must provide inventory price protection credits to the Distributor in the event of list price decreases."
+  ],
+  "term": "One year from the Effective Date (March 1, 1996), automatically renewing for successive one-year periods unless terminated.",
+  "risks": [
+    "Either party may terminate the agreement without cause upon 90 days' written notice.",
+    "Distributor has exclusivity during the initial one-year term, but NETGEAR may appoint other distributors if Distributor fails to perform agreed marketing activities, and NETGEAR retains the right to sell directly to certain retail resellers.",
+    "NETGEAR may modify the Price List and discount schedules at any time with 30 days' advance notice.",
+    "Both parties' total liability is generally capped at the amounts paid to NETGEAR under the agreement, with specific exceptions for indemnities, IP breaches, and confidentiality.",
+    "Neither party is liable for indirect, special, incidental, or consequential damages.",
+    "NETGEAR retains all proprietary rights to the products and software; Distributor is only granted a limited right to use trademarks."
+  ]
+}

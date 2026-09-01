@@ -1,0 +1,4 @@
+Buyer profile,D1 Completeness,D2 Trustworthiness,D3 Cost,D4 Speed,D5 Operational reliability,Total
+Cost-constrained,0.2,0.15,0.5,0.1,0.05,1.0
+Confidentiality-constrained,0.15,0.25,0.1,0.1,0.4,1.0
+Quality-critical,0.25,0.5,0.05,0.05,0.15,1.0

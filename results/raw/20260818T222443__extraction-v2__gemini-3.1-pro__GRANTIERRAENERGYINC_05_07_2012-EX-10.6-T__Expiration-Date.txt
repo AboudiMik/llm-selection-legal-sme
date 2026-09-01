@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "TERM OF EXECUTION From January 30, 2012 until July 29, 2012"
+  ]
+}

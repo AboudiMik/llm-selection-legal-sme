@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Nuance Communications, Inc. (Assignor/Licensor/Licensee)",
+    "Cerence Inc. (Assignee/Licensor/Licensee)"
+  ],
+  "purpose": "To record the transfer of intellectual property rights in connection with a spin-off and to grant cross-licenses to each party's patents, technology, and data for use in their respective fields.",
+  "key_obligations": [
+    "Both parties: Execute specific IP assignment agreements for patents, trademarks, domain names, and invention disclosures.",
+    "Assignee party: File the IP assignment agreements with the appropriate governmental authorities at its own cost.",
+    "Both parties: Cooperate to release any outstanding security interests attached to the transferred IP.",
+    "Nuance: Grant SpinCo a worldwide, non-exclusive, fully paid-up, perpetual license to use Nuance Patents and Shared Technology Assets within the SpinCo Field of Use.",
+    "SpinCo: Grant Nuance a worldwide, non-exclusive, fully paid-up, perpetual license to use SpinCo Patents and Shared Technology Assets within the Nuance Field of Use.",
+    "Both parties: Refrain from challenging the other party's IP rights, reverse engineering shared technology, or combining shared technology with open source software.",
+    "Both parties: Protect and prevent unauthorized disclosure of the other party's Confidential Technical Information."
+  ],
+  "term": "Perpetual and irrevocable licenses; the agreement has no fixed expiration but may be terminated by Nuance prior to the Distribution or by mutual written agreement.",
+  "risks": [
+    "Unilateral termination: Nuance can terminate the agreement at its sole discretion at any time prior to the Distribution.",
+    "Liability cap: Mutual waiver of liability for any indirect, special, punitive, or consequential damages.",
+    "Warranty disclaimer: IP is licensed 'as is' with no warranties regarding non-infringement, merchantability, fitness, or validity.",
+    "No IP maintenance: Neither party is obligated to prosecute, maintain, or secure any patent or IP rights.",
+    "No technical assistance: Neither party is required to provide technical support or furnish IP-related documents to the other.",
+    "Sublicensing risks: Parties remain fully liable for any breaches of the agreement committed by their permitted sublicensees."
+  ]
+}

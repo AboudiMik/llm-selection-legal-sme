@@ -1,0 +1,4 @@
+{
+  "spans": [
+    "Corio and Commerce One further agree that should Corio desire to sell Corio Services to a parent company of a then current Corio Customer that is above this sales revenue threshold, each such sales opportunity shall be discussed as it arises.",
+    "Under no circumstances shall Commerce One contact Corio Customers regarding a non-ASP license sale

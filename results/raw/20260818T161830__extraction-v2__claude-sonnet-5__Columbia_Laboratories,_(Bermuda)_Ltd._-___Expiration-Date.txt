@@ -1,0 +1,1 @@
+{"spans": ["the initial term of this Agreement shall expire on 31 December 2024 (the \"Initial Term\") unless the Parties mutually agree in writing any extension to the Initial Term"]}

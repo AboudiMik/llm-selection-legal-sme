@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "EuroTel Bratislava a.s. (Customer)",
+    "Sicap Ltd (Service Provider)"
+  ],
+  "purpose": "This agreement establishes the terms for maintenance and support services for SICAP(R) modules (PPB, VCA, and OTA), replacing a previous annex to an original purchase and license contract.",
+  "key_obligations": [
+    "Sicap Ltd must provide standard maintenance and support services, including a hotline, 20 hours of monthly telephone support, remote support, and second-level maintenance.",
+    "Sicap Ltd must respond to reported incidents within specified timeframes, such as within 4 hours for emergency or high-priority issues.",
+    "EuroTel must perform first-level maintenance, initial fault tracing, and ensure its staff is adequately trained.",
+    "EuroTel must report incidents via the designated hotline and trouble ticket system, providing necessary logs and remote access to Sicap Ltd.",
+    "EuroTel must pay maintenance and support fees semi-annually in advance and maintain appropriate environmental conditions for the system."
+  ],
+  "term": "Effective 06 October 2000 for an initial term of two years, automatically renewing for successive one-year periods unless terminated by written notice at least six weeks prior to the renewal date.",
+  "risks": [
+    "Sicap Ltd completely excludes liability for indirect loss, consequential loss, loss of profit, lost savings, and business interruption.",
+    "EuroTel forfeits any right to damages if it does not report the loss to Sicap Ltd in writing as soon as possible.",
+    "Sicap Ltd may suspend services without liability for any resulting damages if EuroTel fails to make timely payments.",
+    "Sicap Ltd may propose annual price adjustments after the first 12 months, which are deemed accepted if EuroTel does not respond in writing within one month.",
+    "Either party may terminate the contract with immediate effect if a substantial breach by the other party is not remedied within 30 days."
+  ]
+}

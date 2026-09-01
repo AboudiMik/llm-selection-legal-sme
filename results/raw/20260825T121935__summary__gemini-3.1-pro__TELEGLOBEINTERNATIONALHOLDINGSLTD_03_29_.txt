@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Initial Parties including Advantel, C&W, China Telecom, China Unicom, Concert Ltd, Chunghwa Telecom, CWHKTI, Global One, JT, KDD, KPN, KT, Layer 2, MCIITI, MFN, NCIC, NTT Com, Onelink, PLDT, SingTel, StarHub, Teleglobe, Telstra, TFN, TM, and Williams (Investors/Owners)",
+    "Terminal Parties including China Telecom, CWHKTI, Chunghwa Telecom, KDD, Korea Telecom, NTT Com, PLDT, SingTel, and Telekom Malaysia (Owners and operators of Terminal Stations)",
+    "Other Signatory Parties including APT Satellite, Bayan Telecommunications, China Netcom, Communications Authority of Thailand, CTI International, Dacom, edge2net, Eastern Telecommunications Philippines, Global Access, Globe Telecom, GNG Networks, GTE Intelligent Network Service, PT Indosat, Maxis International, New World Telephone, NTT Com Asia, Onse Telecom, Telia AB, and TT dotCom (Investors/Owners)"
+  ],
+  "purpose": "To establish the terms and conditions for the engineering, provision, construction, operation, and maintenance of the Asia Pacific Cable Network 2 (APCN 2) fiber optic submarine cable system.",
+  "key_obligations": [
+    "Terminal Parties: Provide, operate, and maintain their respective terrestrial terminal stations (Segment T) and grant other parties rights of use and direct access to these stations.",
+    "Terminal Parties (as Maintenance Authorities): Jointly operate and maintain the submarine wet segment (Segment S).",
+    "Procurement Group: Act on behalf of the parties to contract with suppliers for the construction and installation of the wet segment.",
+    "Central Billing Party (CBP): Render bills and manage the collection and distribution of payments for capital and operation and maintenance costs.",
+    "All Parties: Pay their proportionate share of the capital costs and operation and maintenance (O&M) costs."
+  ],
+  "term": "Initial period of 25 years following the Ready for Service (RFS) Date. Terminable thereafter by mutual agreement, or any party may terminate its individual participation after the initial period with at least one year's prior written notice.",
+  "risks": [
+    "Exclusion of Liability: Parties are not liable to each other for indirect or consequential losses, loss of profits, or damages arising from delays, breakdowns, or service interruptions.",
+    "Indemnification: Each party must indemnify the others against third-party claims arising from their ownership, limited to their proportionate share of liability.",
+    "Default Risk: If a party fails to pay its billed costs and remains in default for two months after notification, its allocated capacity may be reclaimed without any refund or credit, while it remains liable for past debts.",
+    "Procurement Group Immunity: Members of the Procurement Group are not liable to other parties for supplier failures, delays, or system performance issues.",
+    "Several Liability: The liability of the parties is strictly several, not joint or collective."
+  ]
+}

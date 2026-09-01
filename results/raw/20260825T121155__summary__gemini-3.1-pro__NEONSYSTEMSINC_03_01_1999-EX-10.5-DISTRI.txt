@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Peregrine/Bridge Transfer Corporation (Licensor)",
+    "NEON Systems, Inc. (Licensee)",
+    "Skunkware, Inc. (Sole stockholder of Licensor, joining party)"
+  ],
+  "purpose": "To amend the 1996 Distributor Agreement to convert the distributorship to an exclusive arrangement, update royalty rates and advance payment requirements, extend the agreement's term, and grant the Licensee a right of first refusal and an option to purchase the Licensor's assets or stock.",
+  "key_obligations": [
+    "Licensee must pay quarterly Royalty Advances based on an escalating Annual Royalty Advance Requirement (starting at $1,000,000 for the fiscal year beginning April 1, 1999).",
+    "Licensee must pay royalties to Licensor for licensed products and maintenance/support services based on a Specified Royalty Percentage (initially 50%, reducing to 40% after advances are credited).",
+    "Licensor must repay any outstanding Royalty Advances to Licensee upon expiration or termination of the agreement.",
+    "Licensor and Skunkware must provide Licensee with a right of first refusal on any bona fide offer to purchase Licensor's stock or assets.",
+    "Licensor and Skunkware must grant Licensee an exclusive option to purchase all of Licensor's assets or stock, exercisable under specified conditions.",
+    "Licensor must conduct business in the ordinary course and refrain from merging, selling assets, or issuing new securities without Licensee's consent while the purchase option exists."
+  ],
+  "term": "Effective through March 31, 2004, with automatic successive one-year renewals unless either party provides written notice of termination at least 60 days prior to the end of the current term.",
+  "risks": [
+    "Exclusivity: The distributorship is converted to an exclusive arrangement, restricting Licensor's ability to use other distributors (with a narrow exception for IBM).",
+    "Acceleration of Payments: If the agreement is terminated due to Licensee's failure to pay, all sums accrued and payable to Licensor accelerate and become immediately due.",
+    "Liability Carve-outs: The limitation of liability does not apply to Licensor's obligation to repay Royalty Advances or breaches of Section 6.2.",
+    "Operational Restrictions: Licensor is heavily restricted from engaging in mergers, asset sales, or issuing securities while the Licensee's option to purchase exists.",
+    "Late Payment Interest: Any royalty payment not paid when due accrues interest at 10% per annum."
+  ]
+}

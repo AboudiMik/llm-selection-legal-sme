@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "UTEK Corporation ('UTK') (Service Provider)",
+    "World Energy Solutions ('AVDU') (Client)"
+  ],
+  "purpose": "AVDU engages UTK to identify and present technology acquisition opportunities from research universities and government laboratories, and potentially acquire licenses for subsequent transfer to AVDU.",
+  "key_obligations": [
+    "UTK must identify and present synergistic new technologies, maintain AVDU's confidentiality, and, upon agreement, acquire technology licenses through a subsidiary for subsequent sale to AVDU.",
+    "AVDU must pay UTK $120,000 in unregistered common stock (vesting monthly), cooperate by providing necessary information, and comply with securities laws regarding disclosures."
+  ],
+  "term": "12 months, renewable upon mutual written agreement. Either party may terminate at any time with 30 days written notice.",
+  "risks": [
+    "Either party may terminate the agreement at any time with 30 days written notice.",
+    "Mutual indemnification for misrepresentation or breach of the agreement.",
+    "AVDU is restricted from directly acquiring any technologies presented by UTK from the developer for 24 months following termination.",
+    "Mutual non-solicitation of employees for 24 months following execution.",
+    "Breach of material terms entitles the non-breaching party to injunctive relief without proving damages.",
+    "Prevailing party in any dispute is entitled to recover attorney's fees."
+  ]
+}

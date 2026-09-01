@@ -1,0 +1,109 @@
+25 briefs to judge (0 already judged). Estimated judge cost: $0.12
+Traceback (most recent call last):
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_exceptions.py", line 13, in map_exceptions
+    yield
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_backends/sync.py", line 127, in read
+    return self._sock.recv(max_bytes)
+  File "/Users/boudz/anaconda3/lib/python3.10/ssl.py", line 1259, in recv
+    return self.read(buflen)
+  File "/Users/boudz/anaconda3/lib/python3.10/ssl.py", line 1132, in read
+    return self._sslobj.read(len)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_transports/default.py", line 98, in map_httpcore_exceptions
+    yield
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_transports/default.py", line 124, in __iter__
+    yield from self._httpcore_stream
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_sync/connection_pool.py", line 426, in __iter__
+    for chunk in iterator:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 320, in __iter__
+    raise exc
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 312, in __iter__
+    for chunk in iterator:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 188, in _receive_response_body
+    event = self._receive_event(timeout=timeout)
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_sync/http11.py", line 200, in _receive_event
+    data = self._network_stream.read(self.READ_NUM_BYTES, timeout=timeout)
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_backends/sync.py", line 125, in read
+    with map_exceptions(exc_map):
+  File "/Users/boudz/anaconda3/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpcore2/_exceptions.py", line 17, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore2.ReadTimeout: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/boudz/Documents/Msc/Dissertation/src/judge_summaries.py", line 248, in <module>
+    main()
+  File "/Users/boudz/Documents/Msc/Dissertation/src/judge_summaries.py", line 199, in main
+    out = call_model(
+  File "/Users/boudz/Documents/Msc/Dissertation/src/llm_client.py", line 157, in call_model
+    text, usage, finish = _call_openai_compatible(cfg, model_key, system, user,
+  File "/Users/boudz/Documents/Msc/Dissertation/src/llm_client.py", line 68, in _call_openai_compatible
+    for c in chunks:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/openai/_streaming.py", line 49, in __iter__
+    for item in self._iterator:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/openai/_streaming.py", line 62, in __stream__
+    for sse in iterator:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/openai/_streaming.py", line 53, in _iter_events
+    yield from self._decoder.iter_bytes(self.response.iter_bytes())
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/openai/_streaming.py", line 297, in iter_bytes
+    for chunk in self._iter_chunks(iterator):
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/openai/_streaming.py", line 308, in _iter_chunks
+    for chunk in iterator:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_models.py", line 888, in iter_bytes
+    for raw_bytes in self.iter_raw():
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_models.py", line 942, in iter_raw
+    for raw_stream_bytes in self.stream:
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_client.py", line 155, in __iter__
+    yield from self._stream
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_transports/default.py", line 123, in __iter__
+    with map_httpcore_exceptions():
+  File "/Users/boudz/anaconda3/lib/python3.10/contextlib.py", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/httpx2/_transports/default.py", line 115, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx2.ReadTimeout: The read operation timed out
+Traceback (most recent call last):
+  File "/Users/boudz/Documents/Msc/Dissertation/src/judge_summaries.py", line 34, in <module>
+    import pandas as pd
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/__init__.py", line 49, in <module>
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/core/api.py", line 1, in <module>
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/__init__.py", line 18, in <module>
+  File "pandas/_libs/interval.pyx", line 1, in init pandas._libs.interval
+  File "pandas/_libs/hashtable.pyx", line 1, in init pandas._libs.hashtable
+  File "pandas/_libs/missing.pyx", line 1, in init pandas._libs.missing
+  File "/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/tslibs/__init__.py", line 40, in <module>
+  File "pandas/_libs/tslibs/conversion.pyx", line 1, in init pandas._libs.tslibs.conversion
+  File "pandas/_libs/tslibs/offsets.pyx", line 1, in init pandas._libs.tslibs.offsets
+  File "pandas/_libs/tslibs/timestamps.pyx", line 1, in init pandas._libs.tslibs.timestamps
+  File "pandas/_libs/tslibs/timedeltas.pyx", line 86, in init pandas._libs.tslibs.timedeltas
+ImportError: dlopen(/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/tslibs/fields.cpython-310-darwin.so, 0x0002): tried: '/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/tslibs/fields.cpython-310-darwin.so' (mmap(size=0x454A0) failed with errno=60), '/System/Volumes/Preboot/Cryptexes/OS/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/tslibs/fields.cpython-310-darwin.so' (no such file), '/Users/boudz/Documents/Msc/Dissertation/venv/lib/python3.10/site-packages/pandas/_libs/tslibs/fields.cpython-310-darwin.so' (mmap(size=0x454A0) failed with errno=60)
+21 briefs to judge (4 already judged). Estimated judge cost: $0.10
+  5/21
+  10/21
+  15/21
+  20/21
+
+Per-dimension pass rates (item-level):
+dim              coverage  faithfulness  usability
+model                                             
+claude-sonnet-5       1.0           1.0        1.0
+deepseek-v4-pro       1.0           1.0        1.0
+gemini-3.1-pro        1.0           1.0        1.0
+gpt-5.6-terra         1.0           1.0        1.0
+llama-3.3-70b         1.0           1.0        1.0
+
+Per-item pass rates:
+item              C1   C2   C3   C4   C5   F1   F2   F3   F4   U1   U2   U3
+model                                                                      
+claude-sonnet-5  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+deepseek-v4-pro  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+gemini-3.1-pro   1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+gpt-5.6-terra    1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+llama-3.3-70b    1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0

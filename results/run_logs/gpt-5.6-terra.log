@@ -1,0 +1,497 @@
+[gpt-5.6-terra] 240 calls to do (0 already done). Estimated cost: $6.37
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 24/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 48/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 72/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 96/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 120/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 144/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 168/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] CALL ERROR on extraction-v2__gpt-5.6-terra__VERTICALNETINC_04_01_2002-EX-10.19-MAINT__Cap-On-Liability: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5.6-terra in organization org-RNFrySKbAoPRgrqlyfz0xOtk on tokens per min (TPM): Limit 500000, Used 480360, Requested 19721. Please t
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 192/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] CALL ERROR on extraction-v2__gpt-5.6-terra__ScansourceInc_20190822_10-K_EX-10.38_117__Expiration-Date: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5.6-terra in organization org-RNFrySKbAoPRgrqlyfz0xOtk on tokens per min (TPM): Limit 500000, Used 478900, Requested 21282. Please t
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] CALL ERROR on extraction-v2__gpt-5.6-terra__TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29___Cap-On-Liability: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5.6-terra in organization org-RNFrySKbAoPRgrqlyfz0xOtk on tokens per min (TPM): Limit 500000, Used 476237, Requested 23779. Please t
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 216/240 done
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] CALL ERROR on extraction-v2__gpt-5.6-terra__DovaPharmaceuticalsInc_20181108_10-Q_EX-__Termination-For-Convenience: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5.6-terra in organization org-RNFrySKbAoPRgrqlyfz0xOtk on tokens per min (TPM): Limit 500000, Used 457143, Requested 44146. Please t
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] CALL ERROR on extraction-v2__gpt-5.6-terra__GRANTIERRAENERGYINC_05_07_2012-EX-10.6-T__Governing-Law: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-5.6-terra in organization org-RNFrySKbAoPRgrqlyfz0xOtk on tokens per min (TPM): Limit 500000, Used 442539, Requested 57615. Please t
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+    [gpt-5.6-terra] adjusted: max_tokens -> max_completion_tokens
+    [gpt-5.6-terra] adjusted: temperature removed (provider default)
+  [gpt-5.6-terra] 240/240 done
+[gpt-5.6-terra] COMPLETE: 235/240 calls ok, parse ok 233, cost $6.40

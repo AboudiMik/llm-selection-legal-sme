@@ -1,0 +1,6 @@
+[llama-3.3-70b] summarisation: 40 calls to do (0 already done). Estimated cost: $0.553
+  [llama-3.3-70b] 10/40 done
+  [llama-3.3-70b] 20/40 done
+  [llama-3.3-70b] 30/40 done
+  [llama-3.3-70b] 40/40 done
+[llama-3.3-70b] COMPLETE: 40/40 calls ok, fields ok 40, cost $0.549 -> /Users/boudz/Documents/Msc/Dissertation/results/summarisation/briefs__llama-3.3-70b.csv

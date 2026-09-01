@@ -1,0 +1,6 @@
+Dimension,What it asks,Extraction,Q&A,Summarisation,Instrument class
+D1 Completeness,Does it find what is there?,Span recall vs CUAD gold spans (τ = 0.25),Item accuracy vs CUAD gold answers,CUAD gold clause-type coverage,Ground truth
+D2 Trustworthiness,Is it right when it speaks?,Span precision + absent-clause silence rate,Yes/No positive-class precision,LLM-judge faithfulness pass rate,Ground truth (tasks 1–2); LLM judge (task 3)
+D3 Cost,What does one contract cost?,"US$/contract, 6 calls","US$/contract, 3 calls","US$/contract, 1 call",Metered
+D4 Speed,How long does a reader wait?,Median seconds per call,Median seconds per call,Median seconds per call,Metered
+D5 Operational reliability,Does it return usable output every time?,Strict-JSON rate × calls completed,Calls completed / attempted,Fields present × briefs parsed,Metered

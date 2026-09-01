@@ -1,0 +1,6 @@
+model,yn_balanced_acc,yn_pos_precision,yn_pos_recall,yn_raw_acc,ft_auto_correct,ft_wrong,ft_pending_judge,ft_accuracy
+claude-sonnet-5,0.744,0.632,0.774,0.738,34,6,0,0.85
+deepseek-v4-pro,0.794,0.786,0.71,0.812,33,7,0,0.825
+gemini-3.1-pro,0.795,0.727,0.774,0.8,35,5,0,0.875
+gpt-5.6-terra,0.753,0.688,0.71,0.762,34,6,0,0.85
+llama-3.3-70b,0.803,0.675,0.871,0.787,34,6,0,0.85

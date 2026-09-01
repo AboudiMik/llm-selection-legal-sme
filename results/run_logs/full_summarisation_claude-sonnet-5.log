@@ -1,0 +1,6 @@
+[claude-sonnet-5] summarisation: 40 calls to do (0 already done). Estimated cost: $1.208
+  [claude-sonnet-5] 10/40 done
+  [claude-sonnet-5] 20/40 done
+  [claude-sonnet-5] 30/40 done
+  [claude-sonnet-5] 40/40 done
+[claude-sonnet-5] COMPLETE: 40/40 calls ok, fields ok 40, cost $2.237 -> /Users/boudz/Documents/Msc/Dissertation/results/summarisation/briefs__claude-sonnet-5.csv

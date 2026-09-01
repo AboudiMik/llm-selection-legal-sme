@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "17.1 This Agreement shall come into force on the Date of the Agreement, and shall, subject to article 18, remain in full force and effect for an initial period of *** from the Commercial Launch Date."
+  ]
+}

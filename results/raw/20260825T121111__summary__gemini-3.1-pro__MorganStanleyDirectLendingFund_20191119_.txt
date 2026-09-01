@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Morgan Stanley Investment Management Inc. (Licensor)",
+    "Morgan Stanley Direct Lending Fund (Licensee)"
+  ],
+  "purpose": "To grant the Licensee a non-exclusive, non-transferable license to use the 'Morgan Stanley' trademark and design solely to state in public filings, offering materials, and press releases that investment advisory services are provided by the Licensor or its affiliates.",
+  "key_obligations": [
+    "Licensor: Grants the license to use the Brand for the Permitted Activity.",
+    "Licensee: Must submit all proposed uses of the Brand to the Licensor for prior written approval.",
+    "Licensee: Must maintain quality control consistent with the Licensor's standards and comply with all applicable laws and industry practices.",
+    "Licensee: Must promptly notify the Licensor of any actual or threatened infringement of the Brand.",
+    "Licensee: Must defend and indemnify the Licensor against third-party claims arising from breaches, business operations, or unauthorized use of the Brand.",
+    "Licensee: Must not challenge the Licensor's ownership of the Brand or attempt to register any mark containing the Brand."
+  ],
+  "term": "Perpetual, commencing on the Effective Date, unless terminated earlier pursuant to the agreement's termination provisions.",
+  "risks": [
+    "Licensor has a unilateral right to terminate the agreement for convenience immediately upon written notice.",
+    "Automatic termination occurs if the investment advisory agreement ends or the advisor ceases to be an affiliate of the Licensor.",
+    "Licensor disclaims all warranties, including non-infringement and fitness for use, providing the license strictly on an 'as-is' basis.",
+    "Mutual waiver of liability for special, indirect, consequential, punitive, or incidental damages.",
+    "Broad indemnification obligations are imposed on the Licensee.",
+    "Strict assignment restrictions stipulate that a merger or change of control is deemed an assignment requiring Licensor's prior written consent; violations are void ab initio and trigger immediate termination.",
+    "All goodwill inures solely to the Licensor, and the Licensee must irrevocably assign any deemed rights in the Brand to the Licensor."
+  ]
+}

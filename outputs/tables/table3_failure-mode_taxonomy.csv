@@ -1,0 +1,5 @@
+Mechanism,Definition,Instances,Workflow control it implies,Verified example
+Misattribution,"The clause exists and is quoted accurately, but the obligation or restriction is attached to the wrong party, or its direction is reversed.",5,Check who owes what to whom.,Dova §12.5: the tail payment applies solely where Dova terminates; the brief attributed it to Valeant's termination.
+Invention,The clause does not exist in the contract at all.,1,Check the clause exists before relying on it.,Orbsat clause F: the brief asserts a restriction on AVDU assigning; the only assignment provision restricts UTK.
+Redaction assertion,"The clause and party are right, but the contract redacts the value and the model supplies one anyway.",1,"Check a figure was actually stated, not inferred.",NETGEAR: the liability cap is redacted as “[*]”; the brief states a specific cap.
+Conflation,Two unrelated provisions are spliced into a single claim.,1,Check provenance — which section did this come from?,Cardlytics: a source-code purchase trigger welded to a maintenance renewal term to assert an overall agreement term.

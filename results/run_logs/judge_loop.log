@@ -1,0 +1,69 @@
+[12:53:49] pass 1 — remaining: 148
+148 briefs to judge (51 already judged). Estimated judge cost: $1.48
+[12:53:58] pass 1 — remaining: 148
+148 briefs to judge (51 already judged). Estimated judge cost: $1.48
+[12:55:50] pass 1 — remaining: 147
+147 briefs to judge (52 already judged). Estimated judge cost: $1.47
+[14:54:46] REFUSING TO START: another judge loop holds results/run_logs/.judge_loop.lock
+[15:07:10] REFUSING TO START: another judge loop holds results/run_logs/.judge_loop.lock
+[15:07:53] pass 1 — remaining: 165
+165 briefs to judge (34 already judged). Estimated judge cost: $1.45
+[15:18:42] REFUSING TO START: live judge runner (pid 40368) holds results/run_logs/.judge_loop.lock
+[15:18:42] reclaiming stale lock (owner '999999' not running)
+[15:19:01] reclaiming stale lock (owner '999999' not running)
+[15:19:01] pass 1 — remaining: 3
+[15:29:12] pass 1 — remaining: 158
+158 briefs to judge (41 already judged). Estimated judge cost: $1.39
+[15:30:51] pass 1 — remaining: 157
+157 briefs to judge (42 already judged). Estimated judge cost: $1.39
+  5/157
+  10/157
+  15/157
+  20/157
+  25/157
+  30/157
+  35/157
+  40/157
+  45/157
+  50/157
+  55/157
+  60/157
+  65/157
+  70/157
+  75/157
+  80/157
+  85/157
+  90/157
+  95/157
+  100/157
+  105/157
+  110/157
+  115/157
+  120/157
+  125/157
+  130/157
+  135/157
+  140/157
+  145/157
+  150/157
+  155/157
+
+Per-dimension pass rates (item-level):
+dim              coverage  faithfulness  usability
+model                                             
+claude-sonnet-5     1.000         0.989      1.000
+deepseek-v4-pro     0.996         0.989      1.000
+gemini-3.1-pro      1.000         0.994      1.000
+gpt-5.6-terra       1.000         1.000      1.000
+llama-3.3-70b       0.973         0.956      0.993
+
+Per-item pass rates:
+item              C1   C2    C3    C4    C5   F1    F2    F3    F4   U1   U2    U3
+model                                                                             
+claude-sonnet-5  1.0  1.0  1.00  1.00  1.00  1.0  0.98  1.00  0.98  1.0  1.0  1.00
+deepseek-v4-pro  1.0  1.0  0.98  1.00  1.00  1.0  1.00  1.00  0.96  1.0  1.0  1.00
+gemini-3.1-pro   1.0  1.0  1.00  1.00  1.00  1.0  1.00  1.00  0.98  1.0  1.0  1.00
+gpt-5.6-terra    1.0  1.0  1.00  1.00  1.00  1.0  1.00  1.00  1.00  1.0  1.0  1.00
+llama-3.3-70b    1.0  1.0  0.98  0.96  0.93  1.0  0.91  0.96  0.96  1.0  1.0  0.98
+[18:27:16] pass 2 — remaining: 0
+[18:27:16] COMPLETE after 1 passes

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "deep systems (hosting provider)",
+    "AstroNutrition.com (client)"
+  ],
+  "purpose": "This agreement is for the provision of premium managed web hosting, system administration, and technical support services for the AstroNutrition.com domain.",
+  "key_obligations": [
+    "deep systems must provide system administration, regular off-site backups, change management, and technical support with a 99 percent server uptime guarantee.",
+    "AstroNutrition.com must pay a monthly managed hosting fee of $175.",
+    "AstroNutrition.com must pay bandwidth overage fees of $20 for each 1 GB used beyond the included 10 GB per month.",
+    "deep systems must provide optional project management and custom software development services at a rate of $55 CAD per hour if requested."
+  ],
+  "term": "12 months, beginning March 1, 2005 and ending February 28, 2006.",
+  "risks": [
+    "AstroNutrition.com is exposed to uncapped bandwidth overage fees of $20 per 1 GB over the 10 GB monthly limit.",
+    "deep systems provides a 99 percent server uptime guarantee, but the agreement does not specify any financial remedies or termination rights if this guarantee is breached.",
+    "The contract lacks standard commercial risk protections such as liability caps, indemnities, and early termination rights."
+  ]
+}

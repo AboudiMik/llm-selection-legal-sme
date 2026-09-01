@@ -1,0 +1,6 @@
+[deepseek-v4-pro] summarisation: 40 calls to do (0 already done). Estimated cost: $0.375
+  [deepseek-v4-pro] 10/40 done
+  [deepseek-v4-pro] 20/40 done
+  [deepseek-v4-pro] 30/40 done
+  [deepseek-v4-pro] 40/40 done
+[deepseek-v4-pro] COMPLETE: 40/40 calls ok, fields ok 40, cost $0.384 -> /Users/boudz/Documents/Msc/Dissertation/results/summarisation/briefs__deepseek-v4-pro.csv

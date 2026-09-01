@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "Section 9.02. Termination prior to the Distribution. This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms."
+  ]
+}

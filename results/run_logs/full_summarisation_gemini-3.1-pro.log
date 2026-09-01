@@ -1,0 +1,13 @@
+/Users/boudz/Documents/Msc/Dissertation/src/run_summarisation.py:192: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  f"fields ok {int(df['fields_ok'].fillna(False).sum())}, "
+[gemini-3.1-pro] summarisation: 40 calls to do (0 already done). Estimated cost: $1.244
+  [gemini-3.1-pro] 10/40 done
+  [gemini-3.1-pro] 20/40 done
+  [gemini-3.1-pro] 30/40 done
+  [gemini-3.1-pro] CALL ERROR on summary__gemini-3.1-pro__NICELTD_06_26_2003-EX-4.5-OUTSOURCING_AG: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at http
+  [gemini-3.1-pro] CALL ERROR on summary__gemini-3.1-pro__DovaPharmaceuticalsInc_20181108_10-Q_EX-: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at http
+  [gemini-3.1-pro] CALL ERROR on summary__gemini-3.1-pro__GRANTIERRAENERGYINC_05_07_2012-EX-10.6-T: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at http
+  [gemini-3.1-pro] CALL ERROR on summary__gemini-3.1-pro__HarpoonTherapeuticsInc_20200312_10-K_EX-: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at http
+  [gemini-3.1-pro] CALL ERROR on summary__gemini-3.1-pro__PhasebioPharmaceuticalsInc_20200330_10-K: RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at http
+  [gemini-3.1-pro] 40/40 done
+[gemini-3.1-pro] COMPLETE: 35/40 calls ok, fields ok 35, cost $0.759 -> /Users/boudz/Documents/Msc/Dissertation/results/summarisation/briefs__gemini-3.1-pro.csv

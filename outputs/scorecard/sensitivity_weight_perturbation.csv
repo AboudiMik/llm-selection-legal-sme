@@ -1,0 +1,10 @@
+profile,task,stated_winner,unchanged_pct,n_alternatives,note
+cost-constrained,extraction,deepseek,100.0,0,deepseek 100%
+cost-constrained,qa,deepseek,100.0,0,deepseek 100%
+cost-constrained,summarisation,deepseek,100.0,0,deepseek 100%
+confidentiality-constrained,extraction,deepseek,100.0,0,single feasible candidate — weights inert
+confidentiality-constrained,qa,deepseek,100.0,0,single feasible candidate — weights inert
+confidentiality-constrained,summarisation,deepseek,100.0,0,single feasible candidate — weights inert
+quality-critical,extraction,deepseek,60.0,1,"deepseek 60%, claude 40%"
+quality-critical,qa,deepseek,100.0,0,deepseek 100%
+quality-critical,summarisation,gpt,47.1,3,"gpt 47%, claude 30%, deepseek 22%, gemini 1%"

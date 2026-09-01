@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "T&B Seminars, Inc. (Licensor)",
+    "Legacy Education Alliance Holdings, Inc. (Licensee)"
+  ],
+  "purpose": "To develop, market, and operate a 'Tarek's Real Estate 101' branded seminar-style education business using the intellectual property, name, image, and likeness of Tarek El Moussa.",
+  "key_obligations": [
+    "T&B must grant LEA an exclusive worldwide license to use its intellectual property for the business.",
+    "T&B must assist in brand development, provide marketing materials, and ensure Tarek El Moussa makes specified public appearances.",
+    "LEA must provide all administrative and operational services for the business, including marketing, sales, and event planning.",
+    "LEA must pay T&B monthly Base and Marketing Royalties, subject to a minimum guaranteed royalty of $200,000 per month starting in the seventh month.",
+    "LEA must not contract with Christina Anstead during the term of the agreement."
+  ],
+  "term": "Initial term of five years, automatically renewing for successive 5-year terms unless either party gives written notice of termination at least 90 days before the end of the current term.",
+  "risks": [
+    "T&B has unilateral termination rights if LEA fails to meet cash sales benchmarks after the first year or if royalties fall below the minimum guarantee for six consecutive months.",
+    "LEA must indemnify T&B against claims arising from the promotion or sale of products, including FTC or regulatory actions, and must maintain $10 million in liability insurance.",
+    "T&B is subject to exclusivity and non-compete restrictions preventing it from selling similar products or licensing its IP to third parties in the exclusive field of use.",
+    "All derivative works created by LEA using the licensed IP remain the sole property of T&B.",
+    "Mutual exclusion of liability for lost profits and consequential damages, except for confidentiality breaches and third-party indemnification claims.",
+    "Tarek El Moussa provides a personal inducement guaranteeing his individual performance of the services required under the agreement."
+  ]
+}

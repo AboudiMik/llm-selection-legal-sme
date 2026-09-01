@@ -1,0 +1,6 @@
+{
+  "spans": [
+    "Diplomat hereby agrees that at the       termination or expiration of this Agreement Diplomat will be deemed to       have assigned, transferred and conveyed to KI, Inc. any trade rights,       equities, good will, titles or other rights in and to KI's name which may       have been obtained by Diplomat or which may have vested in Diplomat in       pursuance of any endeavors covered by this Agreement, and that Diplomat       will execute any instruments requested by KI, Inc. to accomplish or       confirm the foregoing.",
+    "(a) In all cases where Diplomat desires artwork to be created       involving products that are the subject of this license, the cost of such       artwork and the time for the production thereof shall be borne by       Diplomat. All artwork and designs involving KI's name, or any reproduction       thereof, shall, notwithstanding their invention or use by Diplomat, be and       remain the\n\n                                       7\n\n      property of SW, and SW shall be entitled to use the same and to license       the use of the same by others."
+  ]
+}

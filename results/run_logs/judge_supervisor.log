@@ -1,0 +1,3 @@
+[2026-08-25T13:58:56Z] attempt 1 starting (judged=54)
+145 briefs to judge (54 already judged). Estimated judge cost: $1.44
+[2026-08-25T14:54:46Z] REFUSING TO START: results/run_logs/.judge_loop.lock is held by another judge runner

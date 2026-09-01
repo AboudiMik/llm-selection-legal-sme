@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "The HUANG JIA Country CLUB and Recreation Inc. (Party A / Client)",
+    "Chang Chen-Bin Architects Office (Party B / Architect)"
+  ],
+  "purpose": "The agreement is for outsourcing the development planning, architectural design, environmental impact assessment, and construction monitoring of the Miaoli Royal Resort Hotel.",
+  "key_obligations": [
+    "Party A must pay the agreed service fees in 10 stages, totaling NTD 12 million for Parts I-VI and 3.5% of the legal construction cost for Part VII.",
+    "Party A must provide necessary project data, including land rights and developer information.",
+    "Party B must complete architectural development plans, soil and water conservation plans, environmental impact assessments, and landscaping designs.",
+    "Party B must perform construction monitoring, follow Party A's instructions, ensure legal compliance, and regularly report progress."
+  ],
+  "term": "Not specified for overall expiration or renewal; however, the contract outlines estimated durations for specific project phases.",
+  "risks": [
+    "If the contract cannot be performed for reasons not attributable to Party B, fees paid by Party A are non-refundable.",
+    "Party A is liable for extra service fees if it requires comprehensive modifications to the development plan.",
+    "The agreed service fee excludes several costs (e.g., land measurement, geological drilling, administrative reviews), which may result in additional expenses for Party A.",
+    "Mandatory arbitration in Miaoli County applies if disputes are not resolved by negotiation within one month."
+  ]
+}

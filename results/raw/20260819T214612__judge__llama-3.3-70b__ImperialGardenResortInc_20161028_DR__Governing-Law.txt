@@ -1,0 +1,1 @@
+{"verdict": "correct", "reasoning": "R.O.C. (Republic of China) is the official name for Taiwan, so

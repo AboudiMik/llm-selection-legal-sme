@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "28. This Amendment and and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of England. Each Party irrevocably agrees that the English courts shall have sole and exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this Amendment or its subject matter or formation."
+  ]
+}

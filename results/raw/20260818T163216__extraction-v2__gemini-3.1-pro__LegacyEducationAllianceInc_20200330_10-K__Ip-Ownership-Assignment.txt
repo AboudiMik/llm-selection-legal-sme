@@ -1,0 +1,6 @@
+{
+  "spans": [
+    "LEA has the right to modify the Licensed Intellectual Property and to create derivative works (the \"Derivative Works\"); provided that such Derivative Works may be used, copied, distributed, performed and/or displayed only in connection with the Business; and provided further that LEA will not distribute Products embodying the Derivative Works other than to end users for personal use only in connection with the Business, and not for sale, distribution or re-licensing by such end users. For the avoidance of doubt, T&B shall remain the owner of all right, title and interest in and to the Derivative Works from inception.",
+    "In the event LEA shall be deemed to have acquired any ownership rights in the Licensed Intellectual Property, the LEA shall assign, and agrees to execute all documents reasonably requested by T&B to assign, all such rights in the Licensed Intellectual Property to T&B or its nominee."
+  ]
+}

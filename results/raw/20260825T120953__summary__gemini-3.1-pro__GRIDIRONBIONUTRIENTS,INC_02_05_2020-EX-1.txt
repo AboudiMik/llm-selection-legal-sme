@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "EWSD 1, LLC, d/b/a/ SHI FARMS (Seller)",
+    "Gridiron BioNutrients, Inc (Buyer)"
+  ],
+  "purpose": "This agreement establishes the terms for Shi Farms to sell and Gridiron to purchase 30,000 pounds of hemp biomass for a total purchase price of $150,000.",
+  "key_obligations": [
+    "Shi Farms must supply 30,000 lbs of hemp biomass containing a minimum of 6% CBD, less than 3% TCH, and free of unacceptable contaminants.",
+    "Gridiron must remit the $150,000 payment upon execution of the agreement.",
+    "Shi Farms must quarantine the product to ensure its safekeeping once payment is received.",
+    "Shi Farms must deliver product samples to a laboratory and the final biomass to a processor designated by Gridiron."
+  ],
+  "term": "Not specified",
+  "risks": [
+    "Unilateral termination right: Either party may terminate the agreement at any time prior to the delivery of the product.",
+    "One-sided indemnification: Gridiron must indemnify and hold Shi Farms harmless from any claims, losses, or expenses arising from Gridiron's breach of warranty or non-performance.",
+    "Confidentiality: Failure to return and protect confidential information after the agreement ends constitutes a material breach."
+  ]
+}

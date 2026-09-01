@@ -1,0 +1,6 @@
+model,span_precision,span_recall,span_f1,span_tp,span_pred,span_gold,yn_balanced_acc,yn_pos_precision,yn_pos_recall,yn_raw_acc
+claude-sonnet-5,0.551,0.786,0.648,147,267,187,0.857,0.675,0.964,0.825
+deepseek-v4-pro,0.734,0.679,0.706,127,173,187,0.896,0.768,0.946,0.881
+gemini-3.1-pro,0.658,0.711,0.684,133,202,187,0.85,0.699,0.911,0.831
+gpt-5.6-terra,0.489,0.727,0.585,136,278,187,0.777,0.571,0.929,0.731
+llama-3.3-70b,0.381,0.674,0.486,126,331,187,0.714,0.495,0.946,0.644

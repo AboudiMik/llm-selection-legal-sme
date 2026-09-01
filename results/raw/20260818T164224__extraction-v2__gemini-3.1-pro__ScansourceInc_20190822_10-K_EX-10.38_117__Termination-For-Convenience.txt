@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "18.2 Termination for Convenience. Either party may terminate this Agreement, without cause, by giving the other party [*****] days prior written notice. Notwithstanding the foregoing, Cisco may terminate this Agreement immediately upon written notice in the event of breach by Distributor of Section 9.0 (Proprietary Rights and Software Licensing), Section 11.0 (Trademarks), Section 19.0 (Confidentiality) or Section 20.0 (Export Restrictions) of this Agreement."
+  ]
+}

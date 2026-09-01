@@ -1,0 +1,31 @@
+model,category,tp,pred,gold,P,R,F1,yn_bal_acc
+claude-sonnet-5,Cap On Liability,36,74,60,0.486,0.6,0.537,0.944
+claude-sonnet-5,Expiration Date,33,36,38,0.917,0.868,0.892,
+claude-sonnet-5,Governing Law,33,34,33,0.971,1.0,0.985,
+claude-sonnet-5,Ip Ownership Assignment,16,37,25,0.432,0.64,0.516,0.854
+claude-sonnet-5,Non-Compete,9,58,9,0.155,1.0,0.269,0.9
+claude-sonnet-5,Termination For Convenience,20,28,22,0.714,0.909,0.8,0.927
+deepseek-v4-pro,Cap On Liability,31,38,60,0.816,0.517,0.633,0.988
+deepseek-v4-pro,Expiration Date,31,33,38,0.939,0.816,0.873,
+deepseek-v4-pro,Governing Law,31,32,33,0.969,0.939,0.954,
+deepseek-v4-pro,Ip Ownership Assignment,9,14,25,0.643,0.36,0.462,0.883
+deepseek-v4-pro,Non-Compete,7,34,9,0.206,0.778,0.326,0.863
+deepseek-v4-pro,Termination For Convenience,18,22,22,0.818,0.818,0.818,0.927
+gemini-3.1-pro,Cap On Liability,29,47,60,0.617,0.483,0.542,0.922
+gemini-3.1-pro,Expiration Date,31,37,38,0.838,0.816,0.827,
+gemini-3.1-pro,Governing Law,33,35,33,0.943,1.0,0.971,
+gemini-3.1-pro,Ip Ownership Assignment,12,21,25,0.571,0.48,0.522,0.883
+gemini-3.1-pro,Non-Compete,8,38,9,0.211,0.889,0.34,0.822
+gemini-3.1-pro,Termination For Convenience,20,24,22,0.833,0.909,0.87,0.937
+gpt-5.6-terra,Cap On Liability,36,64,60,0.562,0.6,0.581,0.926
+gpt-5.6-terra,Expiration Date,34,49,38,0.694,0.895,0.782,
+gpt-5.6-terra,Governing Law,32,34,33,0.941,0.97,0.955,
+gpt-5.6-terra,Ip Ownership Assignment,6,24,25,0.25,0.24,0.245,0.757
+gpt-5.6-terra,Non-Compete,9,82,9,0.11,1.0,0.198,0.851
+gpt-5.6-terra,Termination For Convenience,19,25,22,0.76,0.864,0.809,0.889
+llama-3.3-70b,Cap On Liability,34,93,60,0.366,0.567,0.444,0.917
+llama-3.3-70b,Expiration Date,25,35,38,0.714,0.658,0.685,
+llama-3.3-70b,Governing Law,33,38,33,0.868,1.0,0.93,
+llama-3.3-70b,Ip Ownership Assignment,7,38,25,0.184,0.28,0.222,0.663
+llama-3.3-70b,Non-Compete,8,74,9,0.108,0.889,0.193,0.851
+llama-3.3-70b,Termination For Convenience,19,53,22,0.358,0.864,0.507,0.857

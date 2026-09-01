@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "The parties intend that any and all goodwill in the Brand arising from Licensee's or any applicable sublicensees' Permitted Activity shall inure solely to the benefit of Licensor. Notwithstanding the foregoing, in the event that Licensee or any sublicensee is deemed to own any rights in the Brand, Licensee hereby irrevocably assigns (or shall cause such sublicensees to assign), without further consideration, such rights to Licensor together with all goodwill associated therewith."
+  ]
+}

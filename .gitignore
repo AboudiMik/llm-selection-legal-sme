@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+
+# Python
+venv*/
+__pycache__/
+*.pyc
+
+# macOS / editors
+.DS_Store
+.claude/
+
+# HF download cache (regenerable)
+data/cuad/.cache/

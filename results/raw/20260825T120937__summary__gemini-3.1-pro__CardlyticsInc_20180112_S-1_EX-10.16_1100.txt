@@ -1,0 +1,18 @@
+{
+  "parties": [
+    "Bank of America, N.A. (Bank of America)",
+    "Cardlytics (Supplier)"
+  ],
+  "purpose": "A product license schedule to order software licenses for Cardlytics OPS Version 3.0, source code delivery, and maintenance services under a master agreement.",
+  "key_obligations": [
+    "Cardlytics (Supplier): Deliver the software, program materials, and source code under specified conditions.",
+    "Cardlytics (Supplier): Provide 24/7 maintenance services, training, and non-maintenance support services.",
+    "Bank of America: Pay specified fees for source code delivery triggered by user thresholds, performance metrics, or supplier breach.",
+    "Bank of America: Maintain its copy of the source code at a designated installation site."
+  ],
+  "term": "The software license term is not specified. The initial maintenance term begins after a 120-day warranty period and lasts for 12 months, automatically renewing for successive 12-month periods unless terminated.",
+  "risks": [
+    "Bank of America has a unilateral right to terminate maintenance services for convenience at any time and can reinstate them without paying a reinstatement fee.",
+    "Bank of America has the right to obtain the source code if the Supplier materially breaches the agreement or fails to meet performance adjustments for six consecutive months."
+  ]
+}

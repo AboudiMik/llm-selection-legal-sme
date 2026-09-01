@@ -1,0 +1,10 @@
+profile,task,winner,runner_up,margin,verdict
+cost-constrained,extraction,deepseek,gemini,0.3407,DECISIVE
+cost-constrained,qa,deepseek,gemini,0.3881,DECISIVE
+cost-constrained,summarisation,deepseek,gpt,0.2931,DECISIVE
+confidentiality-constrained,extraction,deepseek,— none —,,NO CHOICE: one feasible candidate
+confidentiality-constrained,qa,deepseek,— none —,,NO CHOICE: one feasible candidate
+confidentiality-constrained,summarisation,deepseek,— none —,,NO CHOICE: one feasible candidate
+quality-critical,extraction,deepseek,claude,0.0199,TOO CLOSE TO CALL
+quality-critical,qa,deepseek,gemini,0.2264,DECISIVE
+quality-critical,summarisation,gpt,claude,0.0042,TOO CLOSE TO CALL

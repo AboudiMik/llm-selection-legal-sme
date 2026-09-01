@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Kathy Ireland, Inc. (Licensor)",
+    "The Sterling/Winters Co. (Media Producer/IP Owner)",
+    "Diplomat Ambassador Eyewear Group (Licensee)"
+  ],
+  "purpose": "To grant Diplomat the right to use Kathy Ireland's name, likeness, and endorsement in connection with the manufacture, advertisement, and sale of Kathy Ireland Eyewear and related optical accessories.",
+  "key_obligations": [
+    "KI, Inc. must grant the name and likeness license and provide Kathy Ireland for product endorsement, one personal appearance, up to two photo sessions, and one video session per License Year.",
+    "Diplomat must pay KI, Inc. a percentage-based royalty on net wholesale volume, subject to minimum guaranteed royalties, and provide monthly sales statements.",
+    "Diplomat must pay for first-class travel and accommodation expenses for Kathy Ireland and her entourage for appearances, and pay The Sterling/Winters Co. daily fees for photo and video sessions.",
+    "Diplomat must manufacture products to an approved quality standard, submit samples and packaging for KI, Inc.'s approval, and comply with applicable labor and safety laws.",
+    "The Sterling/Winters Co. must produce the required photo and video sessions."
+  ],
+  "term": "Commences August 1, 1995 and expires January 30, 2000, unless terminated earlier.",
+  "risks": [
+    "Either party may terminate the agreement if Kmart stores elect not to carry the eyewear prior to January 30, 1997.",
+    "KI, Inc. may terminate the agreement if Diplomat fails to commence manufacturing or selling within specified timeframes, goes bankrupt, breaches material obligations, or uses another endorser whose image risks damaging Kathy Ireland's goodwill.",
+    "Diplomat must broadly indemnify KI, Inc. and Kathy Ireland against claims arising from product defects, unauthorized IP use, or other actions, and must maintain adequate product liability insurance.",
+    "KI, Inc.'s indemnity to Diplomat is strictly limited to claims arising solely from authorized use of Kathy Ireland's name brought by other KI, Inc. licensees.",
+    "All images, artwork, and designs produced from the photo and video sessions remain the exclusive property of The Sterling/Winters Co., not Diplomat.",
+    "The license is exclusive for specific eyewear and optical cases/cleaning kits, but non-exclusive for other optical accessories."
+  ]
+}

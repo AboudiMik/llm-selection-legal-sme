@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "eGain Communications Corporation (eGain / service provider)",
+    "Eliance Corporation (Customer)"
+  ],
+  "purpose": "This agreement establishes the terms under which eGain will provide the Customer with web-based access, maintenance, and hosting services for eGain's software to process and respond to online messages.",
+  "key_obligations": [
+    "eGain must provide hosting services, system maintenance, and 24/7 live telephone customer support.",
+    "eGain must defend and indemnify the Customer against third-party intellectual property infringement claims related to the software.",
+    "Customer must pay hosting fees on or before the first day of the month and pay any applicable taxes.",
+    "Customer must provide and maintain its own internet access and telecommunications equipment.",
+    "Customer must use the system only for lawful purposes, maintain password confidentiality, and not reverse-engineer the software."
+  ],
+  "term": "Initial one-year term, automatically renewing for successive one-year periods unless either party gives at least 30 days' written notice of non-renewal.",
+  "risks": [
+    "eGain's total liability is capped at the price paid for the services out of which the claim arose.",
+    "eGain disclaims liability for consequential, exemplary, indirect, special, or incidental damages, including lost profits.",
+    "Customer's sole and exclusive remedy for service downtime is limited to service credits.",
+    "eGain may adjust the monthly fee at the end of any term with 60 days' prior written notice.",
+    "Late payments incur a fee of 1.5% per month or the maximum allowed by law.",
+    "Upon termination, eGain is entitled to retain copies of the Customer's online messages and reports for its records and internal purposes."
+  ]
+}

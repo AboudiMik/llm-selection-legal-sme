@@ -1,0 +1,1590 @@
+contract,clause,confidence,model,mentioned
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,high,claude-sonnet-5,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,medium,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,medium,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,medium,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Expiration Date,medium,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Termination For Convenience,high,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,License Grant,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,License Grant,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,License Grant,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,License Grant,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,License Grant,high,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Audit Rights,high,claude-sonnet-5,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Audit Rights,high,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Insurance,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Insurance,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Insurance,high,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Insurance,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Insurance,high,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Exclusivity,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Exclusivity,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Exclusivity,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Exclusivity,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Exclusivity,high,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Non-Compete,high,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Change Of Control,low,deepseek-v4-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Change Of Control,low,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Change Of Control,low,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Minimum Commitment,low,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Minimum Commitment,low,deepseek-v4-pro,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Minimum Commitment,low,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Minimum Commitment,low,gpt-5.6-terra,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Minimum Commitment,low,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Volume Restriction,low,claude-sonnet-5,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Volume Restriction,low,deepseek-v4-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Volume Restriction,low,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Volume Restriction,low,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Volume Restriction,low,llama-3.3-70b,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Post-Termination Services,medium,claude-sonnet-5,True
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt,Post-Termination Services,medium,llama-3.3-70b,False
+GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,False
+GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,False
+GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Anti-Assignment,high,claude-sonnet-5,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,high,deepseek-v4-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,high,gpt-5.6-terra,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Uncapped Liability,high,claude-sonnet-5,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,high,claude-sonnet-5,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Termination For Convenience,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,License Grant,high,claude-sonnet-5,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,License Grant,high,deepseek-v4-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,License Grant,high,gemini-3.1-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,License Grant,high,gpt-5.6-terra,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,License Grant,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,No-Solicit Of Employees,high,claude-sonnet-5,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,No-Solicit Of Employees,high,deepseek-v4-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,No-Solicit Of Employees,high,gemini-3.1-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,No-Solicit Of Employees,high,gpt-5.6-terra,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,No-Solicit Of Employees,high,llama-3.3-70b,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Liquidated Damages,high,claude-sonnet-5,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Liquidated Damages,high,deepseek-v4-pro,True
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Liquidated Damages,high,gemini-3.1-pro,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Liquidated Damages,high,gpt-5.6-terra,False
+PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt,Liquidated Damages,high,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Anti-Assignment,high,llama-3.3-70b,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,high,deepseek-v4-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Termination For Convenience,high,llama-3.3-70b,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,License Grant,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,License Grant,high,deepseek-v4-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,License Grant,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,License Grant,high,gpt-5.6-terra,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,License Grant,high,llama-3.3-70b,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Transferable License,high,claude-sonnet-5,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Transferable License,high,deepseek-v4-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Transferable License,high,gemini-3.1-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Transferable License,high,gpt-5.6-terra,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Non-Transferable License,high,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Irrevocable Or Perpetual License,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Irrevocable Or Perpetual License,high,deepseek-v4-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Irrevocable Or Perpetual License,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Irrevocable Or Perpetual License,high,gpt-5.6-terra,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Irrevocable Or Perpetual License,high,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Affiliate License-Licensee,medium,claude-sonnet-5,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Change Of Control,low,deepseek-v4-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Change Of Control,low,gemini-3.1-pro,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Change Of Control,low,gpt-5.6-terra,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,high,claude-sonnet-5,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,high,deepseek-v4-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,high,gemini-3.1-pro,True
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,high,gpt-5.6-terra,False
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt,Ip Ownership Assignment,high,llama-3.3-70b,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Cap On Liability,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Uncapped Liability,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,medium,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,medium,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Termination For Convenience,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,License Grant,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,License Grant,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,License Grant,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,License Grant,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,License Grant,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Transferable License,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Transferable License,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Transferable License,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Transferable License,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Transferable License,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Affiliate License-Licensee,medium,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Audit Rights,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Audit Rights,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Insurance,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Insurance,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Insurance,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Insurance,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Insurance,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Exclusivity,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Exclusivity,high,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Exclusivity,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Exclusivity,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Exclusivity,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,high,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Non-Compete,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,No-Solicit Of Employees,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,No-Solicit Of Employees,high,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,No-Solicit Of Employees,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,No-Solicit Of Employees,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,No-Solicit Of Employees,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Change Of Control,low,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Change Of Control,low,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Change Of Control,low,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Change Of Control,low,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Minimum Commitment,low,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Minimum Commitment,low,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Minimum Commitment,low,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Minimum Commitment,low,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Minimum Commitment,low,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,high,claude-sonnet-5,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,high,deepseek-v4-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,high,gemini-3.1-pro,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,high,gpt-5.6-terra,True
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Ip Ownership Assignment,high,llama-3.3-70b,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Liquidated Damages,high,claude-sonnet-5,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Liquidated Damages,high,deepseek-v4-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Liquidated Damages,high,gemini-3.1-pro,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Liquidated Damages,high,gpt-5.6-terra,False
+DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt,Liquidated Damages,high,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,high,deepseek-v4-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,medium,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,medium,deepseek-v4-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,medium,gemini-3.1-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,medium,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Termination For Convenience,high,llama-3.3-70b,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,License Grant,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,License Grant,high,deepseek-v4-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,License Grant,high,gemini-3.1-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,License Grant,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,License Grant,high,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Affiliate License-Licensee,medium,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Audit Rights,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Audit Rights,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Insurance,high,claude-sonnet-5,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Insurance,high,deepseek-v4-pro,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Insurance,high,gemini-3.1-pro,False
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Insurance,high,gpt-5.6-terra,True
+ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt,Insurance,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,deepseek-v4-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,gemini-3.1-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,gpt-5.6-terra,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,License Grant,high,claude-sonnet-5,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,License Grant,high,deepseek-v4-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,License Grant,high,gemini-3.1-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,License Grant,high,gpt-5.6-terra,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,License Grant,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Transferable License,high,claude-sonnet-5,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Transferable License,high,deepseek-v4-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Transferable License,high,gemini-3.1-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Transferable License,high,gpt-5.6-terra,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Non-Transferable License,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Insurance,high,claude-sonnet-5,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Insurance,high,deepseek-v4-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Insurance,high,gemini-3.1-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Insurance,high,gpt-5.6-terra,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Insurance,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Change Of Control,low,deepseek-v4-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Change Of Control,low,gemini-3.1-pro,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Change Of Control,low,gpt-5.6-terra,True
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Volume Restriction,low,claude-sonnet-5,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Volume Restriction,low,deepseek-v4-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Volume Restriction,low,gemini-3.1-pro,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Volume Restriction,low,gpt-5.6-terra,False
+FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt,Volume Restriction,low,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,high,deepseek-v4-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,high,gemini-3.1-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Cap On Liability,high,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Uncapped Liability,high,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,medium,deepseek-v4-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,medium,gpt-5.6-terra,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Termination For Convenience,high,llama-3.3-70b,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,License Grant,high,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,License Grant,high,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,License Grant,high,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,License Grant,high,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,License Grant,high,llama-3.3-70b,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Transferable License,high,claude-sonnet-5,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Transferable License,high,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Transferable License,high,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Transferable License,high,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Non-Transferable License,high,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Affiliate License-Licensee,medium,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Change Of Control,low,deepseek-v4-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Change Of Control,low,gemini-3.1-pro,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Change Of Control,low,gpt-5.6-terra,True
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,high,claude-sonnet-5,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,high,deepseek-v4-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,high,gemini-3.1-pro,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,high,gpt-5.6-terra,False
+MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt,Ip Ownership Assignment,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Uncapped Liability,high,claude-sonnet-5,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Renewal Term,high,claude-sonnet-5,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Renewal Term,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Renewal Term,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Renewal Term,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Renewal Term,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Audit Rights,high,claude-sonnet-5,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Audit Rights,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Exclusivity,high,claude-sonnet-5,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Exclusivity,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Exclusivity,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Exclusivity,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Exclusivity,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Volume Restriction,low,claude-sonnet-5,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Volume Restriction,low,deepseek-v4-pro,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Volume Restriction,low,gemini-3.1-pro,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Volume Restriction,low,gpt-5.6-terra,True
+PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt,Volume Restriction,low,llama-3.3-70b,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Anti-Assignment,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Cap On Liability,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Uncapped Liability,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,high,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Termination For Convenience,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,License Grant,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,License Grant,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,License Grant,high,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,License Grant,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,License Grant,high,llama-3.3-70b,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Transferable License,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Transferable License,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Transferable License,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Transferable License,high,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Transferable License,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Irrevocable Or Perpetual License,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Irrevocable Or Perpetual License,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Irrevocable Or Perpetual License,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Irrevocable Or Perpetual License,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Irrevocable Or Perpetual License,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Affiliate License-Licensee,medium,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Audit Rights,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Audit Rights,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Insurance,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Insurance,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Insurance,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Insurance,high,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Insurance,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Exclusivity,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Exclusivity,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Exclusivity,high,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Exclusivity,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Exclusivity,high,llama-3.3-70b,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,high,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Non-Compete,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Change Of Control,low,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Change Of Control,low,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Change Of Control,low,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,claude-sonnet-5,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,gpt-5.6-terra,True
+HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,high,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Cap On Liability,high,llama-3.3-70b,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Uncapped Liability,high,claude-sonnet-5,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Uncapped Liability,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Uncapped Liability,high,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Uncapped Liability,high,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Uncapped Liability,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Renewal Term,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Renewal Term,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Renewal Term,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Renewal Term,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Renewal Term,high,llama-3.3-70b,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,License Grant,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,License Grant,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,License Grant,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,License Grant,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,License Grant,high,llama-3.3-70b,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Audit Rights,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Audit Rights,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Insurance,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Insurance,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Insurance,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Insurance,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Insurance,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Exclusivity,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Exclusivity,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Exclusivity,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Exclusivity,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Exclusivity,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,high,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Non-Compete,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Minimum Commitment,low,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Minimum Commitment,low,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Minimum Commitment,low,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Minimum Commitment,low,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Minimum Commitment,low,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Volume Restriction,low,claude-sonnet-5,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Volume Restriction,low,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Volume Restriction,low,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Volume Restriction,low,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Volume Restriction,low,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,claude-sonnet-5,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Post-Termination Services,medium,llama-3.3-70b,False
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,high,claude-sonnet-5,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,high,deepseek-v4-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,high,gemini-3.1-pro,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,high,gpt-5.6-terra,True
+LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt,Ip Ownership Assignment,high,llama-3.3-70b,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Anti-Assignment,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Anti-Assignment,high,deepseek-v4-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Anti-Assignment,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Anti-Assignment,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Anti-Assignment,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,high,gemini-3.1-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,high,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Cap On Liability,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,License Grant,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,License Grant,high,deepseek-v4-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,License Grant,high,gemini-3.1-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,License Grant,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,License Grant,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Audit Rights,high,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Audit Rights,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Audit Rights,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Audit Rights,high,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Audit Rights,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Insurance,high,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Insurance,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Insurance,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Insurance,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Insurance,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Exclusivity,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Exclusivity,high,deepseek-v4-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Exclusivity,high,gemini-3.1-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Exclusivity,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Exclusivity,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,high,deepseek-v4-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,high,gemini-3.1-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Non-Compete,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,No-Solicit Of Employees,high,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,No-Solicit Of Employees,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,No-Solicit Of Employees,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,No-Solicit Of Employees,high,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,No-Solicit Of Employees,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Change Of Control,low,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Change Of Control,low,deepseek-v4-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Change Of Control,low,gemini-3.1-pro,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Change Of Control,low,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Change Of Control,low,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Revenue/Profit Sharing,high,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Minimum Commitment,low,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Minimum Commitment,low,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Minimum Commitment,low,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Minimum Commitment,low,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Minimum Commitment,low,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Post-Termination Services,medium,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Post-Termination Services,medium,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,high,claude-sonnet-5,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,high,gpt-5.6-terra,True
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Ip Ownership Assignment,high,llama-3.3-70b,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Liquidated Damages,high,claude-sonnet-5,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Liquidated Damages,high,deepseek-v4-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Liquidated Damages,high,gemini-3.1-pro,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Liquidated Damages,high,gpt-5.6-terra,False
+PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt,Liquidated Damages,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Anti-Assignment,high,claude-sonnet-5,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Anti-Assignment,high,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Anti-Assignment,high,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Anti-Assignment,high,gpt-5.6-terra,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Anti-Assignment,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Cap On Liability,high,llama-3.3-70b,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Uncapped Liability,high,claude-sonnet-5,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Uncapped Liability,high,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Uncapped Liability,high,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Uncapped Liability,high,gpt-5.6-terra,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Uncapped Liability,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,medium,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,medium,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,medium,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,medium,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Expiration Date,medium,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Renewal Term,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Renewal Term,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Renewal Term,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Renewal Term,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Renewal Term,high,llama-3.3-70b,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Termination For Convenience,high,llama-3.3-70b,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,License Grant,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,License Grant,high,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,License Grant,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,License Grant,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,License Grant,high,llama-3.3-70b,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Transferable License,high,claude-sonnet-5,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Transferable License,high,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Transferable License,high,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Transferable License,high,gpt-5.6-terra,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Non-Transferable License,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Affiliate License-Licensee,medium,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Audit Rights,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Audit Rights,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Audit Rights,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Audit Rights,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Audit Rights,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Insurance,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Insurance,high,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Insurance,high,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Insurance,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Insurance,high,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Exclusivity,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Exclusivity,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Exclusivity,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Exclusivity,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Exclusivity,high,llama-3.3-70b,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Minimum Commitment,low,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Minimum Commitment,low,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Minimum Commitment,low,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Minimum Commitment,low,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Minimum Commitment,low,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Post-Termination Services,medium,claude-sonnet-5,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Post-Termination Services,medium,llama-3.3-70b,False
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Warranty Duration,high,claude-sonnet-5,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Warranty Duration,high,deepseek-v4-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Warranty Duration,high,gemini-3.1-pro,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Warranty Duration,high,gpt-5.6-terra,True
+ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt,Warranty Duration,high,llama-3.3-70b,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Anti-Assignment,high,claude-sonnet-5,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Anti-Assignment,high,deepseek-v4-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Anti-Assignment,high,gemini-3.1-pro,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Anti-Assignment,high,gpt-5.6-terra,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Anti-Assignment,high,llama-3.3-70b,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,claude-sonnet-5,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,deepseek-v4-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,gemini-3.1-pro,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,gpt-5.6-terra,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Expiration Date,medium,llama-3.3-70b,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,high,claude-sonnet-5,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,high,deepseek-v4-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,high,gemini-3.1-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,high,gpt-5.6-terra,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Termination For Convenience,high,llama-3.3-70b,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,License Grant,high,claude-sonnet-5,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,License Grant,high,deepseek-v4-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,License Grant,high,gemini-3.1-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,License Grant,high,gpt-5.6-terra,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,License Grant,high,llama-3.3-70b,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Post-Termination Services,medium,claude-sonnet-5,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Post-Termination Services,medium,gpt-5.6-terra,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Post-Termination Services,medium,llama-3.3-70b,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,high,claude-sonnet-5,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,high,deepseek-v4-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,high,gemini-3.1-pro,True
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,high,gpt-5.6-terra,False
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt,Ip Ownership Assignment,high,llama-3.3-70b,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Uncapped Liability,high,claude-sonnet-5,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Uncapped Liability,high,deepseek-v4-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Uncapped Liability,high,gemini-3.1-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Uncapped Liability,high,gpt-5.6-terra,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Uncapped Liability,high,llama-3.3-70b,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,License Grant,high,deepseek-v4-pro,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,License Grant,high,gemini-3.1-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,License Grant,high,llama-3.3-70b,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Transferable License,high,claude-sonnet-5,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Transferable License,high,deepseek-v4-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Transferable License,high,gemini-3.1-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Transferable License,high,gpt-5.6-terra,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Non-Transferable License,high,llama-3.3-70b,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Post-Termination Services,medium,claude-sonnet-5,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Post-Termination Services,medium,gpt-5.6-terra,True
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt,Post-Termination Services,medium,llama-3.3-70b,False
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,medium,claude-sonnet-5,False
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,medium,deepseek-v4-pro,False
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,medium,gemini-3.1-pro,False
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,medium,gpt-5.6-terra,False
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement.txt,Expiration Date,medium,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,License Grant,high,deepseek-v4-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,License Grant,high,gemini-3.1-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,License Grant,high,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,high,deepseek-v4-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,high,gemini-3.1-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Non-Compete,high,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,False
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+GSVINC_05_15_1998-EX-10-SPONSORSHIP AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,medium,claude-sonnet-5,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,medium,deepseek-v4-pro,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,medium,gemini-3.1-pro,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,medium,gpt-5.6-terra,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Expiration Date,medium,llama-3.3-70b,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",License Grant,high,claude-sonnet-5,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",License Grant,high,deepseek-v4-pro,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",License Grant,high,gemini-3.1-pro,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",License Grant,high,gpt-5.6-terra,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",License Grant,high,llama-3.3-70b,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Transferable License,high,claude-sonnet-5,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Transferable License,high,deepseek-v4-pro,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Transferable License,high,gemini-3.1-pro,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Transferable License,high,gpt-5.6-terra,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Non-Transferable License,high,llama-3.3-70b,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Insurance,high,claude-sonnet-5,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Insurance,high,deepseek-v4-pro,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Insurance,high,gemini-3.1-pro,False
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Insurance,high,gpt-5.6-terra,True
+"XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",Insurance,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Irrevocable Or Perpetual License,high,claude-sonnet-5,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Irrevocable Or Perpetual License,high,deepseek-v4-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Irrevocable Or Perpetual License,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Irrevocable Or Perpetual License,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Irrevocable Or Perpetual License,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Insurance,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Insurance,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Insurance,high,gemini-3.1-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Insurance,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Insurance,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Warranty Duration,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Warranty Duration,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Warranty Duration,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Warranty Duration,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Warranty Duration,high,llama-3.3-70b,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Liquidated Damages,high,claude-sonnet-5,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Liquidated Damages,high,deepseek-v4-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Liquidated Damages,high,gemini-3.1-pro,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Liquidated Damages,high,gpt-5.6-terra,True
+NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt,Liquidated Damages,high,llama-3.3-70b,False
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Renewal Term,high,claude-sonnet-5,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Renewal Term,high,deepseek-v4-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Renewal Term,high,gemini-3.1-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Renewal Term,high,gpt-5.6-terra,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Renewal Term,high,llama-3.3-70b,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,high,claude-sonnet-5,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,high,deepseek-v4-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,high,gemini-3.1-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,high,gpt-5.6-terra,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Termination For Convenience,high,llama-3.3-70b,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Warranty Duration,high,claude-sonnet-5,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Warranty Duration,high,deepseek-v4-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Warranty Duration,high,gemini-3.1-pro,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Warranty Duration,high,gpt-5.6-terra,True
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt,Warranty Duration,high,llama-3.3-70b,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Anti-Assignment,high,claude-sonnet-5,True
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Anti-Assignment,high,deepseek-v4-pro,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Anti-Assignment,high,gemini-3.1-pro,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Anti-Assignment,high,gpt-5.6-terra,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Anti-Assignment,high,llama-3.3-70b,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,high,claude-sonnet-5,True
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,high,deepseek-v4-pro,False
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,high,gemini-3.1-pro,True
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,high,gpt-5.6-terra,True
+"GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",Termination For Convenience,high,llama-3.3-70b,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Anti-Assignment,high,claude-sonnet-5,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Anti-Assignment,high,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,high,claude-sonnet-5,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,high,deepseek-v4-pro,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,high,gemini-3.1-pro,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,high,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Cap On Liability,high,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,medium,claude-sonnet-5,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,medium,deepseek-v4-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,medium,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,medium,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Expiration Date,medium,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Insurance,high,claude-sonnet-5,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Insurance,high,deepseek-v4-pro,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Insurance,high,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Insurance,high,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Insurance,high,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Minimum Commitment,low,claude-sonnet-5,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Minimum Commitment,low,deepseek-v4-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Minimum Commitment,low,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Minimum Commitment,low,gpt-5.6-terra,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Minimum Commitment,low,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Volume Restriction,low,claude-sonnet-5,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Volume Restriction,low,deepseek-v4-pro,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Volume Restriction,low,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Volume Restriction,low,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Volume Restriction,low,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Warranty Duration,high,claude-sonnet-5,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Warranty Duration,high,deepseek-v4-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Warranty Duration,high,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Warranty Duration,high,gpt-5.6-terra,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Warranty Duration,high,llama-3.3-70b,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Liquidated Damages,high,claude-sonnet-5,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Liquidated Damages,high,deepseek-v4-pro,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Liquidated Damages,high,gemini-3.1-pro,False
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Liquidated Damages,high,gpt-5.6-terra,True
+GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt,Liquidated Damages,high,llama-3.3-70b,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,License Grant,high,deepseek-v4-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,License Grant,high,gemini-3.1-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,License Grant,high,llama-3.3-70b,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Affiliate License-Licensee,medium,claude-sonnet-5,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Affiliate License-Licensee,medium,deepseek-v4-pro,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Affiliate License-Licensee,medium,gemini-3.1-pro,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Affiliate License-Licensee,medium,gpt-5.6-terra,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Affiliate License-Licensee,medium,llama-3.3-70b,False
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Exclusivity,high,claude-sonnet-5,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Exclusivity,high,deepseek-v4-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Exclusivity,high,gemini-3.1-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Exclusivity,high,gpt-5.6-terra,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Exclusivity,high,llama-3.3-70b,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,True
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,False
+FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,gpt-5.6-terra,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,high,claude-sonnet-5,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,high,deepseek-v4-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,high,gemini-3.1-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,high,gpt-5.6-terra,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Non-Compete,high,llama-3.3-70b,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,claude-sonnet-5,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,deepseek-v4-pro,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,gemini-3.1-pro,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,gpt-5.6-terra,True
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,llama-3.3-70b,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+ORBSATCORP_08_17_2007-EX-7.3-STRATEGIC ALLIANCE AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,gpt-5.6-terra,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Exclusivity,high,claude-sonnet-5,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Exclusivity,high,deepseek-v4-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Exclusivity,high,gemini-3.1-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Exclusivity,high,gpt-5.6-terra,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,Exclusivity,high,llama-3.3-70b,False
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,claude-sonnet-5,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,deepseek-v4-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,gemini-3.1-pro,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,gpt-5.6-terra,True
+REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt,No-Solicit Of Employees,high,llama-3.3-70b,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Uncapped Liability,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Uncapped Liability,high,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Uncapped Liability,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Uncapped Liability,high,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Uncapped Liability,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,License Grant,high,claude-sonnet-5,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,License Grant,high,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,License Grant,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,License Grant,high,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,License Grant,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Insurance,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Insurance,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Insurance,high,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Insurance,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Insurance,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Exclusivity,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Exclusivity,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Exclusivity,high,gemini-3.1-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Exclusivity,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Exclusivity,high,llama-3.3-70b,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Post-Termination Services,medium,claude-sonnet-5,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Post-Termination Services,medium,llama-3.3-70b,False
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Warranty Duration,high,claude-sonnet-5,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Warranty Duration,high,deepseek-v4-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Warranty Duration,high,gemini-3.1-pro,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Warranty Duration,high,gpt-5.6-terra,True
+NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt,Warranty Duration,high,llama-3.3-70b,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Uncapped Liability,high,claude-sonnet-5,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Uncapped Liability,high,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Uncapped Liability,high,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Uncapped Liability,high,gpt-5.6-terra,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Uncapped Liability,high,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,high,gpt-5.6-terra,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Volume Restriction,low,claude-sonnet-5,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Volume Restriction,low,deepseek-v4-pro,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Volume Restriction,low,gemini-3.1-pro,True
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Volume Restriction,low,gpt-5.6-terra,False
+ENERGYXXILTD_05_08_2015-EX-10.13-Transportation AGREEMENT.txt,Volume Restriction,low,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,License Grant,high,deepseek-v4-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,License Grant,high,gemini-3.1-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,License Grant,high,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,deepseek-v4-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,gemini-3.1-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,llama-3.3-70b,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,high,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,high,deepseek-v4-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,high,gemini-3.1-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,high,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Non-Compete,high,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,claude-sonnet-5,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,deepseek-v4-pro,False
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,gemini-3.1-pro,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,gpt-5.6-terra,True
+ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,License Grant,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,License Grant,high,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,License Grant,high,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Insurance,high,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Insurance,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Insurance,high,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Insurance,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Insurance,high,llama-3.3-70b,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Exclusivity,high,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Covenant Not To Sue,high,claude-sonnet-5,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Covenant Not To Sue,high,deepseek-v4-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Covenant Not To Sue,high,gpt-5.6-terra,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,claude-sonnet-5,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,deepseek-v4-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,gemini-3.1-pro,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Volume Restriction,low,llama-3.3-70b,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Post-Termination Services,medium,claude-sonnet-5,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Post-Termination Services,medium,gpt-5.6-terra,True
+AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt,Post-Termination Services,medium,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Uncapped Liability,high,claude-sonnet-5,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Uncapped Liability,high,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Uncapped Liability,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Uncapped Liability,high,gpt-5.6-terra,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Uncapped Liability,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,License Grant,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,License Grant,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,License Grant,high,llama-3.3-70b,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Transferable License,high,claude-sonnet-5,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Transferable License,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Transferable License,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Transferable License,high,gpt-5.6-terra,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Non-Transferable License,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Irrevocable Or Perpetual License,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Irrevocable Or Perpetual License,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Irrevocable Or Perpetual License,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Irrevocable Or Perpetual License,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Irrevocable Or Perpetual License,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Audit Rights,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Covenant Not To Sue,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Covenant Not To Sue,high,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Covenant Not To Sue,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Covenant Not To Sue,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Covenant Not To Sue,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Change Of Control,low,claude-sonnet-5,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Change Of Control,low,deepseek-v4-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Change Of Control,low,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Change Of Control,low,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Change Of Control,low,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Revenue/Profit Sharing,high,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Post-Termination Services,medium,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Post-Termination Services,medium,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Post-Termination Services,medium,gpt-5.6-terra,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Post-Termination Services,medium,llama-3.3-70b,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,high,claude-sonnet-5,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,high,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,high,gemini-3.1-pro,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,high,gpt-5.6-terra,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Ip Ownership Assignment,high,llama-3.3-70b,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Warranty Duration,high,claude-sonnet-5,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Warranty Duration,high,deepseek-v4-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Warranty Duration,high,gemini-3.1-pro,False
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Warranty Duration,high,gpt-5.6-terra,True
+CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt,Warranty Duration,high,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Anti-Assignment,high,claude-sonnet-5,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Anti-Assignment,high,deepseek-v4-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Anti-Assignment,high,gemini-3.1-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Anti-Assignment,high,gpt-5.6-terra,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Anti-Assignment,high,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,deepseek-v4-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,gemini-3.1-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Expiration Date,medium,llama-3.3-70b,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Audit Rights,high,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Audit Rights,high,deepseek-v4-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Audit Rights,high,gemini-3.1-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Audit Rights,high,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Audit Rights,high,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Insurance,high,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Insurance,high,deepseek-v4-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Insurance,high,gemini-3.1-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Insurance,high,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Insurance,high,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Change Of Control,low,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Change Of Control,low,deepseek-v4-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Change Of Control,low,gemini-3.1-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Change Of Control,low,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Change Of Control,low,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Minimum Commitment,low,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Minimum Commitment,low,deepseek-v4-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Minimum Commitment,low,gemini-3.1-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Minimum Commitment,low,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Minimum Commitment,low,llama-3.3-70b,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Post-Termination Services,medium,claude-sonnet-5,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Post-Termination Services,medium,deepseek-v4-pro,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Post-Termination Services,medium,gemini-3.1-pro,False
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Post-Termination Services,medium,gpt-5.6-terra,True
+"Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",Post-Termination Services,medium,llama-3.3-70b,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Anti-Assignment,high,claude-sonnet-5,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Anti-Assignment,high,deepseek-v4-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Anti-Assignment,high,gemini-3.1-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Anti-Assignment,high,gpt-5.6-terra,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Anti-Assignment,high,llama-3.3-70b,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,high,claude-sonnet-5,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,high,deepseek-v4-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,high,gemini-3.1-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,high,gpt-5.6-terra,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Cap On Liability,high,llama-3.3-70b,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,claude-sonnet-5,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,deepseek-v4-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,gemini-3.1-pro,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,gpt-5.6-terra,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Expiration Date,medium,llama-3.3-70b,False
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Renewal Term,high,claude-sonnet-5,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Renewal Term,high,deepseek-v4-pro,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Renewal Term,high,gemini-3.1-pro,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Renewal Term,high,gpt-5.6-terra,True
+SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt,Renewal Term,high,llama-3.3-70b,True
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,True
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,high,claude-sonnet-5,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,high,deepseek-v4-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,high,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Termination For Convenience,high,llama-3.3-70b,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Audit Rights,high,claude-sonnet-5,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Audit Rights,high,deepseek-v4-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Audit Rights,high,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Audit Rights,high,llama-3.3-70b,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Post-Termination Services,medium,claude-sonnet-5,True
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Post-Termination Services,medium,deepseek-v4-pro,True
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Post-Termination Services,medium,gemini-3.1-pro,False
+TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt,Post-Termination Services,medium,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Anti-Assignment,high,claude-sonnet-5,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Anti-Assignment,high,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Anti-Assignment,high,gemini-3.1-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Anti-Assignment,high,gpt-5.6-terra,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Anti-Assignment,high,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,high,deepseek-v4-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,high,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Cap On Liability,high,llama-3.3-70b,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,medium,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,medium,deepseek-v4-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,medium,gemini-3.1-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,medium,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Expiration Date,medium,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Renewal Term,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Renewal Term,high,deepseek-v4-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Renewal Term,high,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Renewal Term,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Renewal Term,high,llama-3.3-70b,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,License Grant,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,License Grant,high,deepseek-v4-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,License Grant,high,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,License Grant,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,License Grant,high,llama-3.3-70b,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Irrevocable Or Perpetual License,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Irrevocable Or Perpetual License,high,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Irrevocable Or Perpetual License,high,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Irrevocable Or Perpetual License,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Irrevocable Or Perpetual License,high,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,No-Solicit Of Employees,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,No-Solicit Of Employees,high,deepseek-v4-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,No-Solicit Of Employees,high,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,No-Solicit Of Employees,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,No-Solicit Of Employees,high,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Change Of Control,low,claude-sonnet-5,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Change Of Control,low,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Change Of Control,low,gemini-3.1-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Change Of Control,low,gpt-5.6-terra,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Change Of Control,low,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Minimum Commitment,low,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Minimum Commitment,low,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Minimum Commitment,low,gemini-3.1-pro,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Minimum Commitment,low,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Minimum Commitment,low,llama-3.3-70b,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Volume Restriction,low,claude-sonnet-5,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Volume Restriction,low,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Volume Restriction,low,gemini-3.1-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Volume Restriction,low,gpt-5.6-terra,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Volume Restriction,low,llama-3.3-70b,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Warranty Duration,high,claude-sonnet-5,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Warranty Duration,high,deepseek-v4-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Warranty Duration,high,gemini-3.1-pro,False
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Warranty Duration,high,gpt-5.6-terra,True
+VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt,Warranty Duration,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Anti-Assignment,high,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Anti-Assignment,high,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Anti-Assignment,high,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Anti-Assignment,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Anti-Assignment,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,high,deepseek-v4-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Cap On Liability,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Uncapped Liability,high,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Uncapped Liability,high,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Uncapped Liability,high,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Uncapped Liability,high,gpt-5.6-terra,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Uncapped Liability,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,gpt-5.6-terra,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Expiration Date,medium,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Renewal Term,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Renewal Term,high,deepseek-v4-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Renewal Term,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Renewal Term,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Renewal Term,high,llama-3.3-70b,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,high,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Termination For Convenience,high,llama-3.3-70b,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",License Grant,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",License Grant,high,deepseek-v4-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",License Grant,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",License Grant,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",License Grant,high,llama-3.3-70b,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Audit Rights,high,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Audit Rights,high,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Audit Rights,high,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Audit Rights,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Audit Rights,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Insurance,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Insurance,high,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Insurance,high,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Insurance,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Insurance,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Exclusivity,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Exclusivity,high,deepseek-v4-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Exclusivity,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Exclusivity,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Exclusivity,high,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Minimum Commitment,low,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Minimum Commitment,low,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Minimum Commitment,low,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Minimum Commitment,low,gpt-5.6-terra,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Minimum Commitment,low,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Volume Restriction,low,claude-sonnet-5,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Volume Restriction,low,deepseek-v4-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Volume Restriction,low,gemini-3.1-pro,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Volume Restriction,low,gpt-5.6-terra,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Volume Restriction,low,llama-3.3-70b,False
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Warranty Duration,high,claude-sonnet-5,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Warranty Duration,high,deepseek-v4-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Warranty Duration,high,gemini-3.1-pro,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Warranty Duration,high,gpt-5.6-terra,True
+"NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",Warranty Duration,high,llama-3.3-70b,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Anti-Assignment,high,claude-sonnet-5,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Anti-Assignment,high,deepseek-v4-pro,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Anti-Assignment,high,gemini-3.1-pro,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Anti-Assignment,high,gpt-5.6-terra,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Anti-Assignment,high,llama-3.3-70b,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,medium,claude-sonnet-5,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,medium,deepseek-v4-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,medium,gemini-3.1-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,medium,gpt-5.6-terra,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Expiration Date,medium,llama-3.3-70b,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Renewal Term,high,claude-sonnet-5,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Renewal Term,high,deepseek-v4-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Renewal Term,high,gemini-3.1-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Renewal Term,high,gpt-5.6-terra,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Renewal Term,high,llama-3.3-70b,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Exclusivity,high,claude-sonnet-5,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Exclusivity,high,deepseek-v4-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Exclusivity,high,gemini-3.1-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Exclusivity,high,gpt-5.6-terra,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Exclusivity,high,llama-3.3-70b,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Change Of Control,low,claude-sonnet-5,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Change Of Control,low,deepseek-v4-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Change Of Control,low,gemini-3.1-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Change Of Control,low,gpt-5.6-terra,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Change Of Control,low,llama-3.3-70b,False
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Revenue/Profit Sharing,high,claude-sonnet-5,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Revenue/Profit Sharing,high,deepseek-v4-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Revenue/Profit Sharing,high,gemini-3.1-pro,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Revenue/Profit Sharing,high,gpt-5.6-terra,True
+NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.txt,Revenue/Profit Sharing,high,llama-3.3-70b,True

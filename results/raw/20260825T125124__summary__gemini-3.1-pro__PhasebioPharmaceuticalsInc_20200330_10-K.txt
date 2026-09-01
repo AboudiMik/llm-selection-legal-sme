@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "PhaseBio Pharmaceuticals Inc. (Product owner and clinical trial sponsor for US/EU)",
+    "SFJ Pharmaceuticals X, Ltd. (Funder and clinical trial sponsor for Asia)"
+  ],
+  "purpose": "This agreement establishes a co-development partnership where SFJ provides up to $120 million in funding and operational support for clinical trials of PhaseBio's product, in exchange for milestone-based approval payments upon successful regulatory approvals.",
+  "key_obligations": [
+    "SFJ: Pay or incur up to $120 million in development costs for the clinical trials.",
+    "SFJ: Conduct clinical trials in Designated Asian Countries and provide operational support for trials in European Clinical Trial Countries.",
+    "PhaseBio: Conduct the Phase 3 clinical trial in the US and European Clinical Trial Countries.",
+    "PhaseBio: Manufacture and supply the product for all clinical trials.",
+    "PhaseBio: Pay SFJ specified Approval Payments upon achieving regulatory approvals in the US, EU, Japan, or China."
+  ],
+  "term": "Commences on January 9, 2020 and expires upon the earlier of termination under Section 14.2 or the payment of the final Approval Payment due for all applicable Regulatory Approvals.",
+  "risks": [
+    "Security Interest: PhaseBio grants SFJ a security interest in all of its assets (subordinated to SVB) to secure its payment and performance obligations.",
+    "Program Transfer: SFJ can force a transfer of PhaseBio's product-related business to SFJ if PhaseBio defaults on payments, breaches its underlying AstraZeneca license, or fails to remedy a going concern condition.",
+    "Termination Rights: SFJ has unilateral termination rights for Material Adverse Events, PhaseBio's change of control, adverse patent impacts, or unresolved Joint Steering Committee disagreements.",
+    "At-Will Termination: PhaseBio may terminate the agreement at-will after SFJ has funded $60 million, subject to a 300% buyout payment of incurred costs.",
+    "Exclusivity: SFJ is subject to a non-compete restriction preventing it from developing or commercializing competing products during the Exclusive Period.",
+    "Indemnities: Both parties provide mutual indemnification for gross negligence, willful misconduct, material breaches, and specific clinical trial liabilities.",
+    "Limitation of Liability: Both parties waive indirect, incidental, consequential, special, reliance, and punitive damages.",
+    "IP and Data Transfers: SFJ initially owns the Trial Data Package but is obligated to sell and transfer it to PhaseBio upon regulatory approval or termination."
+  ]
+}

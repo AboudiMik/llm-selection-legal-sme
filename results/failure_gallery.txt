@@ -1,0 +1,123 @@
+==============================================================================
+PROMPT STRUCTURE (identical for every call; only category + contract vary)
+==============================================================================
+SYSTEM: You are a legal contract analyst. You extract clauses from contracts verbatim — exact text as it appears in the document, no paraphrasing. You respond ONLY with a JSON object, no other text.
+
+USER (contract body elided):
+Below is the full text of a contract, followed by a task.
+
+<contract>
+[...full contract text...]
+</contract>
+
+Task: find all clauses in this contract that are {category definition below}.
+
+Respond with ONLY this JSON object (no markdown fences, no commentary):
+{"spans": ["<verbatim clause text 1>", "<verbatim clause text 2>", ...]}
+
+Rules:
+- Each span must be copied VERBATIM from the contract text above.
+- If the contract contains no such clause, respond with {"spans": []}.
+
+
+==============================================================================
+#1 [FALSE POSITIVE (gold: no such clause)]
+model=claude-sonnet-5 | contract=WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt | category=Termination For Convenience
+category definition sent: "clauses allowing a party to terminate without cause (for convenience)"
+
+MODEL SPAN:
+  This Agreement shall continue in effect from the Effective Date for a one (1) year period, unless earlier terminated as set forth below, and thereafter shall renew automatically for successive one (1) year periods unless either party gives the other party at least thirty (30) days prior written notice of its intent not to renew the Agreement.
+
+GOLD: [] (CUAD says this contract has no clause in this category)
+
+==============================================================================
+#2 [FALSE POSITIVE (gold: no such clause)]
+model=claude-sonnet-5 | contract=WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt | category=Ip Ownership Assignment
+category definition sent: "clauses assigning ownership of intellectual property created under the contract to a party"
+
+MODEL SPAN:
+  Except for the limited access right granted to Customer in this Agreement, all right, title and interest in and to the Software (including any and all modifications as a result of any implementation services rendered) and the eGain System are and shall remain the exclusive property of eGain and its licensors.
+
+GOLD: [] (CUAD says this contract has no clause in this category)
+
+==============================================================================
+#3 [FALSE POSITIVE (gold: no such clause)]
+model=deepseek-v4-pro | contract=WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt | category=Termination For Convenience
+category definition sent: "clauses allowing a party to terminate without cause (for convenience)"
+
+MODEL SPAN:
+  This Agreement shall continue in effect from the Effective Date for a one (1) year period, unless earlier terminated as set forth below, and thereafter shall renew automatically for successive one (1) year periods unless either party gives the other party at least thirty (30) days prior written notice of its intent not to renew the Agreement.
+
+GOLD: [] (CUAD says this contract has no clause in this category)
+
+==============================================================================
+#4 [FALSE POSITIVE (gold: no such clause)]
+model=gemini-3.1-pro | contract=WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt | category=Ip Ownership Assignment
+category definition sent: "clauses assigning ownership of intellectual property created under the contract to a party"
+
+MODEL SPAN:
+  Except for the limited access right granted to Customer in this Agreement, all right, title and interest in and to the Software (including any and all modifications as a result of any implementation services rendered) and the eGain System are and shall remain the exclusive property of eGain and its licensors.
+
+GOLD: [] (CUAD says this contract has no clause in this category)
+
+==============================================================================
+#5 [FALSE POSITIVE (gold: no such clause)]
+model=gemini-3.1-pro | contract=SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Mai | category=Termination For Convenience
+category definition sent: "clauses allowing a party to terminate without cause (for convenience)"
+
+MODEL SPAN:
+  After this period, Sicap Ltd reserves the right to adjust the prices       annually. The offer must be submitted three (3) months in advance and       EuroTel may decide within one (1) month to prolong or terminate this       maintenance and support contract. If EuroTel doesn't react in writing, the       new offer shall be considered as accepted.
+
+GOLD: [] (CUAD says this contract has no clause in this category)
+
+==============================================================================
+#6 [NEAR-MISS (best Jaccard 0.21 < 0.25)]
+model=claude-sonnet-5 | contract=CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEME | category=Ip Ownership Assignment
+category definition sent: "clauses assigning ownership of intellectual property created under the contract to a party"
+
+MODEL SPAN:
+  Commerce One hereby retains all of its right, title, and
+     interest in and to the Software, including all copyrights, patents,
+     trade secret rights, trademarks and other intellectual property rights
+     therein. All rights not expressly granted hereunder are reserved to
+     Commerce One. The Software and all copies thereof are licensed, not
+     sold, to Corio.
+
+GOLD SPAN (best match):
+  To the extent that         Commerce One would otherwise have a claim of ownership in such         Developments, Commerce One hereby assigns all rights in and to such         Developments to Corio.
+
+==============================================================================
+#7 [NEAR-MISS (best Jaccard 0.12 < 0.25)]
+model=gpt-5.6-terra | contract=SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Mai | category=Expiration Date
+category definition sent: "clauses stating the date or condition on which the contract's initial term expires"
+
+MODEL SPAN:
+  After the initial period of two years, the maintenance and support contract shall be automatically renewed for a period of one year on each renewal date, unless one of the parties terminates the maintenance and support contract through written notification to the other party in the form of a registered letter with proof of receipt, at least six (6) weeks prior to the renewal date. There shall be no reimbursement of any paid fee.
+
+GOLD SPAN (best match):
+  It shall be effective on 06 October 2000 and shall have a duration of two       years.
+
+==============================================================================
+#8 [NEAR-MISS (best Jaccard 0.13 < 0.25)]
+model=llama-3.3-70b | contract=SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Mai | category=Expiration Date
+category definition sent: "clauses stating the date or condition on which the contract's initial term expires"
+
+MODEL SPAN:
+  After the initial period of two years, the maintenance and support contract shall be automatically renewed for a period of one year on each renewal date, unless one of the parties terminates the maintenance and support contract through written notification to the other party in the form of a registered letter with proof of receipt, at least six (6) weeks prior to the renewal date.
+
+GOLD SPAN (best match):
+  It shall be effective on 06 October 2000 and shall have a duration of two       years.
+
+==============================================================================
+#9 [NEAR-MISS (best Jaccard 0.13 < 0.25)]
+model=llama-3.3-70b | contract=CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEME | category=Ip Ownership Assignment
+category definition sent: "clauses assigning ownership of intellectual property created under the contract to a party"
+
+MODEL SPAN:
+  13.6    Independent Development: Covenant not to Sue. Nothing in this Agreement will be construed to prohibit either parties' right to independently develop the Developments contemplated above. Each party covenants that it shall not, under any circumstances, sue the other party (or its officers, directors, successors and assigns) or any of that parties' licensees, customers, or distributors ("Protected Entities") for patent infringment under any 
+
+GOLD SPAN (best match):
+  To the extent that         Commerce One would otherwise have a claim of ownership in such         Developments, Commerce One hereby assigns all rights in and to such         Developments to Corio.
+
+
+totals across all five models: 34 false-positive spans, 6 near-miss spans

@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Corio Inc. (licensee and hosting provider)",
+    "Commerce One, Inc. (licensor and software owner)"
+  ],
+  "purpose": "This agreement grants Corio a license to host and provide its customers access to Commerce One's proprietary software and MarketSite.net Service as an Application Service Provider, and establishes joint marketing and support arrangements.",
+  "key_obligations": [
+    "Commerce One must grant Corio licenses to host, internally use, demonstrate, and distribute its software.",
+    "Commerce One must deliver the software, provide updates and upgrades, and offer installation, implementation, and ongoing technical support.",
+    "Commerce One must place the software source code into an escrow account.",
+    "Corio must pay license, maintenance, implementation, and revenue-sharing fees to Commerce One.",
+    "Corio must ensure its customers agree to end-user license agreements before accessing the software.",
+    "Corio must provide routine technical support to its customers and maintain accurate financial records subject to annual audits by Commerce One."
+  ],
+  "term": "Initial term of five years, automatically renewing for successive one-year periods unless either party gives written notice of termination at least 30 days before the current term expires.",
+  "risks": [
+    "Liability cap: Each party's liability is limited to the amounts paid by Corio for the relevant transaction in the 12 months preceding the claim (excluding IP indemnification).",
+    "Exclusion of damages: Neither party is liable for lost profits, costs of substitute goods, or indirect, special, or consequential damages.",
+    "Indemnity: Commerce One must indemnify Corio and its customers against third-party intellectual property infringement claims.",
+    "Termination rights: Either party may terminate for an uncured material breach (after 30 days' notice) or immediately upon the other party's insolvency.",
+    "IP ownership: Corio owns interface developments it creates solely, unless Commerce One supports them ongoing, in which case Commerce One retains ownership but assigns rights to Corio.",
+    "Audit risk: Commerce One may audit Corio's records annually, and Corio must cover audit costs if an underpayment exceeds 5%."
+  ]
+}

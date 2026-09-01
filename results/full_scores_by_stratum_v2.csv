@@ -1,0 +1,16 @@
+model,stratum,P,R,F1,gold,pred
+claude-sonnet-5,short,0.75,0.9,0.818,30,36
+claude-sonnet-5,medium,0.463,0.721,0.564,61,95
+claude-sonnet-5,long,0.559,0.792,0.655,96,136
+deepseek-v4-pro,short,0.786,0.733,0.759,30,28
+deepseek-v4-pro,medium,0.679,0.59,0.632,61,53
+deepseek-v4-pro,long,0.75,0.719,0.734,96,92
+gemini-3.1-pro,short,0.71,0.733,0.721,30,31
+gemini-3.1-pro,medium,0.614,0.705,0.656,61,70
+gemini-3.1-pro,long,0.673,0.708,0.69,96,101
+gpt-5.6-terra,short,0.605,0.867,0.712,30,43
+gpt-5.6-terra,medium,0.431,0.721,0.54,61,102
+gpt-5.6-terra,long,0.496,0.688,0.576,96,133
+llama-3.3-70b,short,0.333,0.8,0.471,30,72
+llama-3.3-70b,medium,0.306,0.623,0.411,61,124
+llama-3.3-70b,long,0.474,0.667,0.554,96,135

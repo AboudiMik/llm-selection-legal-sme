@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "RMF Empire, Inc. DBA West Coast Customs (Promoter/Sponsee)",
+    "Bosch International, LLC / XLI Technologies, Inc. (Sponsor)"
+  ],
+  "purpose": "This agreement establishes a sponsorship relationship where WCC will market and promote XLI's 'Light Sheets' technology, including featuring it in television episodes, in exchange for XLI common stock and product supply.",
+  "key_obligations": [
+    "WCC must grant XLI a limited license to use its trademarks for promotional advertising.",
+    "WCC must promote XLI's 'Light Sheets' in its 2016 television episodes, press releases, and media days, which includes installing the product on two Lamborghinis.",
+    "WCC must provide XLI with three 30-second commercial spots per 2016 episode.",
+    "XLI must grant WCC a limited license to use the 'Light Sheets' trademark.",
+    "XLI must issue 5,500,000 common stock shares of XLI Technologies, Inc. to WCC within five days of signing.",
+    "XLI must provide 'Light Sheets' at no cost to WCC for exclusive use in promotional operations and production, and handle its own commercial pre- and post-production."
+  ],
+  "term": "Effective from December 1, 2015, and expires on November 30, 2016. It may be terminated early by mutual consent, in the event of bankruptcy, for uncured significant changes to the benefits schedule, or upon 30 days' written notice for an uncured default.",
+  "risks": [
+    "IP Goodwill Transfer: Each party automatically assigns to the other all goodwill and rights developed in connection with their use of the other party's trademarks.",
+    "Mutual Indemnities: Both parties indemnify each other against claims arising from breaches of the agreement or approved use of the other's trademarks, though neither is liable for the other's negligence.",
+    "Termination Rights: Either party may unilaterally terminate the agreement if the other party fails to cure a default within 30 days of written notice.",
+    "Non-Disparagement: Both parties are strictly prohibited from disparaging the other's trademarks, brand names, affiliated companies, or products.",
+    "Confidentiality: Strict confidentiality obligations apply to the agreement terms and any shared technical or trade secret information."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "Physician Sales & Service, Inc. (PSS)",
+    "Various shareholders of Gulf South Medical Supply, Inc. (Undersigned/Affiliates)"
+  ],
+  "purpose": "To restrict the transfer and disposition of PSS stock received by Gulf South Medical Supply affiliates pursuant to a merger, ensuring compliance with SEC regulations and preserving the transaction's status as a tax-free reorganization.",
+  "key_obligations": [
+    "Undersigned: Refrain from selling, transferring, or reducing risk relative to PSS shares until PSS notifies them that post-merger financial results have been published.",
+    "Undersigned: Hold the shares for their own account and avoid disposing of them in a way that would violate the 'continuity of interest' requirement for a tax-free reorganization.",
+    "PSS: Publish post-merger financial results within 45 days after the end of the first fiscal quarter containing the required period of combined operations.",
+    "PSS: File all required SEC reports for three years following the merger's effective date to allow for Rule 145(d) transfers.",
+    "PSS: Remove restrictive legends from the Undersigned's stock certificates upon request once SEC transfer requirements are met."
+  ],
+  "term": "Not specified, though the agreement imposes a 3-year post-merger SEC reporting obligation on PSS.",
+  "risks": [
+    "The Undersigned's shares are unregistered and subject to strict lock-up restrictions, stop transfer instructions, and restrictive legends.",
+    "PSS explicitly states it has no obligation to file a registration statement covering the disposition of the Undersigned's shares.",
+    "Affiliates who become PSS directors or officers face potential liability under Section 16(b) of the Securities Exchange Act if they sell PSS stock within six months of the merger."
+  ]
+}

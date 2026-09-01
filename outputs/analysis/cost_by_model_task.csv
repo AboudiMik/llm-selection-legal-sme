@@ -1,0 +1,16 @@
+model,task,calls_attempted,calls_ok,cost_usd,cost_per_contract,mean_latency_s,p95_latency_s,tokens_in,tokens_out
+claude-sonnet-5,extraction,240,240,10.4663,0.2617,4.41,10.37,4985976,49438
+claude-sonnet-5,qa,120,120,4.9911,0.1248,2.3,3.35,2487508,1604
+claude-sonnet-5,summarisation,40,40,2.2371,0.0559,15.86,21.33,839256,55860
+deepseek-v4-pro,extraction,240,240,2.0665,0.0517,1.83,3.07,3071642,19841
+deepseek-v4-pro,qa,120,120,1.0127,0.0253,1.31,2.0,1532001,813
+deepseek-v4-pro,summarisation,40,40,0.384,0.0096,5.74,8.06,517807,21355
+gemini-3.1-pro,extraction,240,240,6.4801,0.162,10.27,22.0,3100824,23211
+gemini-3.1-pro,qa,120,120,3.1115,0.0778,6.11,11.5,1547312,1408
+gemini-3.1-pro,summarisation,45,40,1.2562,0.0314,19.78,23.74,522784,17550
+gpt-5.6-terra,extraction,240,240,6.7081,0.1677,5.55,19.36,3040480,52259
+gpt-5.6-terra,qa,120,120,3.063,0.0766,4.67,21.54,1516660,2475
+gpt-5.6-terra,summarisation,40,40,1.4981,0.0375,13.73,18.11,512560,39412
+llama-3.3-70b,extraction,240,240,3.2343,0.0809,2.73,6.45,3078918,31039
+llama-3.3-70b,qa,120,120,1.5987,0.04,1.58,4.81,1536219,932
+llama-3.3-70b,summarisation,40,40,0.549,0.0137,10.43,18.67,519113,8769

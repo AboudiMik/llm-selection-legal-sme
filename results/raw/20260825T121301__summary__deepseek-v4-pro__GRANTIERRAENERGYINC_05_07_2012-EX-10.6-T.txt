@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "SOLANA PETROLEUM EXPLORATION COLOMBIA LIMITED (Sender)",
+    "ECOPETROL S.A. (Shipper/Transporter)"
+  ],
+  "purpose": "Transportation of liquid hydrocarbons (crude oil) through the Trasandino (OTA) and Mansoyá-Orito (OMO) pipelines from the entrance point at Mansoyá to the exit point at Tumaco, under a spot shipping contract.",
+  "key_obligations": [
+    "ECOPETROL: Transport crude oil from the entrance point to the exit point, subject to available capacity and quality specifications.",
+    "ECOPETROL: Receive, custody, ship, decant, and store crude as necessary for transportation.",
+    "Sender: Deliver crude meeting quality specifications (e.g., temperature ≤120°F, viscosity ≤300 cSt at 30°C, BSW ≤0.5%, salt ≤20 PTB, vapor pressure ≤11 psi, API gravity 18-50 degrees).",
+    "Sender: Pay the applicable fees for barrels effectively transported (USD 0.5192 per barrel for OMO and USD 3.1143 per barrel for OTA).",
+    "Sender: Provide a performance bond (insurance policy) in the amount of COP 4,047,000,000.",
+    "Sender: Nominate crude volumes according to the procedures in the Manual of the Shipper.",
+    "Sender: Receive crude at the exit point and arrange for necessary terminal services.",
+    "Sender: Pay shipping tax and any applicable taxes.",
+    "Sender: Maintain confidentiality of information and comply with transparency and social responsibility commitments."
+  ],
+  "term": "From January 30, 2012 until July 29, 2012. May be extended by mutual agreement subject to available capacity.",
+  "risks": [
+    "ECOPETROL's liability is capped at 75% of the value of crude lost or damaged due to its fault, and excludes consequential losses beyond 25% of that amount.",
+    "ECOPETROL is not liable for force majeure, acts of third parties, inherent vice of crude, or faults attributable to the Sender.",
+    "ECOPETROL may suspend service or terminate the contract early for serious default by the Sender, with no indemnity to the Sender.",
+    "The Sender must indemnify ECOPETROL against claims from third parties regarding ownership of the crude.",
+    "The Sender is liable for damages caused to ECOPETROL due to its default, except for gross negligence or willful misconduct by ECOPETROL.",
+    "The Sender must pay a penalty of 10% of the final contract value for non-performance.",
+    "ECOPETROL may terminate the contract unilaterally for reasons such as changes in regulations, fraud, or endangerment of pipeline stability.",
+    "The Sender must provide a bond and maintain it for the contract term plus 120 days; failure to do so allows ECOPETROL to suspend service or terminate.",
+    "The Sender is responsible for all costs related to improving crude quality if it fails to meet specifications.",
+    "The Sender must accept volumetric compensation for quality adjustments, which may affect the volume of crude received."
+  ]
+}

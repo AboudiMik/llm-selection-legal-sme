@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "10.6 Choice of Law; Waiver of Jury Trial; Limitation of Action. This Agreement and performance under this Agreement shall be governed by the laws of the United States of America and of the Commonwealth of Pennsylvania as applied to agreements entered into and to be performed entirely within Pennsylvania between Pennsylvania residents, excluding its conflicts of law provisions. The United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement. The parties expressly waive any right to a jury trial regarding disputes related to this Agreement. Unless otherwise provided by local law without the possibility of contractual waiver or limitation, any legal or other action related to this Agreement must be commenced no later than two years from the date on which the cause of action arose."
+  ]
+}

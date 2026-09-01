@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "6.   AMENDMENT OF SECTION 13.1.  The Distributor Agreement is hereby amended by adding the following sentence to the end of Section 13.1:\n\n                     Notwithstanding the foregoing, the foregoing limitation on liability           shall not be applicable in respect of any liability of Licensor to           Licensee resulting from any misrepresentation in, or breach of, the           terms of Section 6.2 hereof or in respect of Licensor's obligation to           repay Royalty Advances pursuant to Section 3.2 hereof."
+  ]
+}

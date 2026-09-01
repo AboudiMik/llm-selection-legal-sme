@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "DOT COM LLC, OBA Seattle Software Developers (Developer)",
+    "Pelican Delivers Inc. (Client)"
+  ],
+  "purpose": "This agreement outlines the terms for the Developer to design, develop, and deliver the 'Pelican Delivers Application Phase 1' software and related documentation for the Client.",
+  "key_obligations": [
+    "Developer must design, develop, and deliver the software, deliverables, and documentation in accordance with the Statement of Work and delivery schedule.",
+    "Developer must promptly correct any defects, bugs, or deficiencies identified by the Client during acceptance testing.",
+    "Client must conduct good-faith acceptance tests on deliverables and promptly notify the Developer of any required changes or failures.",
+    "Client must provide the Developer with necessary assistance, information, and a license to use its content and marks to complete the project.",
+    "Client must pay all agreed fees, expenses, and potential bonuses to the Developer according to the payment schedule."
+  ],
+  "term": "Commences on December 3, 2018, and continues through the completion or termination of the Developer's services and work product.",
+  "risks": [
+    "Unilateral termination: Either party may terminate the agreement without cause at any time upon two weeks' written notice.",
+    "IP Allocation: While the final product is a 'work made for hire' owned by the Client, the Developer retains full ownership of any pre-existing proprietary technology incorporated into the work.",
+    "Indemnification: Both parties are subject to broad mutual indemnification obligations covering breaches, gross negligence, legal violations, and third-party claims.",
+    "Non-disparagement: The contract includes a strict mutual non-disparagement clause covering online and offline statements, noted as a material term of the agreement.",
+    "Non-exclusivity: The Developer is explicitly allowed to provide software design services to third parties and solicit other clients during the term."
+  ]
+}

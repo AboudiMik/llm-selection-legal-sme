@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "12.1 OWNERSHIP AND LICENSE RIGHTS. NICE or its customers, partners, suppliers, and contractors shall be the sole owner of all NICE Proprietary Information and NICEIntellectual Property (as defined below) to which Contractor has access in the performance of the Manufacturing Outsourcing Services including but not limited to - in connection with the Products. Except for the licenses granted herein, Contractor or anyone on its behalf shall not acquire any right, title, or interest to the NICE Proprietary Information and/or NICE Intellectual Property. Especially, but without limitation, NICE shall remain the owner of all NICE Proprietary Information and NICE Intellectual Property in connection with the design of the Products and the NICE Software. For the purposes hereof, \"NICE INTELLECTUAL PROPERTY\" shall mean Intellectual Property conceived, created, reduced to practice or developed by NICE and/or for NICE by a third party, and/or for NICE by Contractor (including anyone on its behalf) in accordance with this Agreement, for the purpose of performing the Manufacturing Outsourcing Services."
+  ]
+}

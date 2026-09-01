@@ -1,0 +1,15 @@
+{
+  "parties": [
+    "National Football League Alumni - Northern California Chapter (NFLA-NC)",
+    "National Football League Alumni, Inc. (NFLA)",
+    "Food For Athletes, Inc. / Gridiron BioNutrients™ (Company)"
+  ],
+  "purpose": "To amend the existing Endorsement Agreement by adding Gridiron CBD H2O Probiotic™ Water to the list of Licensed Products and detailing the per-unit donation remuneration structure.",
+  "key_obligations": [
+    "Company: Pay a donation of $0.05 per unit of Licensed Products sold within the Contract Territory to the NFLA-NC on a quarterly basis.",
+    "Company: Provide the most recent quarterly sales report of Licensed Products to the NFLA-NC upon request.",
+    "NFLA-NC: Donate 15% of the proceeds received from the Company to the NFLA."
+  ],
+  "term": "not specified",
+  "risks": []
+}

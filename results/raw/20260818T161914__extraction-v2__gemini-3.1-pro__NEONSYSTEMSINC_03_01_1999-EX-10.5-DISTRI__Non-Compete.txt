@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "5.   AMENDMENT OF NATURE OF DISTRIBUTORSHIP.  Licensor and Licensee do hereby agree that this Amendment shall effect a change in the nature of the distributorship granted to Licensee pursuant to the Distributor Agreement from a non-exclusive to an exclusive distributorship (provided, however, that with respect to Licensor's Partitioned Database Facility product, Licensor also may license such product to International Business Machines Corporation for sublicensing and distribution).  Any and all references in the Distributor Agreement to the rights granted to Licensee as non-exclusive rights are hereby amended to provide that such rights are\n\n                                          3\n\nexclusive rights (including without limitation such references in Sections 2.1\n\n\n\n\n\n(Use of Master Copy), 2.2 (Sublicensing) and 2.8 (Trademarks and Copyright).)."
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "15.1 Governing Law; English Language. This Agreement shall be governed, interpreted and construed in accordance with the substantive laws of the Delaware, in the country of the United State of America, without regard to its conflict of laws principles. To the extent that it may otherwise by applicable, the Parties hereby expressly agree to unconditionally waive and exclude from the operation of this Agreement the United Nations Convention on Contracts for the International Sale of Goods, concluded at Vienna, on 11 April 1980, as amended and as may be amended further from time to time. This Agreement has been negotiated and drafted by the Parties in the English language. Any translation into any other language shall not be an official version thereof. In the event any translation of this Agreement is prepared for convenience or for any other purpose, the provisions of the English version shall prevail."
+  ]
+}

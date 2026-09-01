@@ -1,0 +1,12 @@
+{
+  "parties": [
+    "ABP Trust (joint filer)",
+    "Adam D. Portnoy (joint filer)"
+  ],
+  "purpose": "To agree that the Schedule 13G/A and any subsequent amendments regarding shares of Class A Common Stock of The RMR Group Inc. will be filed jointly on behalf of the undersigned parties.",
+  "key_obligations": [
+    "ABP Trust and Adam D. Portnoy mutually agree that the Schedule 13G/A and any signed amendments will be filed on behalf of each of them in accordance with Rule 13d-1(k) of the Securities Exchange Act of 1934."
+  ],
+  "term": "not specified",
+  "risks": []
+}

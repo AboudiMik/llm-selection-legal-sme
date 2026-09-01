@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "Subject to the other provisions of this Agreement, the term of this Agreement shall commence on the Effective Date and shall remain in effect until terminated by either Party upon thirty (30) days' prior written notice."
+  ]
+}

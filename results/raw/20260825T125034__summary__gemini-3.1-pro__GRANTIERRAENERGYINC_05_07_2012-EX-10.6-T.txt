@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "Solana Petroleum Exploration Colombia Limited (Sender)",
+    "Ecopetrol S.A. (Shipper/Transporter)"
+  ],
+  "purpose": "The agreement is for the transportation of liquid hydrocarbons (crude oil) owned or produced by the Sender through the Trasandino and Mansoyá-Orito pipelines from Mansoyá to Tumaco.",
+  "key_obligations": [
+    "Sender: Deliver crude oil meeting specific quality standards at the agreed entrance point.",
+    "Sender: Pay the agreed transportation fees and applicable shipment taxes.",
+    "Sender: Provide a performance bond or irrevocable stand-by letter of credit to guarantee obligations.",
+    "Sender: Receive the transported crude oil at the designated exit point.",
+    "Ecopetrol: Receive, custody, transport, and store the crude oil from the entrance point to the exit point.",
+    "Ecopetrol: Deliver the transported crude oil to the Sender or its designated receiver at the exit point."
+  ],
+  "term": "From January 30, 2012 until July 29, 2012, with the possibility of extension by mutual written agreement.",
+  "risks": [
+    "Ecopetrol's liability for lost or damaged crude is capped at 75% of the crude's value, except in cases of gross negligence or willful misconduct.",
+    "Sender's claims for loss of profit are capped at 25% of the indemnification value owed by Ecopetrol.",
+    "Ecopetrol has unilateral termination rights without indemnity for specific events, including Sender's serious default, fraud, or regulatory changes making obligations more costly, requiring 30 days' notice.",
+    "Sender is subject to a penal pecuniary clause requiring payment of 10% of the final contract value for illegal omissions or deviations.",
+    "Sender must indemnify Ecopetrol against third-party claims regarding ownership or possession of the shipped crude.",
+    "Ecopetrol may suspend services without indemnification to the Sender if the Sender commits a serious default and fails to cure it within a granted grace period."
+  ]
+}

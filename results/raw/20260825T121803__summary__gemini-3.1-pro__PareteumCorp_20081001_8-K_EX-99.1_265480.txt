@@ -1,0 +1,24 @@
+{
+  "parties": [
+    "T-Mobile Netherlands B.V. (Host/Provider)",
+    "Elephant Talk Communication Holding AG (Mobile Virtual Network Enabler / Purchaser)"
+  ],
+  "purpose": "To establish the terms under which T-Mobile provides wholesale mobile network hosting services to Elephant Talk, enabling Elephant Talk to act as a Mobile Virtual Network Enabler (MVNE) and offer mobile telecommunication services to its partners via the T-Mobile network.",
+  "key_obligations": [
+    "T-Mobile must provide the Hosting Services and ensure network connectivity from the Ready for Service Date.",
+    "T-Mobile must provide second-line customer care support to Elephant Talk's back office.",
+    "Elephant Talk must pay upfront development costs and ongoing charges for the Hosting Services.",
+    "Elephant Talk must provide quarterly traffic forecasts and maintain a first-line customer support organization for its customers.",
+    "Elephant Talk must ensure its infrastructure complies with T-Mobile's technical specifications and manage the installation and maintenance of the leased line to the T-Mobile network."
+  ],
+  "term": "An initial period of a redacted duration from the Commercial Launch Date, automatically renewing for consecutive redacted periods unless terminated with a redacted notice period prior to the end of the initial term.",
+  "risks": [
+    "Elephant Talk is subject to an exclusivity/non-compete restriction preventing it from obtaining similar hosting services from others in the Netherlands during the Initial Term.",
+    "Liability for direct physical damage or personal injury is capped at redacted amounts per event and per 12-month period.",
+    "Liability for material breach is capped at a redacted amount per 12-month period.",
+    "Neither party is liable for indirect or consequential losses.",
+    "Elephant Talk indemnifies T-Mobile against high usage, fraud, bad debts of its customers, third-party claims related to its customer relationships, and IP infringement.",
+    "T-Mobile has unilateral rights to suspend or terminate services without liability for suspected fraud, unauthorized use, or network maintenance.",
+    "T-Mobile may require Elephant Talk to provide financial security (e.g., a bank guarantee) under certain conditions."
+  ]
+}

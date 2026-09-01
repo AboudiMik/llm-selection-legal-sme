@@ -1,0 +1,5 @@
+{
+  "spans": [
+    "This Agreement will be governed by the laws of the State of Washington without regards for its conflict of laws principle."
+  ]
+}
